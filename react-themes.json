@@ -1,0 +1,75 @@
+[
+  {
+    "name": "CodedThemes",
+    "description": "Explore Vue.js admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
+    "seeMoreUrl": "https://codedthemes.com/item/category/templates/vue-template/",
+    "products": [
+      {
+        "name": "Free Berry Vuetify VueJs Admin Template",
+        "price": 0,
+        "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
+        "live-url": "https://codedthemes.com/item/berry-free-vuetify-vuejs-admin-template/?ref=evan.vuejs",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-free-vue.png",
+        "download-link": "",
+        "githubstar-link": "",
+        "long-description": "",
+        "meta": [
+          {
+            "keyword": "",
+            "description": "",
+            "og-title": "",
+            "og-description": ""
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "0.7 cubic feet countertop microwave. Has six preset cooking categories and convenience features like Add-A-Minute and Child Lock.",
+            "name": "Kenmore White 17\" Microwave",
+            "image": "kenmore-microwave-17in.jpg",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "55.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Free Mantis Vuetify VueJs Admin Template",
+        "price": 0,
+        "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
+        "live-url": "https://codedthemes.com/item/berry-free-vuetify-vuejs-admin-template/?ref=evan.vuejs",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-free-vue.png",
+        "download-link": "",
+        "githubstar-link": "",
+        "long-description": "",
+        "meta": [
+          {
+            "keyword": "",
+            "description": "",
+            "og-title": "",
+            "og-description": ""
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "0.7 cubic feet countertop microwave. Has six preset cooking categories and convenience features like Add-A-Minute and Child Lock.",
+            "name": "Kenmore White 17\" Microwave",
+            "image": "kenmore-microwave-17in.jpg",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "55.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
