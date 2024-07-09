@@ -5,6 +5,7 @@
     "seeMoreUrl": "https://codedthemes.com/item/category/templates/vue-template/",
     "products": [
       {
+        "id": 1,
         "name": "Free Berry Vuetify VueJs Admin Template",
         "price": 0,
         "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
@@ -38,6 +39,7 @@
         ]
       },
       {
+        "id": 2,
         "name": "Free Mantis Vuetify VueJs Admin Template",
         "price": 0,
         "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
