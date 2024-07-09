@@ -38,35 +38,478 @@
           }
         ]
       },
+
       {
         "id": 2,
-        "name": "Free Mantis Vuetify VueJs Admin Template",
-        "price": 0,
-        "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
-        "live-url": "https://codedthemes.com/item/berry-free-vuetify-vuejs-admin-template/?ref=evan.vuejs",
-        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-free-vue.png",
-        "download-link": "",
-        "githubstar-link": "",
-        "long-description": "",
+        "name": "Pro Vue Admin Dashboard",
+        "price": 59,
+        "description": "Premium VueJs Admin Template with tons of features and customization options",
+        "live-url": "https://themeforest.net/item/pro-vue-admin-dashboard/22867995",
+        "image": "https://example.com/images/pro-vue.png",
+        "download-link": "https://example.com/downloads/pro-vue.zip",
+        "githubstar-link": "https://github.com/example/pro-vue",
+        "long-description": "Pro Vue Admin Dashboard is a premium template offering advanced features and great customization.",
         "meta": [
           {
-            "keyword": "",
-            "description": "",
-            "og-title": "",
-            "og-description": ""
+            "keyword": "vue, admin, dashboard",
+            "description": "Premium VueJs Admin Template",
+            "og-title": "Pro Vue Admin Dashboard",
+            "og-description": "Premium VueJs Admin Template with advanced features."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "0.7 cubic feet countertop microwave. Has six preset cooking categories and convenience features like Add-A-Minute and Child Lock.",
-            "name": "Kenmore White 17\" Microwave",
-            "image": "kenmore-microwave-17in.jpg",
+            "description": "Advanced VueJs Admin Template with multiple themes and components.",
+            "name": "Pro Vue Admin Dashboard",
+            "image": "https://example.com/images/pro-vue.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
-              "price": "55.00",
+              "price": "59.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Material Dashboard Vue",
+        "price": 49,
+        "description": "Material Design Admin Template for VueJs",
+        "live-url": "https://www.creative-tim.com/product/material-dashboard-vue",
+        "image": "https://example.com/images/material-dashboard-vue.png",
+        "download-link": "https://example.com/downloads/material-dashboard-vue.zip",
+        "githubstar-link": "https://github.com/creativetimofficial/material-dashboard-vue",
+        "long-description": "Material Dashboard Vue is built on the material design principles and offers a clean and modern interface.",
+        "meta": [
+          {
+            "keyword": "material, vue, admin, dashboard",
+            "description": "Material Design Admin Template for VueJs",
+            "og-title": "Material Dashboard Vue",
+            "og-description": "VueJs admin template based on Material Design."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Material Design Admin Template with various UI components and widgets.",
+            "name": "Material Dashboard Vue",
+            "image": "https://example.com/images/material-dashboard-vue.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "49.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vuestic Admin",
+        "price": 39,
+        "description": "Responsive VueJs Admin Template with customizable features",
+        "live-url": "https://vuestic.epicmax.co/",
+        "image": "https://example.com/images/vuestic.png",
+        "download-link": "https://example.com/downloads/vuestic.zip",
+        "githubstar-link": "https://github.com/epicmaxco/vuestic-admin",
+        "long-description": "Vuestic Admin is a responsive VueJs admin template that offers a wide range of features and customization options.",
+        "meta": [
+          {
+            "keyword": "vuestic, vue, admin, dashboard",
+            "description": "Responsive VueJs Admin Template",
+            "og-title": "Vuestic Admin",
+            "og-description": "VueJs admin template with customizable features."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Responsive VueJs Admin Template with a variety of UI components.",
+            "name": "Vuestic Admin",
+            "image": "https://example.com/images/vuestic.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "39.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vue Black Dashboard",
+        "price": 29,
+        "description": "Dark themed VueJs Admin Dashboard",
+        "live-url": "https://www.creative-tim.com/product/vue-black-dashboard",
+        "image": "https://example.com/images/vue-black-dashboard.png",
+        "download-link": "https://example.com/downloads/vue-black-dashboard.zip",
+        "githubstar-link": "https://github.com/creativetimofficial/vue-black-dashboard",
+        "long-description": "Vue Black Dashboard is a beautiful dark-themed admin template for VueJs.",
+        "meta": [
+          {
+            "keyword": "vue, admin, dashboard, dark",
+            "description": "Dark themed VueJs Admin Dashboard",
+            "og-title": "Vue Black Dashboard",
+            "og-description": "Beautiful dark-themed admin template for VueJs."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Dark themed VueJs Admin Dashboard with various UI components.",
+            "name": "Vue Black Dashboard",
+            "image": "https://example.com/images/vue-black-dashboard.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "29.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "CoreUI Vue",
+        "price": 0,
+        "description": "Open Source VueJs Admin Template",
+        "live-url": "https://coreui.io/vue",
+        "image": "https://example.com/images/coreui-vue.png",
+        "download-link": "https://example.com/downloads/coreui-vue.zip",
+        "githubstar-link": "https://github.com/coreui/coreui-vue",
+        "long-description": "CoreUI Vue is a free and open-source admin template for VueJs.",
+        "meta": [
+          {
+            "keyword": "coreui, vue, admin, dashboard",
+            "description": "Open Source VueJs Admin Template",
+            "og-title": "CoreUI Vue",
+            "og-description": "Free and open-source admin template for VueJs."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Open source VueJs Admin Template with a range of components.",
+            "name": "CoreUI Vue",
+            "image": "https://example.com/images/coreui-vue.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Vue Material Dashboard",
+        "price": 19,
+        "description": "Minimalist Material Design Admin Template for VueJs",
+        "live-url": "https://www.creative-tim.com/product/vue-material-dashboard",
+        "image": "https://example.com/images/vue-material-dashboard.png",
+        "download-link": "https://example.com/downloads/vue-material-dashboard.zip",
+        "githubstar-link": "https://github.com/creativetimofficial/vue-material-dashboard",
+        "long-description": "Vue Material Dashboard is a minimalist admin template based on Material Design.",
+        "meta": [
+          {
+            "keyword": "vue, material, admin, dashboard",
+            "description": "Minimalist Material Design Admin Template for VueJs",
+            "og-title": "Vue Material Dashboard",
+            "og-description": "Minimalist admin template based on Material Design for VueJs."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Minimalist Material Design Admin Template with various UI elements.",
+            "name": "Vue Material Dashboard",
+            "image": "https://example.com/images/vue-material-dashboard.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "19.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Vue Element Admin",
+        "price": 49,
+        "description": "Advanced VueJs Admin Template with Element UI",
+        "live-url": "https://panjiachen.github.io/vue-element-admin",
+        "image": "https://example.com/images/vue-element-admin.png",
+        "download-link": "https://example.com/downloads/vue-element-admin.zip",
+        "githubstar-link": "https://github.com/PanJiaChen/vue-element-admin",
+        "long-description": "Vue Element Admin is an advanced admin template built with Vue and Element UI.",
+        "meta": [
+          {
+            "keyword": "vue, element, admin, dashboard",
+            "description": "Advanced VueJs Admin Template with Element UI",
+            "og-title": "Vue Element Admin",
+            "og-description": "Admin template built with Vue and Element UI."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Advanced VueJs Admin Template with a variety of features.",
+            "name": "Vue Element Admin",
+            "image": "https://example.com/images/vue-element-admin.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "49.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Vue Paper Dashboard",
+        "price": 25,
+        "description": "Clean and minimal VueJs admin template",
+        "live-url": "https://www.creative-tim.com/product/vue-paper-dashboard",
+        "image": "https://example.com/images/vue-paper-dashboard.png",
+        "download-link": "https://example.com/downloads/vue-paper-dashboard.zip",
+        "githubstar-link": "https://github.com/creativetimofficial/vue-paper-dashboard",
+        "long-description": "Vue Paper Dashboard is a clean and minimal admin template for VueJs.",
+        "meta": [
+          {
+            "keyword": "vue, paper, admin, dashboard",
+            "description": "Clean and minimal VueJs admin template",
+            "og-title": "Vue Paper Dashboard",
+            "og-description": "Clean and minimal admin template for VueJs."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Clean and minimal admin template with various features.",
+            "name": "Vue Paper Dashboard",
+            "image": "https://example.com/images/vue-paper-dashboard.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "25.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Shards Dashboard Lite Vue",
+        "price": 0,
+        "description": "Free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
+        "live-url": "https://designrevision.com/downloads/shards-dashboard-lite-vue/",
+        "image": "https://example.com/images/shards-dashboard-lite-vue.png",
+        "download-link": "https://example.com/downloads/shards-dashboard-lite-vue.zip",
+        "githubstar-link": "https://github.com/designrevision/shards-dashboard-lite-vue",
+        "long-description": "Shards Dashboard Lite Vue is a free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
+        "meta": [
+          {
+            "keyword": "shards, vue, admin, dashboard, free",
+            "description": "Free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
+            "og-title": "Shards Dashboard Lite Vue",
+            "og-description": "Free Vue admin dashboard template pack."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free Vue admin dashboard template pack with a modern design system.",
+            "name": "Shards Dashboard Lite Vue",
+            "image": "https://example.com/images/shards-dashboard-lite-vue.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Vue Light Bootstrap Dashboard",
+        "price": 0,
+        "description": "Free VueJS admin template based on Bootstrap 4.",
+        "live-url": "https://www.creative-tim.com/product/vue-light-bootstrap-dashboard",
+        "image": "https://example.com/images/vue-light-bootstrap-dashboard.png",
+        "download-link": "https://example.com/downloads/vue-light-bootstrap-dashboard.zip",
+        "githubstar-link": "https://github.com/creativetimofficial/vue-light-bootstrap-dashboard",
+        "long-description": "Vue Light Bootstrap Dashboard is a free admin template based on Bootstrap 4.",
+        "meta": [
+          {
+            "keyword": "vue, bootstrap, admin, dashboard, free",
+            "description": "Free VueJS admin template based on Bootstrap 4.",
+            "og-title": "Vue Light Bootstrap Dashboard",
+            "og-description": "Free VueJS admin template based on Bootstrap 4."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free VueJS admin template based on Bootstrap 4 with various UI components.",
+            "name": "Vue Light Bootstrap Dashboard",
+            "image": "https://example.com/images/vue-light-bootstrap-dashboard.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Vue Notus Dashboard",
+        "price": 0,
+        "description": "Free and Open Source VueJS Dashboard.",
+        "live-url": "https://www.creative-tim.com/product/vue-notus-dashboard",
+        "image": "https://example.com/images/vue-notus-dashboard.png",
+        "download-link": "https://example.com/downloads/vue-notus-dashboard.zip",
+        "githubstar-link": "https://github.com/creativetimofficial/vue-notus-dashboard",
+        "long-description": "Vue Notus Dashboard is a free and open-source admin template.",
+        "meta": [
+          {
+            "keyword": "vue, admin, dashboard, free, open source",
+            "description": "Free and open-source VueJS Dashboard.",
+            "og-title": "Vue Notus Dashboard",
+            "og-description": "Free and open-source VueJS Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free and open-source VueJS Dashboard with various UI elements.",
+            "name": "Vue Notus Dashboard",
+            "image": "https://example.com/images/vue-notus-dashboard.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Vuexy - Vuejs Admin Dashboard Template",
+        "price": 24,
+        "description": "Powerful & comprehensive VueJs admin dashboard template.",
+        "live-url": "https://themeforest.net/item/vuexy-vuejs-admin-dashboard-template/23328599",
+        "image": "https://example.com/images/vuexy-vuejs.png",
+        "download-link": "https://example.com/downloads/vuexy-vuejs.zip",
+        "githubstar-link": "",
+        "long-description": "Vuexy is a powerful and comprehensive admin dashboard template for VueJs.",
+        "meta": [
+          {
+            "keyword": "vue, vuexy, admin, dashboard",
+            "description": "Powerful & comprehensive VueJs admin dashboard template.",
+            "og-title": "Vuexy - Vuejs Admin Dashboard Template",
+            "og-description": "Powerful & comprehensive VueJs admin dashboard template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Powerful & comprehensive VueJs admin dashboard template with multiple features.",
+            "name": "Vuexy - Vuejs Admin Dashboard Template",
+            "image": "https://example.com/images/vuexy-vuejs.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "24.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Adminify",
+        "price": 19,
+        "description": "Fully featured VueJS admin template.",
+        "live-url": "https://wrappixel.com/templates/adminify-vuejs/",
+        "image": "https://example.com/images/adminify.png",
+        "download-link": "https://example.com/downloads/adminify.zip",
+        "githubstar-link": "https://github.com/wrappixel/adminify",
+        "long-description": "Adminify is a fully featured admin template for VueJS.",
+        "meta": [
+          {
+            "keyword": "vue, adminify, admin, dashboard",
+            "description": "Fully featured VueJS admin template.",
+            "og-title": "Adminify",
+            "og-description": "Fully featured admin template for VueJS."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Fully featured VueJS admin template with various components.",
+            "name": "Adminify",
+            "image": "https://example.com/images/adminify.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "19.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Vue Admin",
+        "price": 0,
+        "description": "Free admin template for VueJS.",
+        "live-url": "https://github.com/vue-bulma/vue-admin",
+        "image": "https://example.com/images/vue-admin.png",
+        "download-link": "https://example.com/downloads/vue-admin.zip",
+        "githubstar-link": "https://github.com/vue-bulma/vue-admin",
+        "long-description": "Vue Admin is a free and open-source admin template for VueJS.",
+        "meta": [
+          {
+            "keyword": "vue, admin, dashboard, free",
+            "description": "Free admin template for VueJS.",
+            "og-title": "Vue Admin",
+            "og-description": "Free admin template for VueJS."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free and open-source admin template with various UI components.",
+            "name": "Vue Admin",
+            "image": "https://example.com/images/vue-admin.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
               "priceCurrency": "USD"
             }
           }
