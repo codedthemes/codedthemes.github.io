@@ -10,29 +10,29 @@
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://berrydashboard.io/free/",
-        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-free-vue.png",
+        "image": "https://codedthemes.com/wp-content/uploads/2024/07/Berry.png,
         "download-link": "https://codedthemes.com/item/berry-mui-free-react-admin-template/",
         "githubstar-link": "https://github.com/codedthemes/berry-free-react-admin-template",
         "long-description": "Berry MUI Free React Dashboard is a sophisticated and versatile admin template designed to enhance user experience with a sleek, modern interface. Built with React and Material-UI, it offers high customizability and responsiveness for optimal performance across all devices.	<br/><br/>Some great features of Berry – <br/><ul><li>Modern aesthetics UI design</li><li>Material-UI components</li><li>Fully Responsive, all modern browser supported</li><li>Easy to use code structure</li><li>Flexible & High-Performance code</li></ul>",
         "meta": [
           {
-            "keyword": "",
-            "description": "",
-            "og-title": "",
-            "og-description": ""
+            "keyword": "Berry Free React template",
+            "description": "Download berry dashboard a free React Material UI admin template",
+            "og-title": "Berry Free React template",
+            "og-description": "Free React Material UI Admin Template"
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "0.7 cubic feet countertop microwave. Has six preset cooking categories and convenience features like Add-A-Minute and Child Lock.",
-            "name": "Kenmore White 17\" Microwave",
-            "image": "kenmore-microwave-17in.jpg",
+            "description": "Download berry dashboard a free React Material UI admin template",
+            "name": "Berry Free React Dashboard",
+            "image": "https://codedthemes.com/wp-content/uploads/2024/07/Berry.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
-              "price": "55.00",
+              "price": "0",
               "priceCurrency": "USD"
             }
           }
