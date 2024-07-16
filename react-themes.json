@@ -28,7 +28,7 @@
             "type": "Product",
             "description": "Download berry dashboard a free React Material UI admin template",
             "name": "Berry Free React Dashboard",
-            "image": "https://codedthemes.com/wp-content/uploads/2024/07/Berry.png",
+            "image": "Berry.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
