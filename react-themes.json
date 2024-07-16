@@ -6,14 +6,17 @@
     "products": [
       {
         "id": 1,
-        "name": "Free Berry Vuetify VueJs Admin Template",
+        "name": "Berry Free React Dashboard",
         "price": 0,
-        "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
-        "live-url": "https://codedthemes.com/item/berry-free-vuetify-vuejs-admin-template/?ref=evan.vuejs",
+        "description": "Free React Material UI Admin Template",
+        "live-url": "https://berrydashboard.io/free/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-free-vue.png",
-        "download-link": "",
-        "githubstar-link": "",
-        "long-description": "",
+        "download-link": "https://codedthemes.com/item/berry-mui-free-react-admin-template/",
+        "githubstar-link": "https://github.com/codedthemes/berry-free-react-admin-template",
+        "long-description": "Berry MUI Free React Dashboard is a sophisticated and versatile admin template designed to enhance user experience with a sleek, modern interface. Built with React and Material-UI, it offers high customizability and responsiveness for optimal performance across all devices.
+        Some great features of Berry 
+        – Modern aesthetics UI design
+        ",
         "meta": [
           {
             "keyword": "",
