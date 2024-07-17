@@ -41,13 +41,13 @@
 
       {
         "id": 2,
-        "name": "Pro Vue Admin Dashboard",
-        "price": 59,
-        "description": "Premium VueJs Admin Template with tons of features and customization options",
-        "live-url": "https://themeforest.net/item/pro-vue-admin-dashboard/22867995",
+        "name": "Mantis Free React Dashboard",
+        "price": 0,
+        "description": "Download mantis dashboard a free React Material UI admin template",
+        "live-url": "https://mantisdashboard.io/free/",
         "image": "https://example.com/images/pro-vue.png",
-        "download-link": "https://example.com/downloads/pro-vue.zip",
-        "githubstar-link": "https://github.com/example/pro-vue",
+        "download-link": "https://codedthemes.com/item/mantis-free-mui-admin-template/",
+        "githubstar-link": "https://github.com/codedthemes/mantis-free-react-admin-template",
         "long-description": "Pro Vue Admin Dashboard is a premium template offering advanced features and great customization.",
         "meta": [
           {
