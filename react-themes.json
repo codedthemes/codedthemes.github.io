@@ -48,7 +48,7 @@
         "image": "https://example.com/images/pro-vue.png",
         "download-link": "https://example.com/downloads/pro-vue.zip",
         "githubstar-link": "https://github.com/example/pro-vue",
-        "long-description": "Mantis is a free open-source React Material UI dashboard template crafted for enhanced flexibility and customizability in web development. Whether you're developing a small application or a large enterprise solution it is best option ever.<br/><br/>Some great features of Mantis –<br/><ul><li>Professional user interface</li><li>Support React18</li><li> Material UI React components</li><li> Responsive</li><li> Browser Supported – chrome, mozilla, safari, opera, edge</li>><li> Easy to understand code structure</li></ul>",
+        "long-description": "Mantis is a free open-source React Material UI dashboard template crafted for enhanced flexibility and customizability in web development. Whether you're developing a small application or a large enterprise solution it is best option ever.<br/><br/>Some great features of Mantis –<br/><ul><li>Professional user interface</li><li>Support React18</li><li> Material UI React components</li><li> Responsive</li><li> Browser Supported – chrome, mozilla, safari, opera, edge</li><li> Easy to understand code structure</li></ul>",
         "meta": [
           {
             "keyword": "vue, admin, dashboard",
