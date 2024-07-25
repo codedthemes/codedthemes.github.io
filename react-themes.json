@@ -177,33 +177,33 @@
       },
       {
         "id": 6,
-        "name": "CoreUI Vue",
-        "price": 0,
-        "description": "Open Source VueJs Admin Template",
-        "live-url": "https://coreui.io/vue",
-        "image": "https://example.com/images/coreui-vue.png",
-        "download-link": "https://example.com/downloads/coreui-vue.zip",
-        "githubstar-link": "https://github.com/coreui/coreui-vue",
-        "long-description": "CoreUI Vue is a free and open-source admin template for VueJs.",
+        "name": "Mantis React Dashboard",
+        "price": 69,
+        "description": "React Material UI Admin Template",
+        "live-url": "https://mui.com/store/previews/mantis-react-admin-dashboard-template/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium.png",
+        "download-link": "https://mui.com/store/items/mantis-react-admin-dashboard-template/",
+        "githubstar-link": "",
+        "long-description": "Mantis React Dashboard is a premium admin template designed for high performance and flexibility. It is built using React and Material UI, which offers a modern and clean design. It includes a variety of UI components, elements, widgets, applications, pages, plugins, forms, tables, maps, and charts to help you quickly set up your project.<br/><br/>Features –<br/><ul><li>Support live customizer </li><li>font selection options</li><li> 8+ Color presets</li><li>Animation & color shadows</li><li>LTR / RTL </li><li>Light/dark and Collapse layouts</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li><li> Layout width - Container, Fluid</li></ul>",
         "meta": [
           {
-            "keyword": "coreui, vue, admin, dashboard",
-            "description": "Open Source VueJs Admin Template",
-            "og-title": "CoreUI Vue",
-            "og-description": "Free and open-source admin template for VueJs."
+            "keyword": "Mantis React Admin Template",
+            "description": "Download Mantis, a premium React Material UI admin template.",
+            "og-title": "Mantis React Admin Template",
+            "og-description": "Mantis Premium React Material UI Admin Template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Open source VueJs Admin Template with a range of components.",
-            "name": "CoreUI Vue",
-            "image": "https://example.com/images/coreui-vue.png",
+            "description": "Download Mantis, a premium React Material UI admin template.",
+            "name": "Mantis React Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
-              "price": "0.00",
+              "price": "69.00",
               "priceCurrency": "USD"
             }
           }
