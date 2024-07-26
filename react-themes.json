@@ -143,19 +143,19 @@
       },
       {
         "id": 5,
-        "name": "Berry React Dashboard",
+        "name": "Berry React MUI Dashboard",
         "price": 69,
         "description": "React Material UI Admin Template",
         "live-url": "https://mui.com/store/previews/berry-react-material-admin/",
         "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium.png",
         "download-link": "https://mui.com/store/items/berry-react-material-admin/",
         "githubstar-link": "",
-        "long-description": "Berry is a highly versatile and modern admin dashboard built with React and Material-UI. The sleek and modern interface view of Berry enhances the user experience. It comes with a variety of pre-built components, widgets, pages, apps, tables, forms, charts, plug-ins, etc., which makes it an ideal choice for developers. The responsive design of Berry ensures seamless functionality across all devices. As well as clean, well-structured codebase facilitates easy development and maintenance. It also support User Management app, Chat app, Customer-centric app etc.<br/><br/>Features –<br/><ul><li>Modern aesthetics UI design</li><li>Get start with the skeleton version</li><li> 6+ Color presets</li><li>Light / Dark Layouts</li><li>LTR / RTL</li><li>Modern browser support</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li></ul>",
+        "long-description": "Berry is a highly versatile and modern admin dashboard built with React and Material-UI. The sleek and modern interface view of Berry enhances the user experience. It comes with a variety of pre-built components, widgets, pages, apps, tables, forms, charts, plug-ins, etc., which makes it an ideal choice for developers. The responsive design of Berry ensures seamless functionality across all devices. As well as clean, well-structured codebase facilitates easy development and maintenance. It also support User Management app, Chat app, Customer-centric app etc.<br/><br/>Features –<br/><ul><li>TypeScript support</li><li>Built with React Hooks API</li><li>Redux toolkit</li><li>Next.js with app router</li><li>Modern aesthetics UI design</li><li>Get start with the skeleton version</li><li> 6+ Color presets</li><li>Light / Dark Layouts</li><li>LTR / RTL</li><li>Modern browser support</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li></ul>",
         "meta": [
           {
-            "keyword": "Berry React Admin Template",
+            "keyword": "Berry React MUI Admin Template",
             "description": "Download Berry, a premium React Material UI admin template.",
-            "og-title": "Berry React Admin Template",
+            "og-title": "Berry React MUI Admin Template",
             "og-description": "Berry Premium React Material UI Admin Template."
           }
         ],
@@ -164,7 +164,7 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Berry, a premium React Material UI admin template.",
-            "name": "Berry React Admin Template",
+            "name": "Berry React MUI Dashboard",
             "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium.png  ",
             "offers": {
               "type": "Offer",
@@ -177,19 +177,19 @@
       },
       {
         "id": 6,
-        "name": "Mantis React Dashboard",
+        "name": "Mantis React MUI Dashboard",
         "price": 69,
         "description": "React Material UI Admin Template",
         "live-url": "https://mui.com/store/previews/mantis-react-admin-dashboard-template/",
         "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium.png",
         "download-link": "https://mui.com/store/items/mantis-react-admin-dashboard-template/",
         "githubstar-link": "",
-        "long-description": "Mantis React Dashboard is a premium admin template designed for high performance and flexibility. It is built using React and Material UI, which offers a modern and clean design. It includes a variety of UI components, elements, widgets, applications, pages, plugins, forms, tables, maps, and charts to help you quickly set up your project.<br/><br/>Features –<br/><ul><li>Support live customizer </li><li>font selection options</li><li> 8+ Color presets</li><li>Animation & color shadows</li><li>LTR / RTL </li><li>Light/dark and Collapse layouts</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li><li> Layout width - Container, Fluid</li></ul>",
+        "long-description": "Mantis React Dashboard is a premium admin template designed for high performance and flexibility. It is built using React and Material UI, which offers a modern and clean design. It includes a variety of UI components, elements, widgets, applications, pages, plugins, forms, tables, maps, and charts to help you quickly set up your project.<br/><br/>Features –<br/><ul><li>TypeScript support</li><li>Built with React Hooks API</li><li>Support live customizer </li><li>font selection options</li><li> 8+ Color presets</li><li>Animation & color shadows</li><li>LTR / RTL </li><li>Light/dark and Collapse layouts</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li><li> Layout width - Container, Fluid</li></ul>",
         "meta": [
           {
-            "keyword": "Mantis React Admin Template",
+            "keyword": "Mantis React MUI Admin Template",
             "description": "Download Mantis, a premium React Material UI admin template.",
-            "og-title": "Mantis React Admin Template",
+            "og-title": "Mantis React MUI Admin Template",
             "og-description": "Mantis Premium React Material UI Admin Template."
           }
         ],
@@ -198,7 +198,7 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Mantis, a premium React Material UI admin template.",
-            "name": "Mantis React Admin Template",
+            "name": "Mantis React MUI Dashboard",
             "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium.png",
             "offers": {
               "type": "Offer",
@@ -211,33 +211,33 @@
       },
       {
         "id": 7,
-        "name": "Vue Material Dashboard",
-        "price": 19,
-        "description": "Minimalist Material Design Admin Template for VueJs",
-        "live-url": "https://www.creative-tim.com/product/vue-material-dashboard",
-        "image": "https://example.com/images/vue-material-dashboard.png",
-        "download-link": "https://example.com/downloads/vue-material-dashboard.zip",
-        "githubstar-link": "https://github.com/creativetimofficial/vue-material-dashboard",
-        "long-description": "Vue Material Dashboard is a minimalist admin template based on Material Design.",
+        "name": "Datta Able React Dashboard",
+        "price": 35,
+        "description": "Premium React Bootstrap Admin Template",
+        "live-url": "https://codedthemes.com/demos/admin-templates/datta-able/react/default/login",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/datta-premium.png",
+        "download-link": "https://codedthemes.com/item/datta-able-react-admin-template/",
+        "githubstar-link": "",
+        "long-description": "Datta Able is a powerful and flexible admin dashboard, which is not just about managing data but revolutionizing your entire approach to web administration. It is crafted using React and Bootstrap, which offers a variety of pre-built components, widgets, cards, layouts, charts, and pages.  Datta Able makes it easy to customize and integrate into any project. Well, its responsive design ensures seamless functionality across all devices. <br/><br/>Features –<br/><ul><li>Responsive design </li><li>Modular architecture</li><li> Rich UI components</li><li>Advanced customization</li><li>Modular and scalable architecture </li><li>Light/dark and collapse layouts</li><li>Well structure code & folder structure</li><li> Developer-friendly</li><li> Integrated plugins</li></ul> ",
         "meta": [
           {
-            "keyword": "vue, material, admin, dashboard",
-            "description": "Minimalist Material Design Admin Template for VueJs",
-            "og-title": "Vue Material Dashboard",
-            "og-description": "Minimalist admin template based on Material Design for VueJs."
+            "keyword": "Datta Able React Admin Template",
+            "description": "Download Datta Able, a premium React Bootstrap admin template.",
+            "og-title": "Datta Able React Admin Template",
+            "og-description": "Datta Able Premium React Bootstrap Admin Template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Minimalist Material Design Admin Template with various UI elements.",
-            "name": "Vue Material Dashboard",
-            "image": "https://example.com/images/vue-material-dashboard.png",
+            "description": "Download Datta Able, a premium React Bootstrap admin template.",
+            "name": "Datta Able React Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/datta-premium.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
-              "price": "19.00",
+              "price": "35.00",
               "priceCurrency": "USD"
             }
           }
@@ -245,33 +245,33 @@
       },
       {
         "id": 8,
-        "name": "Vue Element Admin",
-        "price": 49,
-        "description": "Advanced VueJs Admin Template with Element UI",
-        "live-url": "https://panjiachen.github.io/vue-element-admin",
-        "image": "https://example.com/images/vue-element-admin.png",
-        "download-link": "https://example.com/downloads/vue-element-admin.zip",
-        "githubstar-link": "https://github.com/PanJiaChen/vue-element-admin",
-        "long-description": "Vue Element Admin is an advanced admin template built with Vue and Element UI.",
+        "name": "Gradient Able React Dashboard",
+        "price": 35,
+        "description": "Premium React Bootstrap Admin Template",
+        "live-url": "https://codedthemes.com/demos/admin-templates/gradient-able/react/default/app/dashboard/analytics",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradient-premium.png",
+        "download-link": "https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/",
+        "githubstar-link": "",
+        "long-description": "Gradient Able offers a comprehensive selection of layouts to meet various administrative needs and data management approaches. Whether you're handling CRM, e-commerce, or analytics, there's a layout that fits perfectly. Access a wide range of UI components crafted for efficiency and ease of use. It includes advanced tables, charts, widgets, graphs, and icons to speed up your development process.<br/><br/>Features –<br/><ul><li>Hooks </li><li>SASS powered</li><li> Fully responsive layout</li><li>Workable application</li><li>Modular and scalable architecture </li><li>React Router</li><li>React Hooks</li><li> Developer-friendly</li><li> Integrated plugins</li></ul>",
         "meta": [
           {
-            "keyword": "vue, element, admin, dashboard",
-            "description": "Advanced VueJs Admin Template with Element UI",
-            "og-title": "Vue Element Admin",
-            "og-description": "Admin template built with Vue and Element UI."
+            "keyword": "Gradient Able React Admin Template",
+            "description": "Download Gradient Able, a premium React Bootstrap admin template.",
+            "og-title": "Gradient Able React Admin Template",
+            "og-description": "Gradient Able Premium React Bootstrap Admin Template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Advanced VueJs Admin Template with a variety of features.",
-            "name": "Vue Element Admin",
-            "image": "https://example.com/images/vue-element-admin.png",
+            "description": "Download Gradient Able, a premium React Bootstrap admin template.",
+            "name": "Gradient Able React Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradient-premium.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
-              "price": "49.00",
+              "price": "35.00",
               "priceCurrency": "USD"
             }
           }
