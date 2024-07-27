@@ -283,7 +283,7 @@
         "price": 0,
         "description": "Free React Admin Template",
         "live-url": "https://ableproadmin.com/react/free/",
-        "image": "https://example.com/images/vue-paper-dashboard.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-free.png",
         "download-link": "https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=phoenixcoded&repo=able-pro-free-admin-dashboard-template&type=star&count=true&size=large",
         "long-description": "Able pro free react admin template, a great starting point for beginners in advanced web applications. The free version offers essential tools for data visualization, simplifying the management and presentation of your data. <br/><br/><b>Some great features of Datta Able –</b><br/><ul><li>Developer friendly</li><li>Highly responsive</li><li> Clean code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
@@ -301,7 +301,7 @@
             "type": "Product",
             "description": "Download Able Pro, a free React admin template.",
             "name": "Able Pro Free React Dashboard",
-            "image": "https://example.com/images/vue-paper-dashboard.png",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-free.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -314,28 +314,29 @@
       {
         "id": 10,
         "name": "Able Pro React MUI Dashboard",
-        "price": 0,
-        "description": "Free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
-        "live-url": "https://designrevision.com/downloads/shards-dashboard-lite-vue/",
-        "image": "https://example.com/images/shards-dashboard-lite-vue.png",
-        "download-link": "https://example.com/downloads/shards-dashboard-lite-vue.zip",
-        "githubstar-link": "https://github.com/designrevision/shards-dashboard-lite-vue",
-        "long-description": "Shards Dashboard Lite Vue is a free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
+        "price": 17,
+        "description": "React Material UI Admin Template",
+        "live-url": "https://ableproadmin.com/react/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-premium.png",
+        "download-link": "https://themeforest.net/item/able-pro-react-mui-admin-dashboard-template/50427053",
+        "githubstar-link": "",
+        "long-description": "Able Pro, is a powerful and feature-rich MUI React admin template designed to meet the needs of modern web applications. No matter if you're building an eCommerce site, project management system, crypto admin interface, CRM, & SaaS project, Able Pro has you covered. The responsive design works well on all devices, and the clean codebase ensures easy integration and maintenance. It comes with gulp build tools, SCSS variables for customization, and supports RTL languages. <br/><br/><b>Features –</b><br/><ul><li>npm/yarn package manager </li><li>SASS powered</li><li> Gulp build tools</li><li>Retina Ready and Mobile-first responsive design.</li><li>Modular and scalable architecture </li><li>Full/Container width</li><li>10+ Primary color options</li><li> Code Standard that makes easy developer experience</li></ul>
+",
         "meta": [
           {
-            "keyword": "shards, vue, admin, dashboard, free",
-            "description": "Free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
-            "og-title": "Shards Dashboard Lite Vue",
-            "og-description": "Free Vue admin dashboard template pack."
+            "keyword": "Able Pro React MUI Admin Template",
+            "description": "Download Able Pro, a premium React Material UI admin template.",
+            "og-title": "Able Pro React MUI Admin Template",
+            "og-description": "Able Pro Premium React Material UI Admin Template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Free Vue admin dashboard template pack with a modern design system.",
-            "name": "Shards Dashboard Lite Vue",
-            "image": "https://example.com/images/shards-dashboard-lite-vue.png",
+            "description": "Download Able Pro, a premium React Material UI admin template.",
+            "name": "Able Pro   React MUI Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-premium.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
