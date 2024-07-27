@@ -279,33 +279,33 @@
       },
       {
         "id": 9,
-        "name": "Vue Paper Dashboard",
-        "price": 25,
-        "description": "Clean and minimal VueJs admin template",
-        "live-url": "https://www.creative-tim.com/product/vue-paper-dashboard",
+        "name": "Able Pro Free React Dashboard",
+        "price": 0,
+        "description": "Free React Admin Template",
+        "live-url": "https://ableproadmin.com/react/free/",
         "image": "https://example.com/images/vue-paper-dashboard.png",
-        "download-link": "https://example.com/downloads/vue-paper-dashboard.zip",
-        "githubstar-link": "https://github.com/creativetimofficial/vue-paper-dashboard",
-        "long-description": "Vue Paper Dashboard is a clean and minimal admin template for VueJs.",
+        "download-link": "https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=phoenixcoded&repo=able-pro-free-admin-dashboard-template&type=star&count=true&size=large",
+        "long-description": "Able pro free react admin template, a great starting point for beginners in advanced web applications. The free version offers essential tools for data visualization, simplifying the management and presentation of your data. <br/><br/><b>Some great features of Datta Able –</b><br/><ul><li>Developer friendly</li><li>Highly responsive</li><li> Clean code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
         "meta": [
           {
-            "keyword": "vue, paper, admin, dashboard",
-            "description": "Clean and minimal VueJs admin template",
-            "og-title": "Vue Paper Dashboard",
-            "og-description": "Clean and minimal admin template for VueJs."
+            "keyword": "Able Pro Free React Template",
+            "description": "Download Able Pro, a free React admin template.",
+            "og-title": "Able Pro Free React Template",
+            "og-description": "Download Able Pro, a free React admin template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Clean and minimal admin template with various features.",
-            "name": "Vue Paper Dashboard",
+            "description": "Download Able Pro, a free React admin template.",
+            "name": "Able Pro Free React Dashboard",
             "image": "https://example.com/images/vue-paper-dashboard.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
-              "price": "25.00",
+              "price": "0",
               "priceCurrency": "USD"
             }
           }
@@ -313,7 +313,7 @@
       },
       {
         "id": 10,
-        "name": "Shards Dashboard Lite Vue",
+        "name": "Able Pro React MUI Dashboard",
         "price": 0,
         "description": "Free Vue admin dashboard template pack featuring a modern design system and lots of custom templates and components.",
         "live-url": "https://designrevision.com/downloads/shards-dashboard-lite-vue/",
