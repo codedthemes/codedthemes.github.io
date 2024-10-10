@@ -15,7 +15,7 @@
         "download-link": "https://codedthemes.com/item/berry-mui-free-react-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=berry-free-react-admin-template&type=star&count=true&size=large",
         "categories": "MUI, React",
-        "long-description": "Berry MUI Free React Dashboard is a sophisticated and versatile admin template designed to enhance user experience with a sleek, modern interface. Built with React and Material-UI, it offers high customizability and responsiveness for optimal performance across all devices.\t<br/><br/><b>Some great features of Berry – </b><br/><ul><li>Modern aesthetics UI design</li><li>Material-UI components</li><li>Fully Responsive, all modern browser supported</li><li>Easy to use code structure</li><li>Flexible & High-Performance code</li></ul>",
+        "long-description": "Berry MUI Free React Dashboard is a sophisticated and versatile admin template designed to enhance user experience with a sleek, modern interface. Built with React and Material-UI, it offers high customizability and responsiveness for optimal performance across all devices.\t<br/><br/><b>Features –</b><br/><ul><li>Modern aesthetics UI design</li><li>Material-UI components</li><li>Fully Responsive, all modern browser supported</li><li>Easy to use code structure</li><li>Flexible & High-Performance code</li></ul>",
         "meta": [
           {
             "keyword": "Berry Free React Template",
@@ -29,8 +29,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Berry, a free React Material UI admin template.",
-            "name": "Berry Free React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-free.png",
+            "name": "Berry Free React Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -48,11 +48,11 @@
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://mantisdashboard.io/free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-free.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-free-react.png",
         "download-link": "https://codedthemes.com/item/mantis-free-mui-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=mantis-free-react-admin-template&type=star&count=true&size=large",
         "categories": "MUI, React",
-        "long-description": "Mantis is a free open-source React Material UI dashboard template crafted for enhanced flexibility and customizability in web development. Whether you're developing a small application or a large enterprise solution it is the best option ever.<br/><br/><b>Some great features of Mantis –</b><br/><ul><li>Professional user interface</li><li>Support React18</li><li> Material UI React components</li><li> Responsive</li><li> Browser Supported – chrome, mozilla, safari, opera, edge</li><li> Easy to understand code structure</li></ul>",
+        "long-description": "Mantis is a free open-source React Material UI dashboard template crafted for enhanced flexibility and customizability in web development. Whether you're developing a small application or a large enterprise solution it is the best option ever.<br/><br/><b>Features –</b><br/><ul><li>Professional user interface</li><li>Support React18</li><li> Material UI React components</li><li> Responsive</li><li> Browser Supported – chrome, mozilla, safari, opera, edge</li><li> Easy to understand code structure</li></ul>",
         "meta": [
           {
             "keyword": "Mantis Free React Template",
@@ -66,8 +66,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Mantis, a free React Material UI admin template.",
-            "name": "Mantis Free React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-free.png",
+            "name": "Mantis Free React Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -84,11 +84,11 @@
         "price": 0,
         "description": "Free React Bootstrap Admin Template",
         "live-url": "https://lite.codedthemes.com/datta-able/react/default/dashboard/default",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/datta-free.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-free-react.png",
         "download-link": "https://codedthemes.com/item/datta-able-react-free-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=datta-able-free-react-admin-template&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
-        "long-description": "Datta Able React Free Admin Template with its modern and responsive design to streamline your workflow. Crafted using React and Bootstrap. It is the perfect choice for beginners looking to create stylish and functional admin dashboards. <br/><br/><b>Some great features of Datta Able –</b><br/><ul><li>Bootstrap React components</li><li>Highly responsive</li><li> Well maintain code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
+        "long-description": "Datta Able React Free Admin Template with its modern and responsive design to streamline your workflow. Crafted using React and Bootstrap. It is the perfect choice for beginners looking to create stylish and functional admin dashboards. <br/><br/><b>Features –</b><br/><ul><li>Bootstrap React components</li><li>Highly responsive</li><li> Well maintain code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
         "meta": [
           {
             "keyword": "Datta Able Free React Template",
@@ -102,8 +102,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Datta Able, a free React admin template.",
-            "name": "Datta Able Free React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/datta-free.png",
+            "name": "Datta Able Free React Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -120,11 +120,11 @@
         "price": 0,
         "description": "Free React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/gradient-able/react/free/app/dashboard/analytics",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradient-free.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-free-react.png",
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-free-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=gradient-able-free-admin-template&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
-        "long-description": "Gradient Able, a free admin dashboard blend with the react and bootstrap to enhance productivity. It offers a responsive layout and ensures optimal performance across all devices. Comes with basic components like buttons, breadcrumbs, typography, collapse, etc.<br/><br/><b>Some great features of Gradient Able –</b><br/><ul><li>Clean code structure</li><li>Bootstrap react components</li><li>Retina responsive ready</li> <li>Easy to customize</li></ul>",
+        "long-description": "Gradient Able, a free admin dashboard blend with the react and bootstrap to enhance productivity. It offers a responsive layout and ensures optimal performance across all devices. Comes with basic components like buttons, breadcrumbs, typography, collapse, etc.<br/><br/><b>Features –</b><br/><ul><li>Clean code structure</li><li>Bootstrap react components</li><li>Retina responsive ready</li> <li>Easy to customize</li></ul>",
         "meta": [
           {
             "keyword": "Gradient Able Free React Template",
@@ -138,8 +138,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Gradient Able, a free React admin template.",
-            "name": "Gradient Able Free React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradient-free.png",
+            "name": "Gradient Able Free React Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -156,7 +156,7 @@
         "price": 69,
         "description": "React Material UI Admin Template",
         "live-url": "https://mui.com/store/previews/berry-react-material-admin/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium-react.png",
         "download-link": "https://mui.com/store/items/berry-react-material-admin/",
         "githubstar-link": "",
         "categories": "MUI, React",
@@ -174,8 +174,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Berry, a premium React Material UI admin template.",
-            "name": "Berry React MUI Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium.png  ",
+            "name": "Berry React MUI Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -192,7 +192,7 @@
         "price": 69,
         "description": "React Material UI Admin Template",
         "live-url": "https://mui.com/store/previews/mantis-react-admin-dashboard-template/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium-ereact.png",
         "download-link": "https://mui.com/store/items/mantis-react-admin-dashboard-template/",
         "githubstar-link": "",
         "categories": "MUI, React",
@@ -210,8 +210,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Mantis, a premium React Material UI admin template.",
-            "name": "Mantis React MUI Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium.png",
+            "name": "Mantis React MUI Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium-ereact.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -228,7 +228,7 @@
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/datta-able/react/default/login",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/datta-premium.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-premium-react.png",
         "download-link": "https://codedthemes.com/item/datta-able-react-admin-template/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
@@ -246,8 +246,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Datta Able, a premium React Bootstrap admin template.",
-            "name": "Datta Able React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/datta-premium.png",
+            "name": "Datta Able React Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -264,7 +264,7 @@
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/gradient-able/react/default/app/dashboard/analytics",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradient-premium.png",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-premium-react.png",
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
@@ -282,8 +282,8 @@
             "context": "https://schema.org",
             "type": "Product",
             "description": "Download Gradient Able, a premium React Bootstrap admin template.",
-            "name": "Gradient Able React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradient-premium.png",
+            "name": "Gradient Able React Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -293,6 +293,12 @@
           }
         ]
       },
+  {
+    "name": "Phoenixcoded",
+    "description": "Explore Vue.js admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
+    "seeMoreUrl": "https://codedthemes.com/item/category/templates/vue-template/",
+    "products": [
+      {
       {
         "id": 9,
         "create date": "11-8-2024",            
