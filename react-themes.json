@@ -1,8 +1,8 @@
 [
   {
     "name": "CodedThemes",
-    "description": "Explore Vue.js admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
-    "seeMoreUrl": "https://codedthemes.com/item/category/templates/vue-template/",
+    "description": "Explore react admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
+    "seeMoreUrl": "https://codedthemes.com/item/category/templates/react-templates/",
     "products": [
       {
         "id": 1,
@@ -40,7 +40,6 @@
           }
         ]
       },
-
       {
         "id": 2,
         "create date": "1-8-2024",
@@ -79,7 +78,7 @@
       },
       {
         "id": 3,
-        "create date": "1-8-2024",        
+        "create date": "1-8-2024",
         "name": "Datta Able Free React Dashboard",
         "price": 0,
         "description": "Free React Bootstrap Admin Template",
@@ -115,7 +114,7 @@
       },
       {
         "id": 4,
-        "create date": "1-8-2024",        
+        "create date": "1-8-2024",
         "name": "Gradient Able Free React Dashboard",
         "price": 0,
         "description": "Free React Bootstrap Admin Template",
@@ -151,7 +150,7 @@
       },
       {
         "id": 5,
-        "create date": "5-8-2024",       
+        "create date": "5-8-2024",
         "name": "Berry React MUI Dashboard",
         "price": 69,
         "description": "React Material UI Admin Template",
@@ -187,7 +186,7 @@
       },
       {
         "id": 6,
-        "create date": "5-8-2024",            
+        "create date": "5-8-2024",
         "name": "Mantis React MUI Dashboard",
         "price": 69,
         "description": "React Material UI Admin Template",
@@ -223,7 +222,7 @@
       },
       {
         "id": 7,
-        "create date": "5-8-2024",            
+        "create date": "5-8-2024",
         "name": "Datta Able React Dashboard",
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
@@ -259,7 +258,7 @@
       },
       {
         "id": 8,
-        "create date": "5-8-2024",            
+        "create date": "5-8-2024",
         "name": "Gradient Able React Dashboard",
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
@@ -268,7 +267,7 @@
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
-        "long-description": "Gradient Able offers a comprehensive selection of layouts to meet various administrative needs and data management approaches. Whether you're handling CRM, e-commerce, or analytics, there's a layout that fits perfectly. Access a wide range of UI components crafted for efficiency and ease of use. It includes advanced tables, charts, widgets, graphs, and icons to speed up your development process.<br/><br/><b>Features –</b><br/><ul><li>Hooks </li><li>SASS powered</li><li> Fully responsive layout</li><li>Workable application</li><li>Modular and scalable architecture </li><li>React Router</li><li>React Hooks</li><li> Developer-friendly</li><li> Integrated plugins</li></ul>",
+        "long-description": "Gradient Able offers a comprehensive selection of layouts to meet various administrative needs and data management approaches. Whether you're handling CRM, e-commerce, or analytics, there's a layout that fits perfectly. Access a wide range of UI components crafted for efficiency and ease of use. It includes advanced tables, charts, widgets, graphs, and icons to speed up your development process.<br/><br/><b>Features –</b><br/><ul><li>Hooks </li><li>SASS powered</li><li> Fully responsive layout</li><li>Workable application</li><li>Modular and scalable architecture</li><li>React Router</li><li>React Hooks</li><li>Developer-friendly</li><li>Integrated plugins</li></ul>",
         "meta": [
           {
             "keyword": "Gradient Able React Admin Template",
@@ -293,39 +292,105 @@
           }
         ]
       },
-  {
-    "name": "Phoenixcoded",
-    "description": "Explore Vue.js admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
-    "seeMoreUrl": "https://codedthemes.com/item/category/templates/vue-template/",
-    "products": [
       {
-      {
-        "id": 9,
-        "create date": "11-8-2024",            
-        "name": "Able Pro Free React Dashboard",
-        "price": 0,
-        "description": "Free React Admin Template",
-        "live-url": "https://ableproadmin.com/react/free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-free.png",
-        "download-link": "https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template",
-        "githubstar-link": "https://ghbtns.com/github-btn.html?user=phoenixcoded&repo=able-pro-free-admin-dashboard-template&type=star&count=true&size=large",
-        "categories": "React",
-        "long-description": "Able pro free react admin template, a great starting point for beginners in advanced web applications. The free version offers essential tools for data visualization, simplifying the management and presentation of your data. <br/><br/><b>Some great features of Datta Able –</b><br/><ul><li>Developer friendly</li><li>Highly responsive</li><li> Clean code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
+        "id": 11,
+        "create date": "14-10-2024",
+        "name": "Materially ReactJS Admin Dashboard",
+        "price": 35,
+        "description": "React Material UI Admin Template",
+        "live-url": "https://codedthemes.com/demos/admin-templates/materially/react/default/dashboard/default",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-premium-react.png",
+        "download-link": "https://codedthemes.com/item/materially-reactjs-admin-dashboard/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "long-description": "Materially is a highly versatile and modern admin dashboard built with React and Material-UI. Its sleek and user-friendly interface enhances the development experience, making it a go-to option for developers. The dashboard comes with a wide range of pre-built components, widgets, pages, apps, charts, forms, and more, making it a comprehensive solution for building responsive web applications. The clean and well-structured codebase simplifies both development and maintenance, ensuring a smooth workflow. <br/><br/><b>Features –</b><br/><ul><li>TypeScript support for type-safe development </li><li>Built with React Hooks API for efficient and modern coding practices</li><li>Integrated with Redux Toolkit for simplified state management</li><li>Material-UI Components for a consistent, modern UI</li><li>Light/Dark Theme Support for customizable user interfaces</li><li>RTL/LTR Layouts for multilingual and international projects</li><li>Modern and responsive design across all devices</li><li>Cross-browser compatibility for seamless performance</li><li>Clean and organized code for easy customization and scalability</li></ul>",
         "meta": [
           {
-            "keyword": "Able Pro Free React Template",
-            "description": "Download Able Pro, a free React admin template.",
-            "og-title": "Able Pro Free React Template",
-            "og-description": "Download Able Pro, a free React admin template."
+            "keyword": "Materially ReactJS Admin Template",
+            "description": "Download Materially, a premium React Material UI admin template",
+            "og-title": "Materially ReactJS React Admin Template",
+            "og-description": "Materially Premium React Material UI Admin Template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Download Able Pro, a free React admin template.",
-            "name": "Able Pro Free React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-free.png",
+            "description": "Download Materially, a premium React Material UI admin template",
+            "name": "Materially ReactJS Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "35.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "create date": "14-10-2024",
+        "name": "Next React Admin Dashboard",
+        "price": 35,
+        "description": "Premium React Bootstrap Admin Template",
+        "live-url": "https://codedthemes.com/demos/admin-templates/next/react/default/dashboard/analytics",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/next-premium-react.png",
+        "download-link": "https://codedthemes.com/item/next-react-admin-dashboard/",
+        "githubstar-link": "",
+        "categories": "React, Bootstrap",
+        "long-description": "Next React Admin Dashboard is a modern and feature-packed admin template built with React and Material-UI. Designed with developers in mind, it offers a streamlined and intuitive interface that enhances the user experience. Next comes with a variety of pre-built components, widgets, apps, forms, charts, and more, making it a versatile solution for building scalable web applications. Its clean code structure and responsiveness ensure that the dashboard performs seamlessly across all devices.<br/><br/><b>Features –</b><br/><ul><li>TypeScript support for enhanced code quality and maintainability </li><li>Built with the React Hooks API for efficient, modern development practices</li><li>Integrated with Redux Toolkit for seamless state management</li><li>Next.js Integration for optimized performance and routing</li><li>Material-UI Components for a consistent, sleek UI design</li><li>Light/Dark Layout Options to suit different user preferences</li><li>RTL/LTR Support for global accessibility and multilingual projects</li><li>Fully Responsive Design for a seamless experience on all devices</li><li>Cross-Browser Compatibility for flawless operation across platforms</li><li>Clean and well-organized codebase for easy customization and scaling</li></ul>",
+        "meta": [
+          {
+            "keyword": "Next React Admin Template",
+            "description": "Download Next, a premium React Bootstrap admin template",
+            "og-title": "Next ReactJS React Admin Template",
+            "og-description": "Next Premium React Bootstrap Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Next, a premium React Bootstrap admin template",
+            "name": "Next React Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/next-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "35.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "create date": "14-10-2024",
+        "name": "Materially Free Reactjs Admin Dashboard",
+        "price": 0,
+        "description": "Free React Admin Template",
+        "live-url": "https://codedthemes.com/demos/admin-templates/materially/react/free/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-free-react.png",
+        "download-link": "https://codedthemes.com/item/materially-free-reactjs-admin-template/",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=materially-free-react-admin-template&type=star&count=true&size=large",
+        "categories": "React",
+        "long-description": "Materially Free ReactJS Admin Template is a highly customizable and modern admin dashboard built with React and Material-UI. Offering a sleek and responsive design, Materially provides developers with a powerful set of tools to create dynamic web applications with ease. Its free version includes essential components, pages, and widgets that allow for quick setup and smooth integration into any project. Materially’s lightweight and clean codebase ensures easy development and maintenance.<br/><br/><b>Features –</b><br/><ul><li>Built with React Hooks API for modern and efficient coding </li><li>TypeScript Support for enhanced scalability and type safety</li><li>Integrated with Material-UI components for a consistent and modern UI</li><li>Fully Responsive Design optimized for all devices</li><li>Cross-Browser Compatibility ensuring seamless functionality across platforms</li><li>Clean Code Structure for easy customization and quick development</li><li>Light and Dark Theme Options for adaptable UI design</li><li>Free and Open Source for easy access and flexibility</li></ul>",
+        "meta": [
+          {
+            "keyword": "Materially Free Reactjs Admin Template",
+            "description": "Download Materially, a free React admin template.",
+            "og-title": "Materially Free Reactjs Admin Template",
+            "og-description": "Materially Free React Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Materially, a free React admin template.",
+            "name": "Materially Free Reactjs Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -336,8 +401,161 @@
         ]
       },
       {
+      }
+    ]
+  },
+  {
+    "name": "Phoenixcoded",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 9,
+        "create date": "11-8-2024",
+        "name": "Able Pro Free React Dashboard",
+        "price": 0,
+        "description": "Free React Admin Template",
+        "live-url": "https://ableproadmin.com/react/free/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-free-react.png",
+        "download-link": "https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=phoenixcoded&repo=able-pro-free-admin-dashboard-template&type=star&count=true&size=large",
+        "categories": "React",
+        "long-description": "Able pro free react admin template, a great starting point for beginners in advanced web applications. The free version offers essential tools for data visualization, simplifying the management and presentation of your data. <br/><br/><b>Features –</b><br/><ul><li>Developer friendly</li><li>Highly responsive</li><li> Clean code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
+        "meta": [
+          {
+            "keyword": "Able Pro Free React Template",
+            "description": "Download Able Pro, a free React admin template.",
+            "og-title": "Able Pro Free React Template",
+            "og-description": "Able Pro free React admin template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Able Pro, a free React admin template.",
+            "name": "Able Pro Free React Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
         "id": 10,
-        "create date": "11-8-2024",             
+        "create date": "11-8-2024",
+        "name": "Able Pro React MUI Dashboard",
+        "price": 17,
+        "description": "React Material UI Admin Template",
+        "live-url": "https://ableproadmin.com/react/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-premium-react.png",
+        "download-link": "https://themeforest.net/item/able-pro-react-mui-admin-dashboard-template/50427053",
+        "githubstar-link": "",
+        "categories": "MUI, React",
+        "long-description": "Able Pro, is a powerful and feature-rich MUI React admin template designed to meet the needs of modern web applications. No matter if you're building an eCommerce site, project management system, crypto admin interface, CRM, & SaaS project, Able Pro has you covered. The responsive design works well on all devices, and the clean codebase ensures easy integration and maintenance. It comes with gulp build tools, SCSS variables for customization, and supports RTL languages.<br/><br/><b>Features –</b><br/><ul><li>npm & yarn package manager </li><li>SASS powered</li><li> Gulp build tools</li><li>Retina Ready and Mobile-first responsive design.</li><li>Modular and scalable architecture </li><li>Full/Container width</li><li>10+ Primary color options</li><li> Code Standard that makes easy developer experience</li></ul>",
+        "meta": [
+          {
+            "keyword": "Able Pro React MUI Admin Template",
+            "description": "Download Able Pro, a premium React Material UI admin template.",
+            "og-title": "Able Pro React MUI Admin Template",
+            "og-description": "Able Pro Premium React Material UI Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Able Pro, a premium React Material UI admin template.",
+            "name": "Able Pro React MUI Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "17",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": 14,
+        "create date": "14-10-2024",
+        "name": "Material Dashboard 2 React",
+        "price": 0,
+        "description": "Free React Material UI Admin Template",
+        "live-url": "https://demos.creative-tim.com/material-dashboard-react/#/dashboard",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialui-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/material-dashboard-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-react&type=star&count=true&size=large",
+        "categories": "React",
+        "long-description": "Material Dashboard 2 React is newest free MUI Admin Template built on React. It’s an ideal choice for developers looking to create a highly customizable, feature-packed, and developer-friendly admin dashboard. Inspired by Google’s Material Design, this dashboard template helps you build stunning websites and web apps to impress your clients. With a clean and modern interface, Material Dashboard 2 React enhances user experience and simplifies development.<br/><br/><b>Features –</b><br/><ul><li>Over 70 fully coded elements, including buttons, inputs, navbars, cards, and alerts </li><li>Built with React Hooks API for modern, efficient development</li><li>MUI styled() API and sx prop for easy customization and color variation</li><li>Prebuilt design blocks for seamless development</li><li>Light/Dark theme support for customizable user interfaces</li><li>Responsive design that works across all devices</li><li>Cross-browser compatibility ensuring smooth performance</li><li>Detailed documentation for developers</li><li>Example pages to jump-start your development and showcase to clients</li></ul>",
+        "meta": [
+          {
+            "keyword": "Material Dashboard 2 React",
+            "description": "Download Material Dashboard 2, a free React admin template.",
+            "og-title": "Material Dashboard 2 React",
+            "og-description": "Material Dashboard 2, free React admin template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Material Dashboard 2, a free React admin template.",
+            "name": "Material Dashboard 2 React",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialui-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": 15,
+        "create date": "14-10-2024",
+        "name": "Material Dashboard Material UI v4",
+        "price": 0,
+        "description": "Free React Material UI Admin Template",
+        "live-url": "https://demos.creative-tim.com/material-dashboard-material-ui-v4",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialdashboard-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/material-dashboard-material-ui-v4",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-material-ui-v4&type=star&count=true&size=large",
+        "categories": "React",
+        "long-description": "Material Dashboard Material-UI v4 is a free and beautifully designed admin dashboard inspired by Google’s Material Design. Built using Material-UI v4.1.0, it offers a modern and visually appealing interface that makes the development process seamless. This dashboard template features an intuitive layout that emphasizes clarity and depth, making it easy to navigate and highly functional for web apps.<br/><br/><b>Features –</b><br/><ul><li>Material-UI v4.1.0 framework for sleek animations, transitions, and effects</li><li>5 color filter options for sidebar and card headers (blue, green, orange, red, and purple)</li><li>Background image support for the sidebar for enhanced customization</li><li>Responsive design to ensure seamless performance across devices</li><li>Layered interface mimicking sheets of paper for depth and organization</li><li>Left sidebar navigation with content displayed on the right in the main panel</li><li>Cross-browser compatibility for consistent performance across platforms</li><li>Detailed documentation for developers</li><li>Modern design inspired by Google’s Material Design principles</li></ul></li></ul>",
+        "meta": [
+          {
+            "keyword": "Free React Material UI Admin Template",
+            "description": "Download Material Dashboard 2, a free React admin template.",
+            "og-title": "Material Dashboard 2 React",
+            "og-description": "Material Dashboard 2, free React admin template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Material Dashboard 2, a free React admin template.",
+            "name": "Material Dashboard 2 React",
+            "image": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-material-ui-v4&type=star&count=true&size=large",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": 10,
+        "create date": "11-8-2024",
         "name": "Able Pro React MUI Dashboard",
         "price": 17,
         "description": "React Material UI Admin Template",
@@ -362,176 +580,6 @@
             "description": "Download Able Pro, a premium React Material UI admin template.",
             "name": "Able Pro   React MUI Dashboard",
             "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-premium.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0.00",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      },
-      {
-        "id": 11,
-        "name": "Vue Light Bootstrap Dashboard",
-        "price": 0,
-        "description": "Free VueJS admin template based on Bootstrap 4.",
-        "live-url": "https://www.creative-tim.com/product/vue-light-bootstrap-dashboard",
-        "image": "https://example.com/images/vue-light-bootstrap-dashboard.png",
-        "download-link": "https://example.com/downloads/vue-light-bootstrap-dashboard.zip",
-        "githubstar-link": "https://github.com/creativetimofficial/vue-light-bootstrap-dashboard",
-        "long-description": "Vue Light Bootstrap Dashboard is a free admin template based on Bootstrap 4.",
-        "meta": [
-          {
-            "keyword": "vue, bootstrap, admin, dashboard, free",
-            "description": "Free VueJS admin template based on Bootstrap 4.",
-            "og-title": "Vue Light Bootstrap Dashboard",
-            "og-description": "Free VueJS admin template based on Bootstrap 4."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Free VueJS admin template based on Bootstrap 4 with various UI components.",
-            "name": "Vue Light Bootstrap Dashboard",
-            "image": "https://example.com/images/vue-light-bootstrap-dashboard.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0.00",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      },
-      {
-        "id": 12,
-        "name": "Vue Notus Dashboard",
-        "price": 0,
-        "description": "Free and Open Source VueJS Dashboard.",
-        "live-url": "https://www.creative-tim.com/product/vue-notus-dashboard",
-        "image": "https://example.com/images/vue-notus-dashboard.png",
-        "download-link": "https://example.com/downloads/vue-notus-dashboard.zip",
-        "githubstar-link": "https://github.com/creativetimofficial/vue-notus-dashboard",
-        "long-description": "Vue Notus Dashboard is a free and open-source admin template.",
-        "meta": [
-          {
-            "keyword": "vue, admin, dashboard, free, open source",
-            "description": "Free and open-source VueJS Dashboard.",
-            "og-title": "Vue Notus Dashboard",
-            "og-description": "Free and open-source VueJS Dashboard."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Free and open-source VueJS Dashboard with various UI elements.",
-            "name": "Vue Notus Dashboard",
-            "image": "https://example.com/images/vue-notus-dashboard.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0.00",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      },
-      {
-        "id": 13,
-        "name": "Vuexy - Vuejs Admin Dashboard Template",
-        "price": 24,
-        "description": "Powerful & comprehensive VueJs admin dashboard template.",
-        "live-url": "https://themeforest.net/item/vuexy-vuejs-admin-dashboard-template/23328599",
-        "image": "https://example.com/images/vuexy-vuejs.png",
-        "download-link": "https://example.com/downloads/vuexy-vuejs.zip",
-        "githubstar-link": "",
-        "long-description": "Vuexy is a powerful and comprehensive admin dashboard template for VueJs.",
-        "meta": [
-          {
-            "keyword": "vue, vuexy, admin, dashboard",
-            "description": "Powerful & comprehensive VueJs admin dashboard template.",
-            "og-title": "Vuexy - Vuejs Admin Dashboard Template",
-            "og-description": "Powerful & comprehensive VueJs admin dashboard template."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Powerful & comprehensive VueJs admin dashboard template with multiple features.",
-            "name": "Vuexy - Vuejs Admin Dashboard Template",
-            "image": "https://example.com/images/vuexy-vuejs.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "24.00",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "name": "Adminify",
-        "price": 19,
-        "description": "Fully featured VueJS admin template.",
-        "live-url": "https://wrappixel.com/templates/adminify-vuejs/",
-        "image": "https://example.com/images/adminify.png",
-        "download-link": "https://example.com/downloads/adminify.zip",
-        "githubstar-link": "https://github.com/wrappixel/adminify",
-        "long-description": "Adminify is a fully featured admin template for VueJS.",
-        "meta": [
-          {
-            "keyword": "vue, adminify, admin, dashboard",
-            "description": "Fully featured VueJS admin template.",
-            "og-title": "Adminify",
-            "og-description": "Fully featured admin template for VueJS."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Fully featured VueJS admin template with various components.",
-            "name": "Adminify",
-            "image": "https://example.com/images/adminify.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "19.00",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      },
-      {
-        "id": 15,
-        "name": "Vue Admin",
-        "price": 0,
-        "description": "Free admin template for VueJS.",
-        "live-url": "https://github.com/vue-bulma/vue-admin",
-        "image": "https://example.com/images/vue-admin.png",
-        "download-link": "https://example.com/downloads/vue-admin.zip",
-        "githubstar-link": "https://github.com/vue-bulma/vue-admin",
-        "long-description": "Vue Admin is a free and open-source admin template for VueJS.",
-        "meta": [
-          {
-            "keyword": "vue, admin, dashboard, free",
-            "description": "Free admin template for VueJS.",
-            "og-title": "Vue Admin",
-            "og-description": "Free admin template for VueJS."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Free and open-source admin template with various UI components.",
-            "name": "Vue Admin",
-            "image": "https://example.com/images/vue-admin.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
