@@ -480,7 +480,14 @@
             }
           }
         ]
-      }, 
+      }
+    ]
+  },
+  {
+    "name": "Creative-Tim",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
       {
         "id": 14,
         "create date": "14-10-2024",
@@ -514,9 +521,10 @@
               "price": "0.00",
               "priceCurrency": "USD"
             }
+            
           }
         ]
-      }, 
+      },
       {
         "id": 15,
         "create date": "14-10-2024",
@@ -531,55 +539,19 @@
         "long-description": "Material Dashboard Material-UI v4 is a free and beautifully designed admin dashboard inspired by Google’s Material Design. Built using Material-UI v4.1.0, it offers a modern and visually appealing interface that makes the development process seamless. This dashboard template features an intuitive layout that emphasizes clarity and depth, making it easy to navigate and highly functional for web apps.<br/><br/><b>Features –</b><br/><ul><li>Material-UI v4.1.0 framework for sleek animations, transitions, and effects</li><li>5 color filter options for sidebar and card headers (blue, green, orange, red, and purple)</li><li>Background image support for the sidebar for enhanced customization</li><li>Responsive design to ensure seamless performance across devices</li><li>Layered interface mimicking sheets of paper for depth and organization</li><li>Left sidebar navigation with content displayed on the right in the main panel</li><li>Cross-browser compatibility for consistent performance across platforms</li><li>Detailed documentation for developers</li><li>Modern design inspired by Google’s Material Design principles</li></ul></li></ul>",
         "meta": [
           {
-            "keyword": "Free React Material UI Admin Template",
-            "description": "Download Material Dashboard 2, a free React admin template.",
-            "og-title": "Material Dashboard 2 React",
-            "og-description": "Material Dashboard 2, free React admin template."
+            "keyword": "Material Dashboard Material UI v4",
+            "description": "Download Material UI v4, a free React admin template.",
+            "og-title": "Material Dashboard Material UI v4",
+            "og-description": "Material UI v4, free React admin template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Download Material Dashboard 2, a free React admin template.",
-            "name": "Material Dashboard 2 React",
-            "image": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-material-ui-v4&type=star&count=true&size=large",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0.00",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      }, 
-      {
-        "id": 10,
-        "create date": "11-8-2024",
-        "name": "Able Pro React MUI Dashboard",
-        "price": 17,
-        "description": "React Material UI Admin Template",
-        "live-url": "https://ableproadmin.com/react/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-premium.png",
-        "download-link": "https://themeforest.net/item/able-pro-react-mui-admin-dashboard-template/50427053",
-        "githubstar-link": "",
-        "categories": "MUI, React",
-        "long-description": "Able Pro, is a powerful and feature-rich MUI React admin template designed to meet the needs of modern web applications. No matter if you're building an eCommerce site, project management system, crypto admin interface, CRM, & SaaS project, Able Pro has you covered. The responsive design works well on all devices, and the clean codebase ensures easy integration and maintenance. It comes with gulp build tools, SCSS variables for customization, and supports RTL languages.<br/><br/><b>Features –</b><br/><ul><li>npm & yarn package manager </li><li>SASS powered</li><li> Gulp build tools</li><li>Retina Ready and Mobile-first responsive design.</li><li>Modular and scalable architecture </li><li>Full/Container width</li><li>10+ Primary color options</li><li> Code Standard that makes easy developer experience</li></ul>",
-        "meta": [
-          {
-            "keyword": "Able Pro React MUI Admin Template",
-            "description": "Download Able Pro, a premium React Material UI admin template.",
-            "og-title": "Able Pro React MUI Admin Template",
-            "og-description": "Able Pro Premium React Material UI Admin Template."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Download Able Pro, a premium React Material UI admin template.",
-            "name": "Able Pro   React MUI Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/able-pro-premium.png",
+            "description": "Download Material UI v4, a free React admin template.",
+            "name": "Material Dashboard Material UI v4",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialdashboard-free-react.pnge",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
