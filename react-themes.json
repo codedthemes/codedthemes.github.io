@@ -15,7 +15,7 @@
         "download-link": "https://codedthemes.com/item/berry-mui-free-react-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=berry-free-react-admin-template&type=star&count=true&size=large",
         "categories": "MUI, React",
-        "technology-stack": ["material-ui", "react"],
+        "technology-stack": ["material-ui", "react", "vite", "js"],
         "long-description": "Berry MUI Free React Dashboard is a sophisticated and versatile admin template designed to enhance user experience with a sleek, modern interface. Built with React and Material-UI, it offers high customizability and responsiveness for optimal performance across all devices.\t<br/><br/><b>Features –</b><br/><ul><li>Modern aesthetics UI design</li><li>Material-UI components</li><li>Fully Responsive, all modern browser supported</li><li>Easy to use code structure</li><li>Flexible & High-Performance code</li></ul>",
         "meta": [
           {
@@ -52,6 +52,7 @@
         "download-link": "https://codedthemes.com/item/mantis-free-mui-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=mantis-free-react-admin-template&type=star&count=true&size=large",
         "categories": "MUI, React",
+        "technology-stack": ["material-ui", "react", "vite", "js"], 
         "long-description": "Mantis is a free open-source React Material UI dashboard template crafted for enhanced flexibility and customizability in web development. Whether you're developing a small application or a large enterprise solution it is the best option ever.<br/><br/><b>Features –</b><br/><ul><li>Professional user interface</li><li>Support React18</li><li> Material UI React components</li><li> Responsive</li><li> Browser Supported – chrome, mozilla, safari, opera, edge</li><li> Easy to understand code structure</li></ul>",
         "meta": [
           {
@@ -88,6 +89,7 @@
         "download-link": "https://codedthemes.com/item/datta-able-react-free-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=datta-able-free-react-admin-template&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
+        "technology-stack": ["react", "bootstrap", "nodejs", "js"], 
         "long-description": "Datta Able React Free Admin Template with its modern and responsive design to streamline your workflow. Crafted using React and Bootstrap. It is the perfect choice for beginners looking to create stylish and functional admin dashboards. <br/><br/><b>Features –</b><br/><ul><li>Bootstrap React components</li><li>Highly responsive</li><li> Well maintain code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
         "meta": [
           {
@@ -124,6 +126,7 @@
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-free-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=gradient-able-free-admin-template&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
+        "technology-stack": ["react", "bootstrap", "nodejs", "js"], 
         "long-description": "Gradient Able, a free admin dashboard blend with the react and bootstrap to enhance productivity. It offers a responsive layout and ensures optimal performance across all devices. Comes with basic components like buttons, breadcrumbs, typography, collapse, etc.<br/><br/><b>Features –</b><br/><ul><li>Clean code structure</li><li>Bootstrap react components</li><li>Retina responsive ready</li> <li>Easy to customize</li></ul>",
         "meta": [
           {
@@ -160,6 +163,7 @@
         "download-link": "https://mui.com/store/items/berry-react-material-admin/",
         "githubstar-link": "",
         "categories": "MUI, React",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "ts"], 
         "long-description": "Berry is a highly versatile and modern admin dashboard built with React and Material-UI. The sleek and modern interface view of Berry enhances the user experience. It comes with a variety of pre-built components, widgets, pages, apps, tables, forms, charts, plug-ins, etc., which makes it an ideal choice for developers. The responsive design of Berry ensures seamless functionality across all devices. As well as clean, well-structured codebase facilitates easy development and maintenance. It also supports a User Management app, Chat app, Customer-centric app etc.<br/><br/><b>Features –</b><br/><ul><li>TypeScript support</li><li>Built with React Hooks API</li><li>Redux toolkit</li><li>Next.js with app router</li><li>Modern aesthetics UI design</li><li>Get start with the skeleton version</li><li> 6+ Color presets</li><li>Light / Dark Layouts</li><li>LTR / RTL</li><li>Modern browser support</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li></ul>",
         "meta": [
           {
@@ -196,6 +200,7 @@
         "download-link": "https://mui.com/store/items/mantis-react-admin-dashboard-template/",
         "githubstar-link": "",
         "categories": "MUI, React",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "ts"], 
         "long-description": "Mantis React Dashboard is a premium admin template designed for high performance and flexibility. It is built using React and Material UI, which offers a modern and clean design. It includes a variety of UI components, elements, widgets, applications, pages, plugins, forms, tables, maps, and charts to help you quickly set up your project.<br/><br/><b>Features –</b><br/><ul><li>TypeScript support</li><li>Built with React Hooks API</li><li>Support live customizer </li><li>font selection options</li><li> 8+ Color presets</li><li>Animation & color shadows</li><li>LTR / RTL </li><li>Light/dark and Collapse layouts</li><li>Well structure code & folder structure</li><li> SaaS-based interface</li><li> Layout width - Container, Fluid</li></ul>",
         "meta": [
           {
@@ -232,6 +237,7 @@
         "download-link": "https://codedthemes.com/item/datta-able-react-admin-template/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
+        "technology-stack": ["react", "bootstrap", "devicon_nextjs", "js"], 
         "long-description": "Datta Able is a powerful and flexible admin dashboard, which is not just about managing data but revolutionizing your entire approach to web administration. It is crafted using React and Bootstrap, which offers a variety of pre-built components, widgets, cards, layouts, charts, and pages.  Datta Able makes it easy to customize and integrate into any project. Well, its responsive design ensures seamless functionality across all devices. <br/><br/><b>Features –</b><br/><ul><li>Responsive design </li><li>Modular architecture</li><li> Rich UI components</li><li>Advanced customization</li><li>Modular and scalable architecture </li><li>Light/dark and collapse layouts</li><li>Well structure code & folder structure</li><li> Developer-friendly</li><li> Integrated plugins</li></ul> ",
         "meta": [
           {
@@ -268,6 +274,7 @@
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
+        "technology-stack": ["react", "bootstrap", "devicon_nextjs", "js"], 
         "long-description": "Gradient Able offers a comprehensive selection of layouts to meet various administrative needs and data management approaches. Whether you're handling CRM, e-commerce, or analytics, there's a layout that fits perfectly. Access a wide range of UI components crafted for efficiency and ease of use. It includes advanced tables, charts, widgets, graphs, and icons to speed up your development process.<br/><br/><b>Features –</b><br/><ul><li>Hooks </li><li>SASS powered</li><li> Fully responsive layout</li><li>Workable application</li><li>Modular and scalable architecture</li><li>React Router</li><li>React Hooks</li><li>Developer-friendly</li><li>Integrated plugins</li></ul>",
         "meta": [
           {
@@ -304,6 +311,7 @@
         "download-link": "https://codedthemes.com/item/materially-reactjs-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, MUI",
+        "technology-stack": ["react"], 
         "long-description": "Materially is a highly versatile and modern admin dashboard built with React and Material-UI. Its sleek and user-friendly interface enhances the development experience, making it a go-to option for developers. The dashboard comes with a wide range of pre-built components, widgets, pages, apps, charts, forms, and more, making it a comprehensive solution for building responsive web applications. The clean and well-structured codebase simplifies both development and maintenance, ensuring a smooth workflow. <br/><br/><b>Features –</b><br/><ul><li>TypeScript support for type-safe development </li><li>Built with React Hooks API for efficient and modern coding practices</li><li>Integrated with Redux Toolkit for simplified state management</li><li>Material-UI Components for a consistent, modern UI</li><li>Light/Dark Theme Support for customizable user interfaces</li><li>RTL/LTR Layouts for multilingual and international projects</li><li>Modern and responsive design across all devices</li><li>Cross-browser compatibility for seamless performance</li><li>Clean and organized code for easy customization and scalability</li></ul>",
         "meta": [
           {
@@ -340,6 +348,7 @@
         "download-link": "https://codedthemes.com/item/next-react-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
+        "technology-stack": ["react", "bootstrap", "js"], 
         "long-description": "Next React Admin Dashboard is a modern and feature-packed admin template built with React and Material-UI. Designed with developers in mind, it offers a streamlined and intuitive interface that enhances the user experience. Next comes with a variety of pre-built components, widgets, apps, forms, charts, and more, making it a versatile solution for building scalable web applications. Its clean code structure and responsiveness ensure that the dashboard performs seamlessly across all devices.<br/><br/><b>Features –</b><br/><ul><li>TypeScript support for enhanced code quality and maintainability </li><li>Built with the React Hooks API for efficient, modern development practices</li><li>Integrated with Redux Toolkit for seamless state management</li><li>Next.js Integration for optimized performance and routing</li><li>Material-UI Components for a consistent, sleek UI design</li><li>Light/Dark Layout Options to suit different user preferences</li><li>RTL/LTR Support for global accessibility and multilingual projects</li><li>Fully Responsive Design for a seamless experience on all devices</li><li>Cross-Browser Compatibility for flawless operation across platforms</li><li>Clean and well-organized codebase for easy customization and scaling</li></ul>",
         "meta": [
           {
@@ -376,6 +385,7 @@
         "download-link": "https://codedthemes.com/item/materially-free-reactjs-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=materially-free-react-admin-template&type=star&count=true&size=large",
         "categories": "React",
+        "technology-stack": ["react"], 
         "long-description": "Materially Free ReactJS Admin Template is a highly customizable and modern admin dashboard built with React and Material-UI. Offering a sleek and responsive design, Materially provides developers with a powerful set of tools to create dynamic web applications with ease. Its free version includes essential components, pages, and widgets that allow for quick setup and smooth integration into any project. Materially’s lightweight and clean codebase ensures easy development and maintenance.<br/><br/><b>Features –</b><br/><ul><li>Built with React Hooks API for modern and efficient coding </li><li>TypeScript Support for enhanced scalability and type safety</li><li>Integrated with Material-UI components for a consistent and modern UI</li><li>Fully Responsive Design optimized for all devices</li><li>Cross-Browser Compatibility ensuring seamless functionality across platforms</li><li>Clean Code Structure for easy customization and quick development</li><li>Light and Dark Theme Options for adaptable UI design</li><li>Free and Open Source for easy access and flexibility</li></ul>",
         "meta": [
           {
@@ -421,6 +431,7 @@
         "download-link": "https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=phoenixcoded&repo=able-pro-free-admin-dashboard-template&type=star&count=true&size=large",
         "categories": "React",
+        "technology-stack": ["react"], 
         "long-description": "Able pro free react admin template, a great starting point for beginners in advanced web applications. The free version offers essential tools for data visualization, simplifying the management and presentation of your data. <br/><br/><b>Features –</b><br/><ul><li>Developer friendly</li><li>Highly responsive</li><li> Clean code structure</li><li> Flexible</li><li> Modern interface</li></ul>",
         "meta": [
           {
@@ -457,6 +468,7 @@
         "download-link": "https://themeforest.net/item/able-pro-react-mui-admin-dashboard-template/50427053",
         "githubstar-link": "",
         "categories": "MUI, React",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "nodejs", "ts"],
         "long-description": "Able Pro, is a powerful and feature-rich MUI React admin template designed to meet the needs of modern web applications. No matter if you're building an eCommerce site, project management system, crypto admin interface, CRM, & SaaS project, Able Pro has you covered. The responsive design works well on all devices, and the clean codebase ensures easy integration and maintenance. It comes with gulp build tools, SCSS variables for customization, and supports RTL languages.<br/><br/><b>Features –</b><br/><ul><li>npm & yarn package manager </li><li>SASS powered</li><li> Gulp build tools</li><li>Retina Ready and Mobile-first responsive design.</li><li>Modular and scalable architecture </li><li>Full/Container width</li><li>10+ Primary color options</li><li> Code Standard that makes easy developer experience</li></ul>",
         "meta": [
           {
@@ -500,6 +512,7 @@
         "download-link": "https://www.creative-tim.com/product/material-dashboard-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-react&type=star&count=true&size=large",
         "categories": "React",
+        "technology-stack": ["react"],
         "long-description": "Material Dashboard 2 React is newest free MUI Admin Template built on React. It’s an ideal choice for developers looking to create a highly customizable, feature-packed, and developer-friendly admin dashboard. Inspired by Google’s Material Design, this dashboard template helps you build stunning websites and web apps to impress your clients. With a clean and modern interface, Material Dashboard 2 React enhances user experience and simplifies development.<br/><br/><b>Features –</b><br/><ul><li>Over 70 fully coded elements, including buttons, inputs, navbars, cards, and alerts </li><li>Built with React Hooks API for modern, efficient development</li><li>MUI styled() API and sx prop for easy customization and color variation</li><li>Prebuilt design blocks for seamless development</li><li>Light/Dark theme support for customizable user interfaces</li><li>Responsive design that works across all devices</li><li>Cross-browser compatibility ensuring smooth performance</li><li>Detailed documentation for developers</li><li>Example pages to jump-start your development and showcase to clients</li></ul>",
         "meta": [
           {
@@ -537,6 +550,7 @@
         "download-link": "https://www.creative-tim.com/product/material-dashboard-material-ui-v4",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-material-ui-v4&type=star&count=true&size=large",
         "categories": "React",
+        "technology-stack": ["react"],
         "long-description": "Material Dashboard Material-UI v4 is a free and beautifully designed admin dashboard inspired by Google’s Material Design. Built using Material-UI v4.1.0, it offers a modern and visually appealing interface that makes the development process seamless. This dashboard template features an intuitive layout that emphasizes clarity and depth, making it easy to navigate and highly functional for web apps.<br/><br/><b>Features –</b><br/><ul><li>Material-UI v4.1.0 framework for sleek animations, transitions, and effects</li><li>5 color filter options for sidebar and card headers (blue, green, orange, red, and purple)</li><li>Background image support for the sidebar for enhanced customization</li><li>Responsive design to ensure seamless performance across devices</li><li>Layered interface mimicking sheets of paper for depth and organization</li><li>Left sidebar navigation with content displayed on the right in the main panel</li><li>Cross-browser compatibility for consistent performance across platforms</li><li>Detailed documentation for developers</li><li>Modern design inspired by Google’s Material Design principles</li></ul></li></ul>",
         "meta": [
           {
