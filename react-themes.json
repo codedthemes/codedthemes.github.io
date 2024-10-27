@@ -1,6 +1,6 @@
 [
   {
-    "creator": "CodedThemes",
+    "name": "CodedThemes",
     "description": "Explore react admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
     "seeMoreUrl": "https://codedthemes.com/item/category/templates/react-templates/",
     "products": [
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "creator": "Phoenixcoded",
+    "name": "Phoenixcoded",
     "description": "",
     "seeMoreUrl": "",
     "products": [
