@@ -573,6 +573,191 @@
             }
           }
         ]
+      },
+      {
+        "id": 16,
+        "create date": "28-10-2024",
+        "name": "Material Kit 2 React",
+        "price": 0,
+        "description": "Free ReactJS & MUI Kit",
+        "live-url": "https://demos.creative-tim.com/material-kit-react/?_ga=2.216374486.1356904668.1730099324-GA1.2.1864488715.1698216368#/presentation",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/material-kit-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-kit-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"],
+        "long-description": "Material Kit 2 React is our latest free MUI Design System based on React. Inspired by Material Design, it provides all the essential components for creating visually stunning and feature-rich websites. If you’re a developer looking for a highly customizable, sleek, and modern design system, Material Kit 2 React is the perfect choice.<br/><br/><b>Features –</b><br/><ul><li>Over 40 fully coded frontend elements such as buttons, inputs, navbars, alerts, and cards</li><li>Built with React Hooks API and MUI styled() API for easy customization</li><li>Components support color variations, customizable with the sx prop</li><li>Pre-built design blocks for seamless development</li><li>Fully responsive design optimized for all devices</li><li>Detailed documentation to guide developers through each component</li><li>Example pages included for quick inspiration and setup</li><li>Cross-browser compatibility for smooth performance across platforms</li></ul>",
+        "meta": [
+          {
+            "keyword": "Material Kit 2 React",
+            "description": "Download Material Kit 2, a free ReactJS & MUI Kit.",
+            "og-title": "Material Kit 2 React",
+            "og-description": "Material Kit 2, free ReactJS & MUI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Material Kit 2, a free ReactJS & MUI Kit.",
+            "name": "Material Kit 2 React",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "create date": "28-10-2024",
+        "name": "Material Kit Material-UI v4",
+        "price": 0,
+        "description": "Free Material-UI Kit",
+        "live-url": "https://demos.creative-tim.com/material-kit-material-ui-v4/#/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/material-kit-material-ui-v4",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-kit-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react", "scss"],
+        "long-description": "Material Kit Material-UI v4 is a free Material-UI@4.1.0 kit that brings a fresh, modern design inspired by Google’s Material Design. This kit was built to provide developers with an easy-to-use set of beautiful components that incorporate the material design concepts of light, surface, and movement. If you’re working on a web project and want to make it visually appealing and consistent, Material Kit Material-UI v4 is the ideal choice.<br/><br/><b>Features –</b><br/><ul><li>Three fully-coded example pages to help you kickstart your project</li><li>Material-UI elements restyled for a sleek, modern look</li><li>Color choices, edge-to-edge imagery, and large-scale typography for a visually distinct UI</li><li>Layered interface resembling sheets of paper for clear depth and order</li><li>Left sidebar navigation with actions on the right for easy user interaction</li><li>Fully responsive design that works seamlessly across devices</li><li>Cross-browser compatibility for consistent performance</li><li>Built using Material-UI framework, ensuring smooth animations, transitions, and ripples</li></ul>",
+        "meta": [
+          {
+            "keyword": "Material Kit Material-UI v4",
+            "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
+            "og-title": "Material Kit Material-UI v4",
+            "og-description": "Material Kit Material-UI v4, free Material-UI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
+            "name": "Material Kit Material-UI v4",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "create date": "28-10-2024",
+        "name": "Material Kit Material-UI v4",
+        "price": 0,
+        "description": "Free Material-UI Kit",
+        "live-url": "https://demos.creative-tim.com/material-kit-material-ui-v4/#/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/material-kit-material-ui-v4",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-kit-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react", "scss"],
+        "long-description": "Material Kit Material-UI v4 is a free Material-UI@4.1.0 kit that brings a fresh, modern design inspired by Google’s Material Design. This kit was built to provide developers with an easy-to-use set of beautiful components that incorporate the material design concepts of light, surface, and movement. If you’re working on a web project and want to make it visually appealing and consistent, Material Kit Material-UI v4 is the ideal choice.<br/><br/><b>Features –</b><br/><ul><li>Three fully-coded example pages to help you kickstart your project</li><li>Material-UI elements restyled for a sleek, modern look</li><li>Color choices, edge-to-edge imagery, and large-scale typography for a visually distinct UI</li><li>Layered interface resembling sheets of paper for clear depth and order</li><li>Left sidebar navigation with actions on the right for easy user interaction</li><li>Fully responsive design that works seamlessly across devices</li><li>Cross-browser compatibility for consistent performance</li><li>Built using Material-UI framework, ensuring smooth animations, transitions, and ripples</li></ul>",
+        "meta": [
+          {
+            "keyword": "Material Kit Material-UI v4",
+            "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
+            "og-title": "Material Kit Material-UI v4",
+            "og-description": "Material Kit Material-UI v4, free Material-UI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
+            "name": "Material Kit Material-UI v4",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "create date": "29-10-2024",
+        "name": "Paper Dashboard React",
+        "price": 0,
+        "description": "Free Bootstarp and React Template",
+        "live-url": "https://demos.creative-tim.com/paper-dashboard-react/?_ga=2.245233477.1356904668.1730099324-GA1.2.1864488715.1698216368#/admin/dashboard",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/paperdashboard-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/paper-dashboard-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=paper-dashboard-react&type=star&count=true&size=large",
+        "categories": "React, Bootstrap",
+        "technology-stack": ["react", "scss", "bootstrap"],
+        "long-description": "Paper Dashboard React is a free Bootstrap 4 admin template that combines soft colors, beautiful typography, and spacious layouts to provide a clean and user-friendly experience. Designed for developers who want an elegant yet functional interface, Paper Dashboard React offers a perfect blend of minimalism and power. With its gentle color scheme and well-organized elements, this admin panel ensures that users can navigate easily while focusing on key information.<br/><br/><b>Features –</b><br/><ul><li>Bootstrap 4 support</li><li>Includes pre-coded components like buttons, cards, and navbars for a cohesive design. </li><li>Optimized for all devices, from desktops to mobile.</li><li>Pre-built pages for quick setup, including analytics and user settings.</li><li>Offers essential features in a simple, easy-to-navigate design.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Paper Dashboard React",
+            "description": "Download Paper Dashboard, a free React Bootstrap dashboard.",
+            "og-title": "Paper Dashboard React",
+            "og-description": "Paper Dashboard, a free React Bootstrap dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Paper Dashboard, a free React Bootstrap dashboard.",
+            "name": "Paper Dashboard React",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "create date": "29-10-2024",
+        "name": "Argon Dashboard React",
+        "price": 0,
+        "description": "Free Bootstarp and Reactstrap Template",
+        "live-url": "https://demos.creative-tim.com/argon-dashboard-react/?_ga=2.211669973.1356904668.1730099324-GA1.2.1864488715.1698216368#/admin/index",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/argon-dashboard-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=argon-dashboard-react&type=star&count=true&size=large",
+        "categories": "React, Bootstrap",
+        "technology-stack": ["react", "scss", "bootstrap"],
+        "long-description": "Argon Dashboard React is a free, open-source dashboard template built with Bootstrap 4, React, and Reactstrap. Designed to be lightweight yet fully functional, this template is ideal for developers looking to create beautiful and responsive dashboards or web applications. With over 100 individual components and pre-built example pages, Argon Dashboard React helps streamline the development process, making it quick and easy to build powerful, visually appealing web projects.<br/><br/><b>Features –</b><br/><ul><li>Fully coded and customizable, allowing easy design variations using SASS.</li><li>Includes example pages to speed up project setup and development.</li><li>Optimized for all screen sizes, ensuring great user experience on any device.</li><li>Components support hover, focus, and active states for dynamic UIs.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Argon Dashboard React",
+            "description": "Download Argon Dashboard, a free Bootstarp and Reactstrap dashboard.",
+            "og-title": "Argon Dashboard React",
+            "og-description": "Argon Dashboard, a free Bootstarp and Reactstrap dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Argon Dashboard, a free Bootstarp and Reactstrap dashboard.",
+            "name": "Argon Dashboard React",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     ]
   }
