@@ -456,6 +456,43 @@
         ]
       }, 
       {
+        "id": 26,
+        "create date": "27-12-2024",
+        "name": "Light Able Dashboard Template",
+        "price": 15,
+        "description": "14 in 1 Admin Template",
+        "live-url": "https://preview.themeforest.net/item/light-able-admin-dashboard-template/full_screen_preview/51628885?_ga=2.222474648.2033476031.1735285086-1480583188.1710908883",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightable-premium-react.png",
+        "download-link": "https://themeforest.net/item/light-able-admin-dashboard-template/51628885",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Light Able is a comprehensive 14-in-1 admin dashboard template designed for modern web applications. It is highly customizable, providing a modern user interface with both light/dark modes and RTL support. This template is built to enhance the developer experience by offering an easy folder structure, well-commented code, and more than 10 color presets to choose from.<br/><br/><b>Features –</b><br/><ul><li>6+ conceptual apps</li><li> Offer a sleek and contemporary look that’s easy to customize.</li><li>Light/Dark and auto modes</li><li>Includes a wide range of components and widgets to create any type of dashboard.</li><li>Pre-built form components and various layout options for a flexible design approach.</li><li>Ready-to-use landing and login pages.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Light Able Dashboard Template",
+            "description": "Download 14 in 1 Admin Template",
+            "og-title": "Light Able Dashboard Template",
+            "og-description": "Able Pro free React admin template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download 14 in 1 Admin Template.",
+            "name": "Light Able Dashboard Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightable-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "15",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
         "id": 10,
         "create date": "11-8-2024",
         "name": "Able Pro React MUI Dashboard",
@@ -651,30 +688,30 @@
       {
         "id": 19,
         "create date": "28-10-2024",
-        "name": "Material Kit Material-UI v4",
+        "name": "Purity UI Dashboard",
         "price": 0,
-        "description": "Free Material-UI Kit",
-        "live-url": "https://demos.creative-tim.com/material-kit-material-ui-v4/#/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
-        "download-link": "https://www.creative-tim.com/product/material-kit-material-ui-v4",
-        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-kit-react&type=star&count=true&size=large",
+        "description": "Free React Chakra UI Dashboard",
+        "live-url": "https://demos.creative-tim.com/purity-ui-dashboard/?_ga=2.189454955.1395838140.1735279264-1811786055.1732350493#/admin/dashboard",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/purityui-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/purity-ui-dashboard",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=purity-ui-dashboard&type=star&count=true&size=large",
         "categories": "React",
-        "technology-stack": ["react", "scss"],
-        "long-description": "Material Kit Material-UI v4 is a free Material-UI@4.1.0 kit that brings a fresh, modern design inspired by Google’s Material Design. This kit was built to provide developers with an easy-to-use set of beautiful components that incorporate the material design concepts of light, surface, and movement. If you’re working on a web project and want to make it visually appealing and consistent, Material Kit Material-UI v4 is the ideal choice.<br/><br/><b>Features –</b><br/><ul><li>Three fully-coded example pages to help you kickstart your project</li><li>Material-UI elements restyled for a sleek, modern look</li><li>Color choices, edge-to-edge imagery, and large-scale typography for a visually distinct UI</li><li>Layered interface resembling sheets of paper for clear depth and order</li><li>Left sidebar navigation with actions on the right for easy user interaction</li><li>Fully responsive design that works seamlessly across devices</li><li>Cross-browser compatibility for consistent performance</li><li>Built using Material-UI framework, ensuring smooth animations, transitions, and ripples</li></ul>",
+        "technology-stack": ["react", "chakra"],
+        "long-description": "Purity UI Dashboard is a modern and innovative free ReactJS admin dashboard template built with Chakra UI by Creative Tim and Simple. Designed for developers who want a sleek, elegant UI, Purity UI Dashboard offers more than 70 fully coded frontend elements and prebuilt pages like Sign-In and Profile. This template allows developers to customize and manage elements easily, providing the flexibility to modify colors with Chakra's style props.<br/><br/><b>Features –</b><br/><ul><li>Including buttons, inputs, navbars, nav tabs, cards, and alerts, allowing for a wide range of customization.</li><li>Prebuilt design blocks</li><li>Well-detailed and built by developers, providing clarity on using components.</li><li>Example pages are included to help quickly build essential structures for web projects, like landing pages and dashboards.</li></ul>",
         "meta": [
           {
-            "keyword": "Material Kit Material-UI v4",
-            "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
-            "og-title": "Material Kit Material-UI v4",
-            "og-description": "Material Kit Material-UI v4, free Material-UI Kit."
+            "keyword": "Purity UI Dashboard",
+            "description": "Download Purity, a React Chakra UI Dashboard.",
+            "og-title": "Purity UI Dashboard",
+            "og-description": "Download Purity, a React Chakra UI Dashboard."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
-            "name": "Material Kit Material-UI v4",
+            "description": "Download Purity, a React Chakra UI Dashboard.",
+            "name": "Purity UI Dashboard",
             "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
             "offers": {
               "type": "Offer",
@@ -754,6 +791,390 @@
               "type": "Offer",
               "availability": "https://schema.org/InStock",
               "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "create date": "27-12-2024",
+        "name": "Black React Dashboard",
+        "price": 0,
+        "description": "Free Bootstarp and React Admin Template",
+        "live-url": "https://demos.creative-tim.com/black-dashboard-react/?_ga=2.155292027.1395838140.1735279264-1811786055.1732350493#/admin/dashboard",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/blackdashboard-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/black-dashboard-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=black-dashboard-react&type=star&count=true&size=large",
+        "categories": "React, Bootstrap",
+        "technology-stack": ["react", "scss", "bootstrap"],
+        "long-description": "Black Dashboard React is a beautiful and modern admin dashboard built using Bootstrap 4 and Reactstrap. Designed to offer a clean and highly functional interface, this template is perfect for managing and visualizing data related to your business. The dashboard is packed with a large number of components, all crafted to fit together seamlessly and look amazing. Black Dashboard React uses a soothing color palette, spacious cards, beautiful typography, and clean graphics, offering a visually appealing and easy-to-use experience. It also comes bundled with all the essential plugins and extensive documentation, making it quick to get started and highly customizable.<br/><br/><b>Features –</b><br/><ul><li>16+ individual components</li><li>Color variations using SASS files for easy customization</li><li>Dark Mode and Light Mode</li><li>Responsive design ensuring seamless performance across devices</li><li>Dark Mode and Light Mode</li><li>Fully documented components and plugins for easy integration</li><li>Optimized for speed, saving time from prototyping to full-functional implementation</li></ul>",
+        "meta": [
+          {
+            "keyword": "Black React Dashboard",
+            "description": "Download Black Dashboard, a free Bootstarp and React dashboard.",
+            "og-title": "Black React Dashboard",
+            "og-description": "Black Dashboard, a free Bootstarp and React dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Black Dashboard, a free Bootstarp and Reactstrap dashboard.",
+            "name": "Black Dashboard React",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/blackdashboard-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "create date": "27-12-2024",
+        "name": "Light React Bootstrap Dashboard",
+        "price": 0,
+        "description": "Free Bootstrap React Admin Template",
+        "live-url": "https://demos.creative-tim.com/light-bootstrap-dashboard-react/?_ga=2.269088433.1395838140.1735279264-1811786055.1732350493#/admin/dashboard",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightbootstrap-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/light-bootstrap-dashboard-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=light-bootstrap-dashboard-react&type=star&count=true&size=large",
+        "categories": "React, Bootstrap",
+        "technology-stack": ["react", "scss", "bootstrap"],
+        "long-description": "Light Bootstrap Dashboard React is a free and beautifully simple admin dashboard template built on top of Light Bootstrap Dashboard and React JS. Fully responsive, this template comes with a comprehensive set of components and elements that allow you to build a wide range of applications. Whether you're developing admin panels, project management systems, web application backends, CMS, or CRM platforms, Light Bootstrap Dashboard React provides the flexibility to create a solution that fits your needs.<br/><br/><b>Features –</b><br/><ul><li>React JS for modern and efficient development</li><li>A vast collection of fully customizable components and optimized plugins</li><li>6 color filter options for the sidebar</li><li>Fully responsive design, ensuring a seamless experience across all devices</li><li>Designed with simplicity and elegance in mind</li></ul>",
+        "meta": [
+          {
+            "keyword": "Light React Bootstrap Dashboard",
+            "description": "Download Light Dashboard, a free Bootstarp and React dashboard.",
+            "og-title": "Light React Dashboard",
+            "og-description": "Light Dashboard, a free Bootstarp and React dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Light Dashboard, a free Bootstarp and React dashboard.",
+            "name": "Light Dashboard React",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightbootstrap-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "create date": "27-12-2024",
+        "name": "Notus React UI Kit & Admin",
+        "price": 0,
+        "description": "Free Tailwind CSS UI Kit and Admin",
+        "live-url": "https://demos.creative-tim.com/notus-react/?_ga=2.189454955.1395838140.1735279264-1811786055.1732350493#/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/notus-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/notus-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=notus-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"],
+        "long-description": "Notus React is a beautifully designed, free Tailwind CSS and React UI Kit that empowers developers to build stunning and responsive web applications with ease. Tailored for modern web development, it comes packed with a rich selection of fully coded components, making it ideal for building websites, dashboards, and complex admin interfaces.<br/><br/><b>Features –</b><br/><ul><li>Tailwind CSS, offering a clean and modern design</li><li>Includes over 100 frontend components</li><li>Seamlessly transition from prototypes to fully functional projects</li><li>Multiple state support</li><li>Tailwind CSS classes, allowing for quick adjustments and styling without the need for complex configurations.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Notus React UI Kit & Admin",
+            "description": "Download Notus, a free React UI Kit & Admin.",
+            "og-title": "Notus React UI Kit & Admin",
+            "og-description": "Download Notus, a free React UI Kit & Admin."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Notus, a free React UI Kit & Admin.",
+            "name": "Notus React UI Kit & Admin",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/notus-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "create date": "27-12-2024",
+        "name": "Argon Design System",
+        "price": 0,
+        "description": "Free Design System For reactstrap",
+        "live-url": "https://demos.creative-tim.com/argon-design-system-react/?_ga=2.229700316.1395838140.1735279264-1811786055.1732350493#/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argon-design-system-react.png",
+        "download-link": "https://www.creative-tim.com/product/argon-design-system-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=argon-design-system-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap", "scss", "figma"],
+        "long-description": "Argon Design System React is a free, open-source design system built with Bootstrap 4, React, and Reactstrap. It provides developers with a comprehensive set of tools, components, and pre-built design elements that can be easily integrated into any project. Perfect for creating modern, visually appealing web applications, this design system simplifies the process of building user interfaces by offering a robust library of customizable components.<br/><br/><b>Features –</b><br/><ul><li>Fully coded components</li><li>Responsive and interactive elements</li><li>Allow developers to quickly set up the basic structure of a project, providing a clear pathway to creating fully functional web applications.</li><li>The design system features comprehensive documentation that thoroughly explains each component.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Argon Design System",
+            "description": "Download Argon, a free Design System.",
+            "og-title": "Argon Design System",
+            "og-description": "Download Argon, a free Design System."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Argon, a free Design System.",
+            "name": "Argon Design System",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argon-design-system-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Minimal",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 27,
+        "create date": "27-12-2024",
+        "name": "Minimal React MUI Dashboard",
+        "price": 69,
+        "description": "MUI React Admin Template",
+        "live-url": "https://mui.com/store/previews/minimal-dashboard/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-premum-react.png",
+        "download-link": "https://mui.com/store/items/minimal-dashboard/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "ts"], 
+        "long-description": "Minimal Dashboard is a clean and professional Next.js and Vite React admin template built with Material-UI v5. It comes packed with over 70+ pages and 100+ React components, making it a powerful and flexible UI kit to kickstart your next project. Minimal Dashboard blends modern aesthetics with efficient functionality, offering a seamless user experience for developers and end-users alike.<br/><br/><b>Features –</b><br/><ul><li>Next.js v14.x (App Dir version) and Vite support for modern, high-performance development</li><li>Material-UI v5 for a sleek, modern design with customizable components</li><li>100% React Hooks and React Context API for state management</li><li>Light/Dark mode to offer a personalized experience</li><li>Editors, ApexCharts, and SWR Fetching for data visualization and content management</li><li>Dropzone Upload, Image Lazy Loading, and Color Theme Changing for performance optimization</li><li>React Hook Form + Zod for form validation and management</li><li>ESLint & Prettier integration for code quality assurance</li><li>Animated Framer Motion for smooth, interactive UI elements</li></ul>",
+        "meta": [
+          {
+            "keyword": "Minimal React MUI Dashboard",
+            "description": "Download Minimal, a React MUI Dashboard.",
+            "og-title": "Minimal React MUI Dashboard",
+            "og-description": "Download Minimal, a React MUI Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Minimal, a React MUI Dashboard.",
+            "name": "Minimal React MUI Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-premum-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "create date": "27-12-2024",
+        "name": "Minimal Free React Dashboard",
+        "price": 0,
+        "description": "Free React Admin Dashboard made with Material UI",
+        "live-url": "https://mui.com/store/previews/minimal-dashboard-free/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-free-react.png",
+        "download-link": "https://mui.com/store/items/minimal-dashboard-free/",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=minimal-ui-kit&repo=material-kit-react&type=star&count=true&size=large",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Minimal Free is a React admin dashboard template that uses Material UI components to deliver a sleek, responsive, and easy-to-use interface for managing web applications. Designed for developers seeking simplicity and efficiency, this template ensures a smooth experience for both users and developers.<br/><br/><b>Features –</b><br/><ul><li>Displays key metrics with charts and graphs.</li><li>Manage users with a dedicated page.</li><li>Track and manage products seamlessly.</li><li>Basic sign-in page for authentication.</li><li>Works smoothly across all devices.</li><li>Easy cloning, installation, and server setup.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Minimal Free React Dashboard",
+            "description": "Download Minimal, a React Dashboard.",
+            "og-title": "Minimal Free React Dashboard",
+            "og-description": "Download Minimal, a React Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Minimal, a React Dashboard.",
+            "name": "Minimal Free React Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "create date": "28-12-2024",
+        "name": "Zone UI Kit",
+        "price": 59,
+        "description": "React Multipurpose Landing Page + UI Kit",
+        "live-url": "https://mui.com/store/previews/zone-landing-page/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/zone-premium-react.png",
+        "download-link": "https://mui.com/store/items/zone-landing-page/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "vite"],
+        "long-description": "Zone is the perfect UI Kit designed for creating stunning landing pages and corporate websites. Built on top of Material-UI and designed for both Next.js and Vite, it offers a powerful, customizable, and easy-to-use collection of components that help developers build beautiful, responsive user interfaces efficiently. With over 60+ pre-built pages, Zone streamlines the development process, allowing developers to quickly bring their ideas to life with minimal effort.<br/><br/><b>Features –</b><br/><ul><li>Next.js and Vite support for modern, high-performance development</li><li>60+ pre-built pages </li><li>Material-UI v5 for sleek and professional design components</li><li>React Hooks for efficient and modern state management</li><li>Image Lazy Loading for performance optimization</li><li>Change Color Theme to tailor the UI to your brand</li><li>React Hook Form + Zod for seamless form management and validation</li></ul>",
+        "meta": [
+          {
+            "keyword": "Zone UI Kit",
+            "description": "Download Zone, Multipurpose Landing Page + UI Kit.",
+            "og-title": "Zone UI Kit",
+            "og-description": "Download Zone, Multipurpose Landing Page + UI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Zone, Multipurpose Landing Page + UI Kit.",
+            "name": "Zone UI Kit",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/zone-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "59",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Devias",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 30,
+        "create date": "28-12-2024",
+        "name": "Devias Kit Dashboard",
+        "price": 69,
+        "description": "MUI React Admin Template",
+        "live-url": "https://mui.com/store/previews/devias-kit-pro/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-premium-react.png",
+        "download-link": "hhttps://mui.com/store/items/devias-kit-pro/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "ts", "vite"], 
+        "long-description": "Devias Kit Pro is a premium Next.js and Vite React admin dashboard template that offers a complete set of ready-to-use Material UI components. Designed for both client and admin use, this template provides a fast, efficient, and visually appealing solution for building modern web applications. The components are carefully crafted with a common goal: to help developers build applications faster and more beautifully. Each element is fully customizable, responsive, and easy to integrate, ensuring flexibility for any project.<br/><br/><b>Features –</b><br/><ul><li>Built with Next.js and Vite React for high-performance and scalable architecture</li><li>A large library of fully coded Material UI components, including charts, forms, tables, and models</li><li>Pre-built pages such as analytics, e-commerce, invoices, and more to jump-start your project</li><li>Fully customizable components with support for Material UI styled() API and sx prop for easy styling</li><li>Responsive and mobile-friendly design ensuring optimal performance across all devices</li><li>Clean and modular code with easy customization and scalability</li></ul>",
+        "meta": [
+          {
+            "keyword": "Devias Kit Dashboard",
+            "description": "Download Devias Kit, a React MUI Dashboard.",
+            "og-title": "Devias Kit Dashboard",
+            "og-description": "Download Devias Kit, a React MUI Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Devias Kit, a React MUI Dashboard.",
+            "name": "Devias Kit Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "create date": "28-12-2024",
+        "name": "Devias Kit Free Dashboard",
+        "price": 0,
+        "description": "Free MUI React Admin Template",
+        "live-url": "https://mui.com/store/previews/devias-kit/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-free-react.png",
+        "download-link": "https://mui.com/store/items/devias-kit/",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=devias-io&repo=material-kit-react&type=star&count=true&size=large",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "Devias Kit is a free and open-source React admin dashboard that provides developers with an easy-to-use, modern interface. Built with Material UI components and Next.js App Router, this dashboard is designed to streamline the development process for building robust applications. Whether you need a dashboard for managing users, analyzing data, or displaying business metrics, Devias Kit offers flexibility and ease of use with a clean, professional layout.<br/><br/><b>Features –</b><br/><ul><li>Custom authentication</li><li>Simplifies form handling with built-in validation</li><li>Easy data visualization with interactive charts.</li><li>Latest Next.js version for optimized performance.</li><li>Includes high-quality, customizable icons.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Devias Kit Free Dashboard",
+            "description": "Download Free Devias Kit, a React MUI Dashboard.",
+            "og-title": "Devias Kit Free Dashboard",
+            "og-description": "Download Free Devias Kit, a React MUI Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Free Devias Kit, a React MUI Dashboard.",
+            "name": "Devias Kit Free Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "create date": "28-12-2024",
+        "name": "Lotru Joy UI Dashboard",
+        "price": 69,
+        "description": "Joy UI Admin Template",
+        "live-url": "https://mui.com/store/previews/lotru/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lotru-premium-react.png",
+        "download-link": "https://mui.com/store/items/lotru/",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "vite", "devicon_nextjs"], 
+        "long-description": "Lotru - Joy UI Dashboard is a premium dashboard template designed to help developers build modern, feature-rich applications with ease. Based on Joy UI, this dashboard offers a beautiful design and comes with a variety of pre-built components and modules, allowing you to create seamless and interactive web applications quickly. Whether you’re building dashboards for business analytics, e-commerce platforms, or internal management tools, Lotru provides all the essential tools for an efficient development process.<br/><br/><b>Features –</b><br/><ul><li>Built with Joy UI for a sleek, modern user interface</li><li>Supports Next.js v14.1 App Router and Vite versions for a modern development workflow</li><li>Custom authentication with options for AWS Cognito, Amplify, Auth0, Firebase, and Supabase</li><li>Forms built with React Hook Form and schema validation using Zod</li><li>Advanced charting with Recharts for data visualization</li><li>Animations created with Framer Motion for smooth transitions and interactions</li></ul>",
+        "meta": [
+          {
+            "keyword": "Lotru Joy UI Dashboard",
+            "description": "Download Lotru, a Joy UI Dashboard.",
+            "og-title": "Lotru Joy UI Dashboard",
+            "og-description": "Download Lotru, a Joy UI Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Lotru, a Joy UI Dashboard.",
+            "name": "Lotru Joy UI Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lotru-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
               "priceCurrency": "USD"
             }
           }
