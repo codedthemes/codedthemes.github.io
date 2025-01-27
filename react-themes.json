@@ -1181,5 +1181,343 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Maccarian",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 33,
+        "create date": "23-1-2025",
+        "name": "theFront - Multipurpose Template & UI Kit",
+        "price": 49,
+        "description": "Multipurpose Template & UI Kit",
+        "live-url": "https://mui.com/store/previews/mira-pro-react-material-admin-dashboard/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mirapro-premium-react.png",
+        "download-link": "https://mui.com/store/items/the-front-landing-page/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "ts"], 
+        "long-description": "theFront is a multipurpose React template that is perfect for building professional and modern landing pages, thanks to its wide range of ready-to-use Material UI components. Whether you're creating a marketing page, a personal portfolio, or a product showcase, theFront's components are customizable, responsive, and easy to integrate. The flexibility of its components allows you to create new pages effortlessly, enabling you to mix and match elements to meet your specific needs. <br/><br/><b>Features –</b><br/><ul><li>Over 70+ example pages</li><li>300+ reusable components</li><li>Fully built with React v18, Material UI v5, and Next.js v14</li><li>100% React hooks integration for modern development</li><li>Fully responsive, supporting all modern devices and browsers</li></ul>",
+        "meta": [
+          {
+            "keyword": "theFront - Multipurpose Template & UI Kit",
+            "description": "Download theFront, Multipurpose Template & UI Kit.",
+            "og-title": "theFront - Multipurpose Template & UI Kit",
+            "og-description": "Download theFront, Multipurpose Template & UI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download theFront, Multipurpose Template & UI Kit.",
+            "name": "theFront - Multipurpose Template & UI Kit",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mirapro-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "49",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "create date": "25-1-2025",
+        "name": "Webbee Multipurpose UI Kit",
+        "price": 59,
+        "description": "Multipurpose landing page UI Kit",
+        "live-url": "https://mui.com/store/previews/webbee-landing-page/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/webbee-premium-react.png",
+        "download-link": "https://mui.com/store/items/webbee-landing-page/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "Webbee is a professional React UI kit designed to help developers quickly create modern, responsive, and beautiful landing pages. With a range of ready-to-use Material UI components, Webbee ensures a streamlined development process, allowing you to focus more on building user-friendly and visually appealing front-end pages. Webbee Multipurpose Landing Page UI Kit is ideal for developers looking for a flexible, feature-rich solution to create stunning landing pages with minimal effort. Its comprehensive design system, reusable components, and ongoing support make it a valuable tool for building both simple and complex front-end applications.<br/><br/><b>Features –</b><br/><ul><li>30+ Pre-designed Pages</li><li>Utilize flexible and reusable components</li><li>Provides an aesthetic dark mode option</li><li>Integrates with Formik for smooth form handling and validation.</li><li>Includes lazy loading to enhance performance</li><li>Sections animate on scroll to add visual appeal.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Webbee Multipurpose landing page UI Kit",
+            "description": "Download Webbee, Multipurpose landing page UI Kit.",
+            "og-title": "Webbee Multipurpose landing page UI Kit",
+            "og-description": "Download Webbee, Multipurpose landing page UI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Webbee, Multipurpose landing page UI Kit.",
+            "name": "Webbee Multipurpose landing page UI Kit",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/webbee-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "59",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bootlab",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 35,
+        "create date": "25-1-2025",
+        "name": "Mira Pro React Material UI Dashboard Template",
+        "price": 69,
+        "description": "Multipurpose Template & UI Kit",
+        "live-url": "https://mui.com/store/previews/mira-pro-react-material-admin-dashboard/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/thefront-premium-react.png",
+        "download-link": "https://mui.com/store/items/mira-pro-react-material-admin-dashboard/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "ts", "vite"], 
+        "long-description": "Mira Pro (formerly known as Material App) is a top-tier React Dashboard Template that leverages the power of Material UI components to help developers build scalable and aesthetically pleasing admin panels. Whether you're creating a SaaS-based interface, E-commerce platform, or Analytics dashboard, Mira Pro is designed to save development time while ensuring high performance.<br/><br/><b>Features –</b><br/><ul><li>Material UI v6</li><li>Supports the Next.js features</li><li>Built with Vite</li><li>Ensuring flexibility in the development environment.</li><li>Comes with built-in authentication options like Auth0, Firebase, Amazon Cognito, and JWT, simplifying user management.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Mira Pro React Material UI Dashboard Template",
+            "description": "Download Mira Pro, Multipurpose Template & UI Kit.",
+            "og-title": "Mira Pro React Material UI Dashboard Template",
+            "og-description": "Download Mira Pro, Multipurpose Template & UI Kit."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Mira Pro, Multipurpose Template & UI Kit.",
+            "name": "Mira Pro React Material UI Dashboard Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/thefront-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ThemeSelection",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 36,
+        "create date": "25-1-2025",
+        "name": "Materio React Next.js Dashboard Template",
+        "price": 69,
+        "description": "Material UI Next.js Admin Template",
+        "live-url": "https://demos.themeselection.com/marketplace/materio-mui-nextjs-admin-template/landing-page/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materio-premium-react.png",
+        "download-link": "https://mui.com/store/items/materio-mui-react-nextjs-admin-template/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "ts", "vite"], 
+        "long-description": "Materio is a powerful and comprehensive Next.js admin template built with the latest Next.js v14 (App Router with SSR) and Material UI v5. Offering a sleek and modern design, this template provides developers with an elegant material design interface and unique layouts for various applications. It's perfect for SaaS platforms, eCommerce backends, CRM systems, and many more, offering a fully responsive and customizable experience.<br/><br/><b>Features –</b><br/><ul><li>NEW - Next.js v14 (App Router with SSR)</li><li>Supports material UI</li><li>100% React Hooks & functional components</li><li>Ready-to-deploy folder structure</li><li>10 apps and 5 dashboards</li><li>Light/Dark Mode</li></ul>",
+        "meta": [
+          {
+            "keyword": "Materio React Next.js Dashboard Template",
+            "description": "Download Materio, Material UI Next.js Admin Template.",
+            "og-title": "Materio React Next.js Dashboard Template",
+            "og-description": "Download Materio, Material UI Next.js Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Materio, Material UI Next.js Admin Template.",
+            "name": "Materio React Next.js Dashboard Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materio-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UI Foundations",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 37,
+        "create date": "25-1-2025",
+        "name": "UI Foundations Kit",
+        "price": 45,
+        "description": "Material UI SaaS Dashboard Template",
+        "live-url": "https://demo.uifoundations.com/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/UIFoundationsKit-premium-react.png",
+        "download-link": "https://mui.com/store/items/ui-foundations-kit-saas-admin-dashboard-template/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "The UI Foundations Kit is a comprehensive SaaS dashboard template designed for developers building modern, high-performance applications using Material UI. With a clean, intuitive design, this kit offers everything you need to quickly build dashboards for business applications, internal platforms, or consumer-focused solutions. It is designed to be flexible, customizable, and fully responsive, making it a go-to solution for any SaaS project.<br/><br/><b>Features –</b><br/><ul><li>In-app tours and walkthroughs</li><li>Search tool allowing users to navigate the app or execute commands quickly</li><li>Custom filtering</li><li>Automatically adjusts typography settings for perfect readability across devices</li><li>Theme and color palette switcher</li><li>Dark mode integration</li></ul>",
+        "meta": [
+          {
+            "keyword": "UI Foundations Kit ",
+            "description": "Download UI Foundations Kit, Material UI SaaS Dashboard Template.",
+            "og-title": "UI Foundations Kit ",
+            "og-description": "Download UI Foundations Kit, Material UI SaaS Dashboard Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download UI Foundations Kit, Material UI SaaS Dashboard Template.",
+            "name": "UI Foundations Kit",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/UIFoundationsKit-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "45",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AdminMart",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 38,
+        "create date": "25-1-2025",
+        "name": "Modernize React and Next.js Dashboard",
+        "price": 49,
+        "description": "React / Next.js Material UI Admin Dashboard",
+        "live-url": "https://modernize-nextjs.adminmart.com/landingpage-new",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-premium-react.png",
+        "download-link": "https://mui.com/store/items/modernize-next-js-admin-template/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs"], 
+        "long-description": "Modernize is a powerful Material UI admin template built using Next.js, designed to help developers quickly create high-performance web applications. With a developer-friendly environment and a rich set of features, this template enhances the efficiency of web projects while maintaining a sleek, professional look. It's ideal for fast-paced projects that require robust and scalable solutions.<br/><br/><b>Features –</b><br/><ul><li>Next.js support</li><li>75 page templates to suit various needs and applications</li><li>45 UI components, offering flexibility and customizability for developers</li><li>11+ ready-to-use applications</li><li>Charts & graphs</li><li>Dark mode integration</li></ul>",
+        "meta": [
+          {
+            "keyword": "Modernize React and Next.js Dashboard",
+            "description": "Download Modernize, React / Next.js Material UI Admin Dashboard.",
+            "og-title": "Modernize React and Next.js Dashboard",
+            "og-description": "Download Modernize, React / Next.js Material UI Admin Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Modernize, React / Next.js Material UI Admin Dashboard.",
+            "name": "Modernize React and Next.js Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "49",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "create date": "25-1-2025",
+        "name": "Modernize Next.js Free Dashboard Template",
+        "price": 0,
+        "description": "Free Next.js Admin Template with Material Ui + Typescript",
+        "live-url": "https://modernize-nextjs-free.vercel.app/?ref=5",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-free-react.png",
+        "download-link": "https://github.com/adminmart/Modernize-Nextjs-Free",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=adminmart&repo=Modernize-Nextjs-Free&type=star&count=true&size=large",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "ts"], 
+        "long-description": "The Modernize Next.js Free Admin Template is a sleek, responsive React dashboard built with Material UI components. It offers a clean, intuitive interface, perfect for managing analytics and admin tasks efficiently, making it ideal for building modern web applications.<br/><br/><b>Features –</b><br/><ul><li>6+ Demo Pages</li><li>React & Material UI</li><li>Freely distributed under the MIT License</li><li>Dashboard is fully optimized for various devices and screen sizes.</li><li>Easily set up and run with a simple installation.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Modernize Next.js Free Dashboard Template",
+            "description": "Download Modernize, Free Next.js Admin Template with Material Ui + Typescript.",
+            "og-title": "Modernize Next.js Free Dashboard Template",
+            "og-description": "Download Modernize, Free Next.js Admin Template with Material Ui + Typescript."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Modernize, Free Next.js Admin Template with Material Ui + Typescript.",
+            "name": "Modernize Next.js Free Dashboard Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BloomUI",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 39,
+        "create date": "25-1-2025",
+        "name": "uifort React Client and Admin Template",
+        "price": 69,
+        "description": "React Material Client and Admin Template",
+        "live-url": "https://uifort.com/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
+        "download-link": "https://mui.com/store/items/uifort-react-admin-dashboard-template/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "vite"], 
+        "long-description": "Uifort is a comprehensive React client and admin dashboard template, designed with both developers and designers in mind. It helps build enterprise-level user interfaces with ease by combining Next.js and Vite support. With its fully coded components, multiple layouts, and seamless customization options, Uifort is built for efficiency, speed, and flexibility.<br/><br/><b>Features –</b><br/><ul><li>Optimized for speed, ensuring fast load times and a smooth user experience.</li><li>Customize your themes with light and dark modes </li><li>Ensures excellent display across various devices and screen sizes.</li><li>Built-in right-to-left layout support for multilingual use cases.</li><li>Pre-built templates</li><li>Secure user authentication with Supabase, JWT, Firebase, and Auth0 integration.</li><li></ul>",
+        "meta": [
+          {
+            "keyword": "uifort React Client and Admin Template",
+            "description": "Download uifort, React Material Client and Admin Template.",
+            "og-title": "uifort React Client and Admin Template",
+            "og-description": "Download uifort, React Material Client and Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download uifort, React Material Client and Admin Template.",
+            "name": "uifort React Client and Admin Template",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
