@@ -943,6 +943,117 @@
             }
           }
         ]
+      },
+      {
+        "id": 42,
+        "create date": "24-3-2025",
+        "name": "Soft UI Pro React Dashboard",
+        "price": 69,
+        "description": "Material UI and React Admin Template",
+        "live-url": "https://demos.creative-tim.com/soft-ui-dashboard-pro-react/marketplace/#/dashboards/default",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/softui-premium-react.png",
+        "download-link": "https://mui.com/store/items/soft-ui-pro-dashboard/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Soft UI Pro React Admin Dashboard is a premium admin dashboard template built with Material UI and React. Designed with a modern and sleek UI, it allows developers to create visually appealing and functional dashboards for various web applications. This template is perfect for those looking for a professional design trend combined with high customization flexibility. Soft UI Pro offers a wide array of pre-built components that can easily integrate into any project, reducing the time needed for setup and design..<br/><br/><b>Features –</b><br/><ul><li>300+ fully coded components.</li><li>Pre-built design blocks.</li><li>Highly flexible and optimized for easy integration with various pages and applications.</li><li>Includes detailed guidelines and easy-to-follow documentation for all elements.</li><li>Ensures compatibility across different devices, providing a smooth user experience on mobile, tablet, and desktop.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Soft UI Pro React Dashboard",
+            "description": "Download Soft UI, Pro React Dashboard.",
+            "og-title": "Soft UI Pro React Dashboard",
+            "og-description": "Download Soft UI, Pro React Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Soft UI, Pro React Dashboard.",
+            "name": "Soft UI Pro React Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/softui-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "create date": "8-4-2025",
+        "name": "Otis Kit",
+        "price": 69,
+        "description": "Material Kit for React",
+        "live-url": "https://demos.creative-tim.com/otis-kit-pro/#/presentation",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otiskit-premium-react.png",
+        "download-link": "https://mui.com/store/items/otis-kit-pro-material-kit-react/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Otis Kit PRO is a premium Material UI design system based on React, offering developers a complete set of components to create elegant, feature-rich websites. Designed for developers who want to build good-looking and highly customizable web projects, it’s inspired by Material Design and offers all the necessary components to accelerate development. If you aim to create professional-grade websites with modern UI elements, Otis Kit PRO is a solid choice.<br/><br/><b>Features –</b><br/><ul><li>Pre-built design blocks save time in development, providing creative sections to build web pages faster.</li><li>Includes ready-to-use pages for various website functionalities</li><li>Follows a modular design for seamless integration and flexibility</li><li>Works on all devices, ensuring a smooth experience across screens of all sizes</li></ul>",
+        "meta": [
+          {
+            "keyword": "Otis Kit",
+            "description": "Download Otis Kit, Material Kit for React.",
+            "og-title": "Otis Kit",
+            "og-description": "Download Otis Kit, Material Kit for React."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Otis Kit, Material Kit for React.",
+            "name": "Otis Kit",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otiskit-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "create date": "8-4-2025",
+        "name": "Otis Dashboard",
+        "price": 69,
+        "description": "Material Dashboard for React",
+        "live-url": "hhttps://demos.creative-tim.com/otis-admin-pro/#/dashboards/analytics",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otisadmin-premium-react.png",
+        "download-link": "https://mui.com/store/items/otis-admin-pro-material-dashboard-react/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Otis Admin PRO is a premium Material UI admin template designed using React, offering an efficient solution for developers to create robust admin dashboards. Featuring Google's Material Design principles, this dashboard is highly customizable, making it a top choice for creating stunning, user-friendly web applications. Whether you are managing data or presenting analytics, Otis Admin PRO provides a modern interface with plenty of customization options for developers.<br/><br/><b>Features –</b><br/><ul><li>Over 200 ready-to-use elements like buttons, inputs, and navbars.</li><li>Pre-built blocks ensure smooth transitions from the template to live websites</li><li>Easy-to-follow documentation</li><li>Responsive & developer-friendly</li></ul>",
+        "meta": [
+          {
+            "keyword": "Otis Dashboard",
+            "description": "Download Otis Dashboard, Material Dashboard for React.",
+            "og-title": "Otis Dashboard",
+            "og-description": "Download Otis Dashboard, Material Dashboard for React."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Otis Dashboard, Material Dashboard for React.",
+            "name": "Otis Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otisadmin-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     ]
   },
@@ -1513,6 +1624,50 @@
               "type": "Offer",
               "availability": "https://schema.org/InStock",
               "price": "69",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UI Lib",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 41,
+        "create date": "24-3-2025",
+        "name": "UKO Next.js and Vite Client and Admin Dashboard",
+        "price": 49,
+        "description": "Next.js and Vite Client and Admin Template",
+        "live-url": "https://uko-react.vercel.app/",
+        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uko-premium-react.png",
+        "download-link": "https://mui.com/store/items/uko-client-admin-dashboard/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "devicon_nextjs", "vite"], 
+        "long-description": "UKO is a professionally designed, minimalistic admin dashboard template built using React, CRA, Vite, and Next.js. It is a comprehensive solution for developers looking to create client and admin dashboards with modern design and smooth functionality. UKO offers a complete set of components, pages, and ready-to-use apps to simplify the process of building web applications.<br/><br/><b>Features –</b><br/><ul><li>Built with the latest Material UI components</li><li>Implements React hooks and context for state management.</li><li>Offers plain and split vertical layouts for flexible design options.</li><li>Supports authentication via JWT, Firebase, Auth0, and Amplify.</li><li>Support for Right-to-Left (RTL) layout</li><li>Pre-built charts provide easy data visualization.</li></ul>",
+        "meta": [
+          {
+            "keyword": "UKO Next.js and Vite Client and Admin Dashboard",
+            "description": "Download UKO, Next.js and Vite Client and Admin Template.",
+            "og-title": "UKO Next.js and Vite Client and Admin Dashboard",
+            "og-description": "Download UKO, Next.js and Vite Client and Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download UKO, Next.js and Vite Client and Admin Template.",
+            "name": "UKO Next.js and Vite Client and Admin Dashboard",
+            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uko-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "49",
               "priceCurrency": "USD"
             }
           }
