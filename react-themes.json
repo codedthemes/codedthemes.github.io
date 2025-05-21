@@ -11,7 +11,7 @@
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://berrydashboard.io/free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/berry-free-react.png",
         "download-link": "https://codedthemes.com/item/berry-mui-free-react-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=berry-free-react-admin-template&type=star&count=true&size=large",
         "categories": "MUI, React",
@@ -31,7 +31,7 @@
             "type": "Product",
             "description": "Download Berry, a free React Material UI admin template.",
             "name": "Berry Free React Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/berry-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -48,7 +48,7 @@
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://mantisdashboard.io/free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/mantis-free-react.png",
         "download-link": "https://codedthemes.com/item/mantis-free-mui-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=mantis-free-react-admin-template&type=star&count=true&size=large",
         "categories": "MUI, React",
@@ -68,7 +68,7 @@
             "type": "Product",
             "description": "Download Mantis, a free React Material UI admin template.",
             "name": "Mantis Free React Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/mantis-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -85,7 +85,7 @@
         "price": 0,
         "description": "Free React Bootstrap Admin Template",
         "live-url": "https://lite.codedthemes.com/datta-able/react/default/dashboard/default",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dattaable-free-react.png",
         "download-link": "https://codedthemes.com/item/datta-able-react-free-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=datta-able-free-react-admin-template&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
@@ -105,7 +105,7 @@
             "type": "Product",
             "description": "Download Datta Able, a free React admin template.",
             "name": "Datta Able Free React Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dattaable-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -122,7 +122,7 @@
         "price": 0,
         "description": "Free React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/gradient-able/react/free/app/dashboard/analytics",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gradientable-free-react.png",
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-free-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=gradient-able-free-admin-template&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
@@ -142,7 +142,7 @@
             "type": "Product",
             "description": "Download Gradient Able, a free React admin template.",
             "name": "Gradient Able Free React Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gradientable-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -159,7 +159,7 @@
         "price": 69,
         "description": "React Material UI Admin Template",
         "live-url": "https://mui.com/store/previews/berry-react-material-admin/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/berry-premium-react.png",
         "download-link": "https://mui.com/store/items/berry-react-material-admin/",
         "githubstar-link": "",
         "categories": "MUI, React",
@@ -179,7 +179,7 @@
             "type": "Product",
             "description": "Download Berry, a premium React Material UI admin template.",
             "name": "Berry React MUI Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/berry-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/berry-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -196,7 +196,7 @@
         "price": 69,
         "description": "React Material UI Admin Template",
         "live-url": "https://mui.com/store/previews/mantis-react-admin-dashboard-template/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium-ereact.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/mantis-premium-ereact.png",
         "download-link": "https://mui.com/store/items/mantis-react-admin-dashboard-template/",
         "githubstar-link": "",
         "categories": "MUI, React",
@@ -216,7 +216,7 @@
             "type": "Product",
             "description": "Download Mantis, a premium React Material UI admin template.",
             "name": "Mantis React MUI Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mantis-premium-ereact.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/mantis-premium-ereact.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -233,7 +233,7 @@
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/datta-able/react/default/login",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dattaable-premium-react.png",
         "download-link": "https://codedthemes.com/item/datta-able-react-admin-template/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
@@ -253,7 +253,7 @@
             "type": "Product",
             "description": "Download Datta Able, a premium React Bootstrap admin template.",
             "name": "Datta Able React Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/dattaable-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dattaable-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -270,7 +270,7 @@
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/gradient-able/react/default/app/dashboard/analytics",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gradientable-premium-react.png",
         "download-link": "https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
@@ -290,7 +290,7 @@
             "type": "Product",
             "description": "Download Gradient Able, a premium React Bootstrap admin template.",
             "name": "Gradient Able React Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/gradientable-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gradientable-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -307,7 +307,7 @@
         "price": 35,
         "description": "React Material UI Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/materially/react/default/dashboard/default",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materially-premium-react.png",
         "download-link": "https://codedthemes.com/item/materially-reactjs-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -327,7 +327,7 @@
             "type": "Product",
             "description": "Download Materially, a premium React Material UI admin template",
             "name": "Materially ReactJS Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materially-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -344,7 +344,7 @@
         "price": 35,
         "description": "Premium React Bootstrap Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/next/react/default/dashboard/analytics",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/next-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/next-premium-react.png",
         "download-link": "https://codedthemes.com/item/next-react-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, Bootstrap",
@@ -364,7 +364,7 @@
             "type": "Product",
             "description": "Download Next, a premium React Bootstrap admin template",
             "name": "Next React Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/next-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/next-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -381,7 +381,7 @@
         "price": 0,
         "description": "Free React Admin Template",
         "live-url": "https://codedthemes.com/demos/admin-templates/materially/react/free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materially-free-react.png",
         "download-link": "https://codedthemes.com/item/materially-free-reactjs-admin-template/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=codedthemes&repo=materially-free-react-admin-template&type=star&count=true&size=large",
         "categories": "React",
@@ -401,7 +401,7 @@
             "type": "Product",
             "description": "Download Materially, a free React admin template.",
             "name": "Materially Free Reactjs Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materially-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materially-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -425,7 +425,7 @@
         "price": 0,
         "description": "Free React Admin Template",
         "live-url": "https://ableproadmin.com/react/free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ablepro-free-react.png",
         "download-link": "https://github.com/phoenixcoded/able-pro-free-admin-dashboard-template",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=phoenixcoded&repo=able-pro-free-admin-dashboard-template&type=star&count=true&size=large",
         "categories": "React",
@@ -445,7 +445,7 @@
             "type": "Product",
             "description": "Download Able Pro, a free React admin template.",
             "name": "Able Pro Free React Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ablepro-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -462,7 +462,7 @@
         "price": 15,
         "description": "14 in 1 Admin Template",
         "live-url": "https://preview.themeforest.net/item/light-able-admin-dashboard-template/full_screen_preview/51628885?_ga=2.222474648.2033476031.1735285086-1480583188.1710908883",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightable-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lightable-premium-react.png",
         "download-link": "https://themeforest.net/item/light-able-admin-dashboard-template/51628885",
         "githubstar-link": "",
         "categories": "React",
@@ -482,7 +482,7 @@
             "type": "Product",
             "description": "Download 14 in 1 Admin Template.",
             "name": "Light Able Dashboard Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightable-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lightable-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -499,7 +499,7 @@
         "price": 17,
         "description": "React Material UI Admin Template",
         "live-url": "https://ableproadmin.com/react/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ablepro-premium-react.png",
         "download-link": "https://themeforest.net/item/able-pro-react-mui-admin-dashboard-template/50427053",
         "githubstar-link": "",
         "categories": "MUI, React",
@@ -519,7 +519,7 @@
             "type": "Product",
             "description": "Download Able Pro, a premium React Material UI admin template.",
             "name": "Able Pro React MUI Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/ablepro-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ablepro-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -543,7 +543,7 @@
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://demos.creative-tim.com/material-dashboard-react/#/dashboard",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialui-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialui-free-react.png",
         "download-link": "https://www.creative-tim.com/product/material-dashboard-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-react&type=star&count=true&size=large",
         "categories": "React",
@@ -563,7 +563,7 @@
             "type": "Product",
             "description": "Download Material Dashboard 2, a free React admin template.",
             "name": "Material Dashboard 2 React",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialui-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialui-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -581,7 +581,7 @@
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://demos.creative-tim.com/material-dashboard-material-ui-v4",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialdashboard-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialdashboard-free-react.png",
         "download-link": "https://www.creative-tim.com/product/material-dashboard-material-ui-v4",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-dashboard-material-ui-v4&type=star&count=true&size=large",
         "categories": "React",
@@ -601,7 +601,7 @@
             "type": "Product",
             "description": "Download Material UI v4, a free React admin template.",
             "name": "Material Dashboard Material UI v4",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialdashboard-free-react.pnge",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialdashboard-free-react.pnge",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -618,7 +618,7 @@
         "price": 0,
         "description": "Free ReactJS & MUI Kit",
         "live-url": "https://demos.creative-tim.com/material-kit-react/?_ga=2.216374486.1356904668.1730099324-GA1.2.1864488715.1698216368#/presentation",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialkit-free-react.png",
         "download-link": "https://www.creative-tim.com/product/material-kit-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-kit-react&type=star&count=true&size=large",
         "categories": "React",
@@ -638,7 +638,7 @@
             "type": "Product",
             "description": "Download Material Kit 2, a free ReactJS & MUI Kit.",
             "name": "Material Kit 2 React",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialkit-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -655,7 +655,7 @@
         "price": 0,
         "description": "Free Material-UI Kit",
         "live-url": "https://demos.creative-tim.com/material-kit-material-ui-v4/#/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
         "download-link": "https://www.creative-tim.com/product/material-kit-material-ui-v4",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=material-kit-react&type=star&count=true&size=large",
         "categories": "React",
@@ -675,7 +675,7 @@
             "type": "Product",
             "description": "Download Material Kit Material-UI v4, a free Material-UI Kit.",
             "name": "Material Kit Material-UI v4",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -692,7 +692,7 @@
         "price": 0,
         "description": "Free React Chakra UI Dashboard",
         "live-url": "https://demos.creative-tim.com/purity-ui-dashboard/?_ga=2.189454955.1395838140.1735279264-1811786055.1732350493#/admin/dashboard",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/purityui-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/purityui-free-react.png",
         "download-link": "https://www.creative-tim.com/product/purity-ui-dashboard",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=purity-ui-dashboard&type=star&count=true&size=large",
         "categories": "React",
@@ -712,7 +712,7 @@
             "type": "Product",
             "description": "Download Purity, a React Chakra UI Dashboard.",
             "name": "Purity UI Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -729,7 +729,7 @@
         "price": 0,
         "description": "Free Bootstarp and React Template",
         "live-url": "https://demos.creative-tim.com/paper-dashboard-react/?_ga=2.245233477.1356904668.1730099324-GA1.2.1864488715.1698216368#/admin/dashboard",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/paperdashboard-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/paperdashboard-free-react.png",
         "download-link": "https://www.creative-tim.com/product/paper-dashboard-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=paper-dashboard-react&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
@@ -749,7 +749,7 @@
             "type": "Product",
             "description": "Download Paper Dashboard, a free React Bootstrap dashboard.",
             "name": "Paper Dashboard React",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialkit2-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -766,7 +766,7 @@
         "price": 0,
         "description": "Free Bootstarp and Reactstrap Template",
         "live-url": "https://demos.creative-tim.com/argon-dashboard-react/?_ga=2.211669973.1356904668.1730099324-GA1.2.1864488715.1698216368#/admin/index",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
         "download-link": "https://www.creative-tim.com/product/argon-dashboard-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=argon-dashboard-react&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
@@ -786,7 +786,7 @@
             "type": "Product",
             "description": "Download Argon Dashboard, a free Bootstarp and Reactstrap dashboard.",
             "name": "Argon Dashboard React",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -803,7 +803,7 @@
         "price": 0,
         "description": "Free Bootstarp and React Admin Template",
         "live-url": "https://demos.creative-tim.com/black-dashboard-react/?_ga=2.155292027.1395838140.1735279264-1811786055.1732350493#/admin/dashboard",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/blackdashboard-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/blackdashboard-free-react.png",
         "download-link": "https://www.creative-tim.com/product/black-dashboard-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=black-dashboard-react&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
@@ -823,7 +823,7 @@
             "type": "Product",
             "description": "Download Black Dashboard, a free Bootstarp and Reactstrap dashboard.",
             "name": "Black Dashboard React",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/blackdashboard-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/blackdashboard-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -840,7 +840,7 @@
         "price": 0,
         "description": "Free Bootstrap React Admin Template",
         "live-url": "https://demos.creative-tim.com/light-bootstrap-dashboard-react/?_ga=2.269088433.1395838140.1735279264-1811786055.1732350493#/admin/dashboard",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightbootstrap-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lightbootstrap-free-react.png",
         "download-link": "https://www.creative-tim.com/product/light-bootstrap-dashboard-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=light-bootstrap-dashboard-react&type=star&count=true&size=large",
         "categories": "React, Bootstrap",
@@ -860,7 +860,7 @@
             "type": "Product",
             "description": "Download Light Dashboard, a free Bootstarp and React dashboard.",
             "name": "Light Dashboard React",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lightbootstrap-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lightbootstrap-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -877,7 +877,7 @@
         "price": 0,
         "description": "Free Tailwind CSS UI Kit and Admin",
         "live-url": "https://demos.creative-tim.com/notus-react/?_ga=2.189454955.1395838140.1735279264-1811786055.1732350493#/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/notus-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/notus-free-react.png",
         "download-link": "https://www.creative-tim.com/product/notus-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=notus-react&type=star&count=true&size=large",
         "categories": "React",
@@ -897,7 +897,7 @@
             "type": "Product",
             "description": "Download Notus, a free React UI Kit & Admin.",
             "name": "Notus React UI Kit & Admin",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/notus-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/notus-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -914,7 +914,7 @@
         "price": 0,
         "description": "Free Design System For reactstrap",
         "live-url": "https://demos.creative-tim.com/argon-design-system-react/?_ga=2.229700316.1395838140.1735279264-1811786055.1732350493#/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argon-design-system-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/argon-design-system-react.png",
         "download-link": "https://www.creative-tim.com/product/argon-design-system-react",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=argon-design-system-react&type=star&count=true&size=large",
         "categories": "React",
@@ -934,7 +934,7 @@
             "type": "Product",
             "description": "Download Argon, a free Design System.",
             "name": "Argon Design System",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/argon-design-system-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/argon-design-system-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -951,7 +951,7 @@
         "price": 69,
         "description": "Material UI and React Admin Template",
         "live-url": "https://demos.creative-tim.com/soft-ui-dashboard-pro-react/marketplace/#/dashboards/default",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/softui-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/softui-premium-react.png",
         "download-link": "https://mui.com/store/items/soft-ui-pro-dashboard/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -971,7 +971,7 @@
             "type": "Product",
             "description": "Download Soft UI, Pro React Dashboard.",
             "name": "Soft UI Pro React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/softui-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/softui-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -988,7 +988,7 @@
         "price": 69,
         "description": "Material Kit for React",
         "live-url": "https://demos.creative-tim.com/otis-kit-pro/#/presentation",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otiskit-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/otiskit-premium-react.png",
         "download-link": "https://mui.com/store/items/otis-kit-pro-material-kit-react/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1008,7 +1008,7 @@
             "type": "Product",
             "description": "Download Otis Kit, Material Kit for React.",
             "name": "Otis Kit",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otiskit-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/otiskit-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1025,7 +1025,7 @@
         "price": 69,
         "description": "Material Dashboard for React",
         "live-url": "hhttps://demos.creative-tim.com/otis-admin-pro/#/dashboards/analytics",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otisadmin-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/otisadmin-premium-react.png",
         "download-link": "https://mui.com/store/items/otis-admin-pro-material-dashboard-react/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1045,7 +1045,7 @@
             "type": "Product",
             "description": "Download Otis Dashboard, Material Dashboard for React.",
             "name": "Otis Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/otisadmin-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/otisadmin-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1069,7 +1069,7 @@
         "price": 69,
         "description": "MUI React Admin Template",
         "live-url": "https://mui.com/store/previews/minimal-dashboard/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-premum-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minimal-premum-react.png",
         "download-link": "https://mui.com/store/items/minimal-dashboard/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1089,7 +1089,7 @@
             "type": "Product",
             "description": "Download Minimal, a React MUI Dashboard.",
             "name": "Minimal React MUI Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-premum-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minimal-premum-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1106,7 +1106,7 @@
         "price": 0,
         "description": "Free React Admin Dashboard made with Material UI",
         "live-url": "https://mui.com/store/previews/minimal-dashboard-free/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minimal-free-react.png",
         "download-link": "https://mui.com/store/items/minimal-dashboard-free/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=minimal-ui-kit&repo=material-kit-react&type=star&count=true&size=large",
         "categories": "React, MUI",
@@ -1126,7 +1126,7 @@
             "type": "Product",
             "description": "Download Minimal, a React Dashboard.",
             "name": "Minimal Free React Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/minimal-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minimal-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1143,7 +1143,7 @@
         "price": 59,
         "description": "React Multipurpose Landing Page + UI Kit",
         "live-url": "https://mui.com/store/previews/zone-landing-page/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/zone-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/zone-premium-react.png",
         "download-link": "https://mui.com/store/items/zone-landing-page/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1163,7 +1163,7 @@
             "type": "Product",
             "description": "Download Zone, Multipurpose Landing Page + UI Kit.",
             "name": "Zone UI Kit",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/zone-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/zone-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1187,7 +1187,7 @@
         "price": 69,
         "description": "MUI React Admin Template",
         "live-url": "https://mui.com/store/previews/devias-kit-pro/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/devais-premium-react.png",
         "download-link": "hhttps://mui.com/store/items/devias-kit-pro/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1207,7 +1207,7 @@
             "type": "Product",
             "description": "Download Devias Kit, a React MUI Dashboard.",
             "name": "Devias Kit Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/devais-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1224,7 +1224,7 @@
         "price": 0,
         "description": "Free MUI React Admin Template",
         "live-url": "https://mui.com/store/previews/devias-kit/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/devais-free-react.png",
         "download-link": "https://mui.com/store/items/devias-kit/",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=devias-io&repo=material-kit-react&type=star&count=true&size=large",
         "categories": "React, MUI",
@@ -1244,7 +1244,7 @@
             "type": "Product",
             "description": "Download Free Devias Kit, a React MUI Dashboard.",
             "name": "Devias Kit Free Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/devais-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/devais-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1261,7 +1261,7 @@
         "price": 69,
         "description": "Joy UI Admin Template",
         "live-url": "https://mui.com/store/previews/lotru/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lotru-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lotru-premium-react.png",
         "download-link": "https://mui.com/store/items/lotru/",
         "githubstar-link": "",
         "categories": "React",
@@ -1281,7 +1281,7 @@
             "type": "Product",
             "description": "Download Lotru, a Joy UI Dashboard.",
             "name": "Lotru Joy UI Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/lotru-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lotru-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1305,7 +1305,7 @@
         "price": 49,
         "description": "Multipurpose Template & UI Kit",
         "live-url": "https://mui.com/store/previews/mira-pro-react-material-admin-dashboard/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mirapro-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/mirapro-premium-react.png",
         "download-link": "https://mui.com/store/items/the-front-landing-page/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1325,7 +1325,7 @@
             "type": "Product",
             "description": "Download theFront, Multipurpose Template & UI Kit.",
             "name": "theFront - Multipurpose Template & UI Kit",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/mirapro-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/mirapro-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1342,7 +1342,7 @@
         "price": 59,
         "description": "Multipurpose landing page UI Kit",
         "live-url": "https://mui.com/store/previews/webbee-landing-page/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/webbee-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/webbee-premium-react.png",
         "download-link": "https://mui.com/store/items/webbee-landing-page/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1362,7 +1362,7 @@
             "type": "Product",
             "description": "Download Webbee, Multipurpose landing page UI Kit.",
             "name": "Webbee Multipurpose landing page UI Kit",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/webbee-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/webbee-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1386,7 +1386,7 @@
         "price": 69,
         "description": "Multipurpose Template & UI Kit",
         "live-url": "https://mui.com/store/previews/mira-pro-react-material-admin-dashboard/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/thefront-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/thefront-premium-react.png",
         "download-link": "https://mui.com/store/items/mira-pro-react-material-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1406,7 +1406,7 @@
             "type": "Product",
             "description": "Download Mira Pro, Multipurpose Template & UI Kit.",
             "name": "Mira Pro React Material UI Dashboard Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/thefront-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/thefront-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1430,7 +1430,7 @@
         "price": 69,
         "description": "Material UI Next.js Admin Template",
         "live-url": "https://demos.themeselection.com/marketplace/materio-mui-nextjs-admin-template/landing-page/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materio-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materio-premium-react.png",
         "download-link": "https://mui.com/store/items/materio-mui-react-nextjs-admin-template/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1450,7 +1450,7 @@
             "type": "Product",
             "description": "Download Materio, Material UI Next.js Admin Template.",
             "name": "Materio React Next.js Dashboard Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/materio-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materio-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1462,7 +1462,7 @@
       }
     ]
   },
-  {
+    {
     "name": "UI Foundations",
     "description": "",
     "seeMoreUrl": "",
@@ -1474,7 +1474,7 @@
         "price": 45,
         "description": "Material UI SaaS Dashboard Template",
         "live-url": "https://demo.uifoundations.com/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/UIFoundationsKit-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/UIFoundationsKit-premium-react.png",
         "download-link": "https://mui.com/store/items/ui-foundations-kit-saas-admin-dashboard-template/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1494,7 +1494,7 @@
             "type": "Product",
             "description": "Download UI Foundations Kit, Material UI SaaS Dashboard Template.",
             "name": "UI Foundations Kit",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/UIFoundationsKit-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/UIFoundationsKit-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1506,7 +1506,7 @@
       }
     ]
   },
-  {
+   {
     "name": "AdminMart",
     "description": "",
     "seeMoreUrl": "",
@@ -1518,7 +1518,7 @@
         "price": 49,
         "description": "React / Next.js Material UI Admin Dashboard",
         "live-url": "https://modernize-nextjs.adminmart.com/landingpage-new",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/modernize-premium-react.png",
         "download-link": "https://mui.com/store/items/modernize-next-js-admin-template/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1538,7 +1538,7 @@
             "type": "Product",
             "description": "Download Modernize, React / Next.js Material UI Admin Dashboard.",
             "name": "Modernize React and Next.js Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/modernize-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1555,7 +1555,7 @@
         "price": 0,
         "description": "Free Next.js Admin Template with Material Ui + Typescript",
         "live-url": "https://modernize-nextjs-free.vercel.app/?ref=5",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-free-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/modernize-free-react.png",
         "download-link": "https://github.com/adminmart/Modernize-Nextjs-Free",
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=adminmart&repo=Modernize-Nextjs-Free&type=star&count=true&size=large",
         "categories": "React, MUI",
@@ -1575,7 +1575,7 @@
             "type": "Product",
             "description": "Download Modernize, Free Next.js Admin Template with Material Ui + Typescript.",
             "name": "Modernize Next.js Free Dashboard Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/modernize-free-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/modernize-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1587,7 +1587,7 @@
       }
     ]
   },
-  {
+   {
     "name": "BloomUI",
     "description": "",
     "seeMoreUrl": "",
@@ -1599,7 +1599,7 @@
         "price": 69,
         "description": "React Material Client and Admin Template",
         "live-url": "https://uifort.com/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
         "download-link": "https://mui.com/store/items/uifort-react-admin-dashboard-template/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1619,7 +1619,7 @@
             "type": "Product",
             "description": "Download uifort, React Material Client and Admin Template.",
             "name": "uifort React Client and Admin Template",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1631,7 +1631,7 @@
       }
     ]
   },
-  {
+   {
     "name": "UI Lib",
     "description": "",
     "seeMoreUrl": "",
@@ -1643,7 +1643,7 @@
         "price": 49,
         "description": "Next.js and Vite Client and Admin Template",
         "live-url": "https://uko-react.vercel.app/",
-        "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uko-premium-react.png",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/uko-premium-react.png",
         "download-link": "https://mui.com/store/items/uko-client-admin-dashboard/",
         "githubstar-link": "",
         "categories": "React, MUI",
@@ -1663,7 +1663,7 @@
             "type": "Product",
             "description": "Download UKO, Next.js and Vite Client and Admin Template.",
             "name": "UKO Next.js and Vite Client and Admin Dashboard",
-            "image": "https://cthemes.s3.us-west-2.amazonaws.com/react-templates/uko-premium-react.png",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/uko-premium-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -1674,5 +1674,696 @@
         ]
       }
     ]
+  },
+   {
+    "name": "Cruip",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 46,
+        "create date": "23-4-2025",
+        "name": "Open React Template",
+        "price": 0,
+        "description": "Next.js landing page template",
+        "live-url": "https://cruip.com/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/openreacttemplate-free-react.png",
+        "download-link": "https://github.com/cruip/open-react-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=cruip&repo=open-react-template&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["devicon_nextjs"], 
+        "long-description": "Open is a free, open-source landing page template built with React, Next.js, and Tailwind CSS 3.x. It’s designed for developers looking to create professional landing pages for open-source projects, SaaS products, online services, and more.<br/><br/><b>Features –</b><br/><ul><li>Built with TypeScript, React, Tailwind CSS 3.x, and Next.js for high performance.</li><li>React Redux for state management.</li><li>Dark mode for modern UI preferences.</li><li>Styled scrollbars enhance the visual aesthetics.</li><li>Reusable components for easy customization.</li><li>Single Page Application (SPA) with Next.js for seamless navigation.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Open React Template",
+            "description": "Download Next.js landing page template.",
+            "og-title": "Open React Template",
+            "og-description": "Download Next.js landing page template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Next.js landing page template.",
+            "name": "Open React Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/openreacttemplate-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "name": "Atomize",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 47,
+        "create date": "23-4-2025",
+        "name": "Atomize",
+        "price": 0,
+        "description": "UI Design System for React JS",
+        "live-url": "https://atomizecode.com/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/atomize-free-react.png",
+        "download-link": "https://github.com/proksh/atomize",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=proksh&repo=atomize&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Atomize React is an open-source framework designed to help developers create scalable and customizable design systems for React projects. It simplifies the process of building user interfaces by providing a set of customizable components that adhere to Atomic Design principles. Whether you're creating complex web applications or simple UIs, Atomize React gives you full control over your design system.<br/><br/><b>Features –</b><br/><ul><li>Atomic design principles.</li><li>Easily modify colors, typography, spacing, and layout.</li><li>Optimized for mobile-first development.</li><li>Pre-built UI Components like buttons, inputs, modals, and more.</li><li>Add styles directly to components without writing CSS.</li><li>Build and extend themes for consistent UI design.</li><li>Clean code structure for easy development and maintenance.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Atomize",
+            "description": "Download UI Design System for React JS.",
+            "og-title": "Atomize",
+            "og-description": "Download UI Design System for React JS."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download UI Design System for React JS.",
+            "name": "Atomize",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/atomize-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Treact",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 48,
+        "create date": "23-4-2025",
+        "name": "Treact",
+        "price": 0,
+        "description": "React Landing Page Components Kit with TailwindCSS",
+        "live-url": "https://templatana.gumroad.com/l/QaruQ",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/treact-free-react.png",
+        "download-link": "https://templatana.gumroad.com/l/QaruQ",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Treact - Modern React Landing Page Components Kit with TailwindCSS is a versatile and fully responsive set of UI components designed to streamline the development of landing pages. Built using React and TailwindCSS, it offers developers a flexible and customizable toolkit for building modern and sleek landing pages effortlessly.<br/><br/><b>Features –</b><br/><ul><li>Prebuilt landing pages for various use cases.</li><li>Easily modify colors, typography, spacing, and layout.</li><li>Optimized for mobile-first development.</li><li>52+ Component Blocks for easy customization.</li><li>8 Inner pages for expanded functionality.</li><li>Fully responsive design for seamless performance across devices.</li><li>Easy setup, allowing developers to integrate quickly into their projects.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Treact",
+            "description": "Download React Landing Page Components Kit with TailwindCSS.",
+            "og-title": "Treact",
+            "og-description": "Download React Landing Page Components Kit with TailwindCSS."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download React Landing Page Components Kit with TailwindCSS.",
+            "name": "Treact",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/treact-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "name": "MatX",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 48,
+        "create date": "23-4-2025",
+        "name": "MatX",
+        "price": 0,
+        "description": "Free React Admin Template",
+        "live-url": "https://matx-react-free.vercel.app/dashboard/default",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/matx-free-react.png",
+        "download-link": "https://ui-lib.com/downloads/matx-free-react-admin-template/",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "MatX is a robust and feature-rich free React admin template, designed with React, Redux, and Material UI. It provides developers with all the necessary tools to build web applications quickly and efficiently. The template includes built-in JWT authentication, Material UI components, and various advanced features such as lazy loading and vertical navigation. Whether you're developing an admin panel, a project management system, or a web/mobile app backend, MatX offers a solid foundation for a wide range of use cases.<br/><br/><b>Features –</b><br/><ul><li>Dashboard</li><li>JWT authentication</li><li>Material UI components</li><li>Vertical navigation</li><li>Lazy loading & code splitting</li><li>Google Map integration</li><li>Sign in & sign up pages</li><li>Drag and drop support</li></ul>",
+        "meta": [
+          {
+            "keyword": "MatX",
+            "description": "Download MatX Free React Admin Template.",
+            "og-title": "MatX",
+            "og-description": "Download MatX Free React Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download MatX Free React Admin Template.",
+            "name": "MatX",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/matx-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "name": "Holly",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 49,
+        "create date": "23-4-2025",
+        "name": "Holly",
+        "price": 0,
+        "description": "Landing Page Template",
+        "live-url": "https://lukemcdonald.github.io/holly-react/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/holly-free-react.png",
+        "download-link": "https://github.com/lukemcdonald/holly-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=lukemcdonald&repo=holly-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "The Holly React Template is a React-based implementation of Davide Pacilio's free landing page template. Designed specifically for startups, this template is perfect for building modern and responsive landing pages that work seamlessly across all devices.<br/><br/><b>Features –</b><br/><ul><li>Built using React for efficient and modular web development.</li><li>Optimized for mobile and desktop, ensuring great user experience on any device.</li><li>Simple installation with npm install and npm run dev for quick deployment.</li><li>Styled with TailwindCSS for fast, modern design solutions.</li><li>Uses Vite for rapid development and hot module replacement.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Holly",
+            "description": "Download Holly Landing Page Template.",
+            "og-title": "Holly",
+            "og-description": "Download Holly Landing Page Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Holly Landing Page Template.",
+            "name": "Holly",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/holly-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pal.js",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 50,
+        "create date": "24-4-2025",
+        "name": "Gatsby Admin Dashboard Template",
+        "price": 0,
+        "description": "Admin Dashboard Template",
+        "live-url": "https://gatsby-admin.paljs.com/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsbyadmin-free-react.png",
+        "download-link": "https://github.com/paljs/gatsby-admin-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=paljs&repo=gatsby-admin-template&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "The Gatsby Admin Template is a free, open-source admin dashboard built using Gatsby, with the inclusion of the @paljs/ui component package. It's designed to be highly customizable and simple to use, making it ideal for developers seeking an efficient and flexible admin interface for their applications.<br/><br/><b>Features –</b><br/><ul><li>Install via GitHub repository or Docker for quick development.</li><li>Fully adaptable across all devices, ensuring seamless user experiences.</li><li>Clean and simple login page with forgot password and register options.</li><li>Includes various UI elements like accordions, actions, alerts, lists, spinners, and progress bars for building interactive interfaces.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Gatsby Admin Dashboard Template",
+            "description": "Download Gatsby Admin Dashboard Template.",
+            "og-title": "Gatsby Admin Dashboard Template",
+            "og-description": "Download Gatsby Admin Dashboard Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Gatsby Admin Dashboard Template.",
+            "name": "Gatsby Admin Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsbyadmin-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TryGhost",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 51,
+        "create date": "24-4-2025",
+        "name": "Gatsby Starter Ghost",
+        "price": 0,
+        "description": "Starter template",
+        "live-url": "https://gatsby.ghost.org/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsby-free-react.png",
+        "download-link": "https://github.com/TryGhost/gatsby-starter-ghost",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=TryGhost&repo=gatsby-starter-ghost&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Gatsby Starter Ghost is a starter template designed to build lightning-fast websites using Ghost and Gatsby. This template offers developers a headless CMS experience by pulling content from Ghost into a Gatsby-powered front end.<br/><br/><b>Features –</b><br/><ul><li>Seamlessly pulls content from a Ghost CMS and builds a static site with Gatsby.</li><li>Start your development server with the gatsby develop command.</li><li>Easily configure your Ghost site API by editing the .ghost.json file with your site URL and API key.</li><li>Includes a one-click Netlify deployment option, along with pre-configured build settings and redirects.</li><li>You can disable the default Ghost Handlebars theme and set meta tags, making Gatsby the source of truth for SEO.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Gatsby Starter Ghost",
+            "description": "Download Gatsby Starter Ghost.",
+            "og-title": "Gatsby Starter Ghost",
+            "og-description": "Download Gatsby Starter Ghost."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Gatsby Starter Ghost.",
+            "name": "Gatsby Starter Ghost",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsby-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ilhammeidi",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 52,
+        "create date": "24-4-2025",
+        "name": "Boss Lite",
+        "price": 0,
+        "description": "React Redux Material Admin Template",
+        "live-url": "https://boss.ux-maestro.com/app",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/bossunlimted-free-react.png",
+        "download-link": "https://github.com/ilhammeidi/boss-lite",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=ilhammeidi&repo=boss-lite&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Boss Lite is a modern and high-performance admin dashboard template built with React and Redux. It offers a clean design and supports various color themes, making it suitable for a wide range of web applications. The template is backed by Material-UI, immutable.js, Webpack, SSR (server-side rendering), and Flexbox, ensuring flexibility and efficient development.<br/><br/><b>Features –</b><br/><ul><li>Built with React and Redux.</li><li>Google Material Design and Icons.</li><li>Data management with immutable.js.js.</li><li>High-performance SSR.</li><li>Responsive design with Flexbox.</li><li>JSS (CSS in JS) for styling.</li><li>Clean code maintained with ESLint.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Boss Lite",
+            "description": "React Redux Material Admin Template.",
+            "og-title": "Boss Lite",
+            "og-description": "React Redux Material Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "React Redux Material Admin Template.",
+            "name": "Boss Lite",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/bossunlimted-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flatlogic",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 53,
+        "create date": "24-4-2025",
+        "name": "React Material Admin Full",
+        "price": 0,
+        "description": "React Material-UI Admin & Dashboard Template",
+        "live-url": "https://flatlogic.com/templates/react-material-admin-full/demo",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialadmin-free-react.png",
+        "download-link": "https://flatlogic.com/templates/react-material-admin-full",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "React Material Admin Full is a robust and customizable React admin dashboard template built using Material-UI and React Hooks, offering a seamless experience for building business applications like e-commerce dashboards, CRM systems, project management tools, and more.<br/><br/><b>Features –</b><br/><ul><li>Choose between different themes to suit your brand.</li><li>Material UI components for a consistent and professional design.</li><li>Built entirely with modern libraries and frameworks.</li><li>React with hooks for state management and routing.</li><li>Adapts to all screen sizes for a smooth experience across devices.</li><li>Visualize data using different charting options.</li><li>Pre-built sections to help you kickstart your SaaS or e-commerce applications.</li></ul>",
+        "meta": [
+          {
+            "keyword": "React Material Admin Full",
+            "description": "React Material-UI Admin & Dashboard Template.",
+            "og-title": "React Material Admin Full",
+            "og-description": "React Material-UI Admin & Dashboard Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "React Material-UI Admin & Dashboard Template.",
+            "name": "React Material Admin Full",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialadmin-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "create date": "25-4-2025",
+        "name": "Light Blue React Dashboard",
+        "price": 0,
+        "description": "Free Admin Dashboard Template built with React",
+        "live-url": "https://flatlogic.github.io/light-blue-react-template/#/app/main/dashboard",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/light-blue-react-template-free-react.png",
+        "download-link": "https://github.com/flatlogic/light-blue-react-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=flatlogic&repo=light-blue-react-template&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Light Blue React is a free and open-source admin dashboard template developed with React and Bootstrap 4 by Flatlogic. This template is designed for rapid application development, providing a responsive layout, styled Bootstrap components, and simple login/logout functionality. It’s a great starting point for SAAS, CMS, IoT dashboards, and e-commerce applications.<br/><br/><b>Features –</b><br/><ul><li>Built on Bootstrap 4+ & SCSS.</li><li>Responsive layout.</li><li>React Chart.js integration.</li><li>Simple login/logout and error pages.</li><li>Styled Bootstrap components (buttons, modals, etc).</li></ul>",
+        "meta": [
+          {
+            "keyword": "Light Blue React Dashboard",
+            "description": "Free Admin Dashboard Template built with React.",
+            "og-title": "Light Blue React Dashboard",
+            "og-description": "Free Admin Dashboard Template built with React."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free Admin Dashboard Template built with React.",
+            "name": "Light Blue React Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/light-blue-react-template-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "create date": "3-5-2025",
+        "name": "One React Template",
+        "price": 0,
+        "description": "Download One React Admin Template",
+        "live-url": "https://flatlogic.com/templates/one-react-template/demo",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/onereact-free-react.png",
+        "download-link": "https://flatlogic.com/templates/one-react-template",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Flatlogic One React Template is a modern React admin dashboard template crafted with React 16 and Redux. It offers a vast range of components and pages, making it ideal for web applications like SaaS platforms, e-commerce sites, data management tools, and more. Its extensive customization options ensure flexibility, making it a preferred choice for developers.<br/><br/><b>Features –</b><br/><ul><li>Built with the latest technology for top-notch performance.</li><li>Adapts seamlessly across all devices.</li><li>Amcharts, Echarts, Apexcharts integration for stunning visualizations.</li><li>Secure authentication included.</li><li>Pre-designed layouts for analytics and visits.</li><li>Perfect for applications requiring maps.</li><li>Integrated for easy alerts and messaging.</li><li>Multiple pre-built pages ready to customize.</li><li>Unique typography and a variety of icons.</li><li>Includes badges, cards, carousels, modals, and more.</li><li>Profile pages, e-commerce product grids, and more.</li></ul>",
+        "meta": [
+          {
+            "keyword": "One React Template",
+            "description": "Download One React Admin Template.",
+            "og-title": "One React Template",
+            "og-description": "Download One React Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download One React Admin Template.",
+            "name": "One React Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/onereact-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "0wczar",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 54,
+        "create date": "24-4-2025",
+        "name": "Airframe React",
+        "price": 0,
+        "description": "Free Open Source Dashboard Template",
+        "live-url": "https://airframe-react-lime.vercel.app/dashboards/projects",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/airframe-free-react.png",
+        "download-link": "https://github.com/0wczar/airframe-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=0wczar&repo=airframe-react&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Airframe React is a top-tier, open-source admin dashboard template built with Bootstrap 4 and React. It’s fully responsive and works seamlessly across smartphones, tablets, and desktops, making it ideal for large-scale web applications like CRMs, CMSs, and admin panels.<br/><br/><b>Features –</b><br/><ul><li>10+ Layout Variations for flexibility in design.</li><li>Applications Ready to save time and effort in development.</li><li>UI Components that allow for easy customization.</li><li>Responsive Design that works on all devices.</li><li>Adapts to all screen sizes for a smooth experience across devices.</li><li>120+ Unique Pages for faster project setup.</li><li>2 Starter Kits that help you kickstart your projects.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Airframe React",
+            "description": "Free Open Source Dashboard Template.",
+            "og-title": "Airframe React",
+            "og-description": "Free Open Source Dashboard Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free Open Source Dashboard Template.",
+            "name": "Airframe React",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/airframe-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dunky",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 55,
+        "create date": "30-4-2025",
+        "name": "React SaaS Template",
+        "price": 0,
+        "description": "Template for building an website using React + Material-UI",
+        "live-url": "https://reactsaastemplate.com/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/react-saas-template-free-react.png",
+        "download-link": "https://github.com/dunky11/react-saas-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=dunky11&repo=react-saas-template&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "The React SaaS Template is a robust and modern template designed for building SaaS or admin websites using React and Material-UI. Originally from a SaaS project, it’s now a comprehensive toolkit for developing powerful admin applications with a clean, responsive design.<br/><br/><b>Features –</b><br/><ul><li>Material-UI design system for creating consistent, professional UIs.</li><li>Bootstrapped using create-react-app for easy setup and development.</li><li>Integrated with React-Router for managing routes and navigation.</li><li>Comes with emoji-mart for emoji pickers and React-Dropzone for file upload handling.</li><li>Uses Recharts for data visualization and AOS for smooth animations.</li></ul>",
+        "meta": [
+          {
+            "keyword": "React SaaS Template",
+            "description": "Template for building an website using React + Material-UI",
+            "og-title": "React SaaS Template",
+            "og-description": "Template for building an website using React + Material-UI"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Template for building an website using React + Material-UI",
+            "name": "React SaaS Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/react-saas-template-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Palantir",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 57,
+        "create date": "3-5-2025",
+        "name": "Blueprint",
+        "price": 0,
+        "description": "React UI toolkit for the web",
+        "live-url": "https://blueprintjs.com/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/blueprint-free-react.png",
+        "download-link": "https://github.com/palantir/blueprint",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=palantir&repo=blueprint&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Blueprint is a React-based UI toolkit optimized for building complex, data-dense web interfaces, specifically designed for desktop applications running in modern browsers. While it offers rich functionality for developing advanced UIs, Blueprint is not a mobile-first toolkit. It focuses on creating robust, desktop-oriented solutions with numerous components that streamline interface development.<br/><br/><b>Features –</b><br/><ul><li>Thoroughly documented to assist developers in understanding and utilizing the toolkit effectively.</li><li>Divided into three categories of projects to support a wide range of interface-building needs.</li><li>Ensures smooth performance in modern browsers.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Blueprint",
+            "description": "React UI toolkit for the web",
+            "og-title": "Blueprint",
+            "og-description": "React UI toolkit for the web"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "React UI toolkit for the web",
+            "name": "Blueprint",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/blueprint-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adrinlol",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 59,
+        "create date": "3-5-2025",
+        "name": "Landy React Template",
+        "price": 0,
+        "description": "Free React Landing Page template",
+        "live-url": "https://landy-web.netlify.app/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/landy-free-react.png",
+        "download-link": "https://github.com/Adrinlol/landy-react-template",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=Adrinlol&repo=landy-react-template&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Landy is an open-source, TypeScript-based React landing page template designed for developers and startups aiming to create a professional landing page quickly and easily.<br/><br/><b>Features –</b><br/><ul><li>Built using the latest React features like hooks, with code-splitting for optimized performance and smooth animations.</li><li>Reusable UI components that adapt to various screen sizes for a seamless user experience.</li><li>A Written in TypeScript for improved developer experience.</li><li>Comes with a prebuilt file for multi-language support, easily switchable without reloading.</li><li>Auto-generated routes from the src/pages directory and a contact form written in React Hooks with validation.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Landy React Template",
+            "description": "Free React Landing Page template",
+            "og-title": "Landy React Template",
+            "og-description": "Free React Landing Page template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free React Landing Page template",
+            "name": "Landy React Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/landy-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "issaafalkattan",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 60,
+        "create date": "3-5-2025",
+        "name": "React.js landing page template",
+        "price": 0,
+        "description": "Free React Landing Page template",
+        "live-url": "https://react-landing-page-template-2021.vercel.app/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactlandingpagetemplate-free-react.png",
+        "download-link": "https://github.com/Adrinlol/landy-react-template",
+        "githubstar-link": "https://github.com/issaafalkattan/react-landing-page-template-2021",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "The React.js Landing Page Template v2 is a sleek, plug-and-play solution built with React.js and Next.js, designed for startups, companies, or service providers looking to showcase their vision through a modern, single-page landing site.<br/><br/><b>Features –</b><br/><ul><li>Optimized for all devices, ensuring seamless user experiences.</li><li>Utilizes Next.js for building fast, static websites.</li><li>Styled using Tailwind CSS with JIT mode for streamlined design and performance.</li><li>Supports Tailwind CSS processing and includes TypeScript for type checking.</li><li>Pre-configured settings for ESLint, Prettier, PostCSS, and TypeScript in VSCode.</li><li>Comes with built-in SEO metadata, JSON-LD, and Open Graph tags via Next SEO.</li></ul>",
+        "meta": [
+          {
+            "keyword": "React.js landing page template",
+            "description": "Free React Landing Page template",
+            "og-title": "React.js landing page template",
+            "og-description": "Free React Landing Page template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Free React Landing Page template",
+            "name": "React.js landing page template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactlandingpagetemplate-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
+
