@@ -2577,6 +2577,50 @@
         ]
       }
     ]
+  },
+  {
+    "name": "KeenThemes",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 66,
+        "create date": "17-7-2025",
+        "name": "Start React Free",
+        "price": 0,
+        "description": "Start React Bootstrap 5, TypeScript, Node.JS, Redux Template",
+        "live-url": "https://preview.keenthemes.com/start-react-free/dashboard",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/start-free-react.png",
+        "download-link": "https://keenthemes.com/products/start-react-free",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap", "ts"], 
+        "long-description": "Start React Free Admin Dashboard is perfect for developers seeking to streamline projects with modern tools like React, Bootstrap 5, and Redux. It offers intuitive design, easily extensible code, and a professional look, making it ideal for web apps and dashboards.<br/><br/><b>Features –</b><br/><ul><li>Latest version powered by TypeScript for modern development.</li><li>Predictable state management system that simplifies debugging.</li><li>Navigation made easy with a collection of declarative components.</li><li>Efficient side effect management that streamlines testing.</li><li>Tailored React components that avoid unnecessary dependencies.</li><li>Comprehensive guides with copy-paste-ready code examples.</li><li>Full source code for customization with SASS, JavaScript, and Webpack config.</li><li>Advanced interactive charts including bar, line, area, and radar.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Start React",
+            "description": "Start React Bootstrap 5, TypeScript, Node.JS, Redux Template",
+            "og-title": "Start React",
+            "og-description": "Start React Bootstrap 5, TypeScript, Node.JS, Redux Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Start React Bootstrap 5, TypeScript, Node.JS, Redux Template",
+            "name": "Start React",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/start-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
 
