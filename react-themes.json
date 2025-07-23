@@ -1054,6 +1054,117 @@
             }
           }
         ]
+      },
+      {
+        "id": 71,
+        "create date": "23-7-2025",
+        "name": "Vision UI Dashboard",
+        "price": 0,
+        "description": "Free Material-UI React Admin Dashboard",
+        "live-url": "https://demos.creative-tim.com/vision-ui-dashboard-react/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/vision-free-react.png",
+        "download-link": "https://github.com/creativetimofficial/vision-ui-dashboard-react/",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=vision-ui-dashboard-react&type=star&count=true&size=large",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Vision UI Dashboard React is a sleek and modern admin template built with React and Material UI by Simmmple and Creative Tim. It offers fully coded elements, pre-built pages, and a seamless interface, ideal for quickly creating professional web apps and websites. Perfect for developers seeking a high-quality, visually appealing dashboard.<br/><br/><b>Features –</b><br/><ul><li>Over 70 customizable components like buttons, cards, and navbars</li><li>Ready-to-use pages like Sign In and Profile for faster development</li><li>Easily transition from prototype to full project</li><li>Comprehensive guides for smooth implementation</li><li>Built with React, Material UI, and tools like ApexCharts and Quill Editor</li></ul>",
+        "meta": [
+          {
+            "keyword": "Vision UI Dashboard",
+            "description": "Download Vision UI Dashboard, Free Material-UI React Admin Dashboard.",
+            "og-title": "Vision UI Dashboard",
+            "og-description": "Download Vision UI Dashboard, Free Material-UI React Admin Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Vision UI Dashboard, Free Material-UI React Admin Dashboard.",
+            "name": "Vision UI Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/vision-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "create date": "23-7-2025",
+        "name": "Argon Dashboard Material-UI-V4",
+        "price": 0,
+        "description": "Download Free Dashboard For React and Material-UI",
+        "live-url": "https://demos.creative-tim.com/argon-dashboard-material-ui",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
+        "download-link": "https://www.creative-tim.com/product/argon-dashboard-material-ui-v4",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=argon-dashboard-material-ui&type=star&count=true&size=large",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Argon Dashboard Material-UI-V4 is a free, open-source dashboard template built using React and Material-UI. Designed to help developers quickly create beautiful and responsive web applications, this template is perfect for building modern dashboards. With over 100 components, it offers flexibility and ease of use for creating complex projects.<br/><br/><b>Features –</b><br/><ul><li>With over 100 elements, this template gives you freedom of customization using JSS files, allowing color variations and multiple states for each element like hover, focus, and active</li><li>It includes example pages to help you jumpstart your development process. These pages provide a foundation to set up your project efficiently</li><li>It’s optimized to look great on all devices, ensuring seamless user experiences across desktops and mobile platforms</li><li>Thoroughly documented to help developers understand and integrate components easily into their projects.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Argon Dashboard Material-UI-V4",
+            "description": "Download Free Dashboard For React and Material-UI.",
+            "og-title": "Argon Dashboard Material-UI-V4",
+            "og-description": "Download Free Dashboard For React and Material-UI."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Free Dashboard For React and Material-UI.",
+            "name": "Argon Dashboard Material-UI-V4",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/argonv4-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "create date": "23-7-2025",
+        "name": "Soft UI Dashboard React",
+        "price": 0,
+        "description": "Download Free Material-UI Admin Template",
+        "live-url": "https://demos.creative-tim.com/soft-ui-dashboard-react/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/softui-free-react.png",
+        "download-link": "https://github.com/creativetimofficial/soft-ui-dashboard-react",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=creativetimofficial&repo=soft-ui-dashboard-react&type=star&count=true&size=large",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"],
+        "long-description": "Soft UI Dashboard React is a free, open-source dashboard template built using React and Material-UI. Designed to help developers quickly create beautiful and responsive web applications, this template is perfect for building modern dashboards. With over 100 components, it offers flexibility and ease of use for creating complex projects.<br/><br/><b>Features –</b><br/><ul><li>With over 100 elements, this template gives you freedom of customization using JSS files, allowing color variations and multiple states for each element like hover, focus, and active</li><li>It includes example pages to help you jumpstart your development process. These pages provide a foundation to set up your project efficiently</li><li>It’s optimized to look great on all devices, ensuring seamless user experiences across desktops and mobile platforms</li><li>Thoroughly documented to help developers understand and integrate components easily into their projects.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Soft UI Dashboard React",
+            "description": "Download Free Material-UI Admin Template.",
+            "og-title": "Soft UI Dashboard React",
+            "og-description": "Download Free Material-UI Admin Template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Free Material-UI Admin Template.",
+            "name": "Soft UI Dashboard React",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/softui-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     ]
   },
@@ -1807,13 +1918,13 @@
       }
     ]
   },
-   {
-    "name": "MatX",
+  {
+    "name": "UI Lib",
     "description": "",
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 48,
+        "id": 49,
         "create date": "23-4-2025",
         "name": "MatX",
         "price": 0,
@@ -1848,6 +1959,43 @@
             }
           }
         ]
+      },
+      {
+        "id": 77,
+        "create date": "23-7-2025",
+        "name": "UKO Lite",
+        "price": 0,
+        "description": "Free React Client & Admin Dashboard",
+        "live-url": "https://uko-react-free.netlify.app/dashboard",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ukolite-free-react.png",
+        "download-link": "https://ui-lib.com/downloads/uko-lite-react-dashboard//",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "UKO Lite is a free and lightweight React admin dashboard built with the MUI component library, offering a clean and minimal design. Ideal for developers looking for an intuitive and simple dashboard solution, it is well-structured for efficient project management.<br/><br/><b>Features –</b><br/><ul><li>Dashboard for clear visual data representation</li><li>JWT authentication for secure user management</li><li>Pre-built MUI components for a cohesive interface</li><li>Vertical navigation for easy access to key sections</li><li>Sign-in and Sign-up pages included</li><li>Integrated Charts for data visualization</li><li>CRUD Table to manage data operations</li><li>User List and User Grid components</li></ul>",
+        "meta": [
+          {
+            "keyword": "UKO Lite",
+            "description": "Download UKO Lite Free React Client & Admin Dashboard.",
+            "og-title": "UKO Lite",
+            "og-description": "Download UKO Lite Free React Client & Admin Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download UKO Lite Free React Client & Admin Dashboard.",
+            "name": "UKO Lite",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ukolite-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     ]
   },
@@ -1857,7 +2005,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 49,
+        "id": 50,
         "create date": "23-4-2025",
         "name": "Holly",
         "price": 0,
@@ -1901,7 +2049,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 50,
+        "id": 51,
         "create date": "24-4-2025",
         "name": "Gatsby Admin Dashboard Template",
         "price": 0,
@@ -1912,7 +2060,7 @@
         "githubstar-link": "https://ghbtns.com/github-btn.html?user=paljs&repo=gatsby-admin-template&type=star&count=true&size=large",
         "categories": "React",
         "technology-stack": ["react"], 
-        "long-description": "The Gatsby Admin Template is a free, open-source admin dashboard built using Gatsby, with the inclusion of the @paljs/ui component package. It's designed to be highly customizable and simple to use, making it ideal for developers seeking an efficient and flexible admin interface for their applications.<br/><br/><b>Features –</b><br/><ul><li>Install via GitHub repository or Docker for quick development.</li><li>Fully adaptable across all devices, ensuring seamless user experiences.</li><li>Clean and simple login page with forgot password and register options.</li><li>Includes various UI elements like accordions, actions, alerts, lists, spinners, and progress bars for building interactive interfaces.</li></ul>",
+        "long-description": "The Gatsby Admin Template is a free, open-source admin dashboard built using Gatsby, with the inclusion of the @paljs/lcomponent package. It's designed to be highly customizable and simple to use, making it ideal for developers seeking an efficient and flexible admin interface for their applications.<br/><br/><b>Features –</b><br/><ul><li>Install via GitHub repository or Docker for quick development.</li><li>Fully adaptable across all devices, ensuring seamless user experiences.</li><li>Clean and simple login page with forgot password and register options.</li><li>Includes various UI elements like accordions, actions, alerts, lists, spinners, and progress bars for building interactive interfaces.</li></ul>",
         "meta": [
           {
             "keyword": "Gatsby Admin Dashboard Template",
@@ -1945,7 +2093,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 51,
+        "id": 52,
         "create date": "24-4-2025",
         "name": "Gatsby Starter Ghost",
         "price": 0,
@@ -1989,7 +2137,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 52,
+        "id": 53,
         "create date": "24-4-2025",
         "name": "Boss Lite",
         "price": 0,
@@ -2033,7 +2181,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 53,
+        "id": 56,
         "create date": "24-4-2025",
         "name": "React Material Admin Full",
         "price": 0,
@@ -2070,7 +2218,7 @@
         ]
       },
       {
-        "id": 56,
+        "id": 57,
         "create date": "25-4-2025",
         "name": "Light Blue React Dashboard",
         "price": 0,
@@ -2134,6 +2282,43 @@
             "description": "Download One React Admin Template.",
             "name": "One React Template",
             "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/onereact-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "create date": "23-7-2025",
+        "name": "React Material Admin",
+        "price": 0,
+        "description": "React Material Admin is a React template built with Material-UI",
+        "live-url": "https://flatlogic.com/templates/react-material-admin-full/demo",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactmaterialadmin-free-react.png",
+        "download-link": "https://github.com/flatlogic/react-material-admin",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "React Material Admin is a highly customizable dashboard template built with React, Material-UI, and React Router. This clean and modern template avoids the use of jQuery and Bootstrap, focusing instead on React Hooks and Context API for efficient state management. It’s perfect for developers building business software dashboards with a professional and functional interface. <br/><br/><b>Features –</b><br/><ul><li>Built with the latest React version</li><li>State and lifecycle management with Hooks</li><li>Efficient state management without Redux</li><li>Lightweight, modern development stack</li><li>Mobile-friendly layout for all screen sizes</li><li>Pre-configured setup under the hood for easy development</li><li>Smooth navigation between pages with react router</li><li>Stylish UI components with CSS-in-JS styles</li></ul>",
+        "meta": [
+          {
+            "keyword": "React Material Admin",
+            "description": "React Material Admin is a React template built with Material-UI.",
+            "og-title": "React Material Admin",
+            "og-description": "React Material Admin is a React template built with Material-UI."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "React Material Admin is a React template built with Material-UI.",
+            "name": "React Material Admin",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactmaterialadmin-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -2239,7 +2424,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 57,
+        "id": 59,
         "create date": "3-5-2025",
         "name": "Blueprint",
         "price": 0,
@@ -2283,7 +2468,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 59,
+        "id": 60,
         "create date": "3-5-2025",
         "name": "Landy React Template",
         "price": 0,
@@ -2327,7 +2512,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 60,
+        "id": 61,
         "create date": "3-5-2025",
         "name": "React.js landing page template",
         "price": 0,
@@ -2371,7 +2556,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 61,
+        "id": 63,
         "create date": "12-6-2025",
         "name": "Tidy Free - HTML, React and Vue template",
         "price": 0,
@@ -2459,7 +2644,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 63,
+        "id": 64,
         "create date": "17-6-2025",
         "name": "Slash Admin",
         "price": 0,
@@ -2503,7 +2688,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 64,
+        "id": 65,
         "create date": "17-6-2025",
         "name": "MaterialPro React",
         "price": 0,
@@ -2540,7 +2725,7 @@
         ]
       },
       {
-        "id": 65,
+        "id": 66,
         "create date": "17-6-2025",
         "name": "Flexy",
         "price": 0,
@@ -2584,7 +2769,7 @@
     "seeMoreUrl": "",
     "products": [
       {
-        "id": 66,
+        "id": 67,
         "create date": "17-7-2025",
         "name": "Start React Free",
         "price": 0,
@@ -2621,6 +2806,292 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Justboil",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 68,
+        "create date": "22-7-2025",
+        "name": "Admin One React Tailwind",
+        "price": 0,
+        "description": "Free React, Tailwind, TypeScript with Next.js Admin Dashboard",
+        "live-url": "https://justboil.github.io/admin-one-react-tailwind/?t=null",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/adminone-free-react.png",
+        "download-link": "https://ghbtns.com/github-btn.html?user=justboil&repo=admin-one-react-tailwind&type=star&count=true&size=large",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "devicon_nextjs", "ts"], 
+        "long-description": "Admin One React Tailwind is a modern, fast, and visually appealing admin dashboard template. Built with React, Tailwind CSS 3.x, TypeScript, and Next.js, it offers a clean, dark mode interface that's perfect for creating admin panels and dashboards. Its lightweight design ensures smooth performance without sacrificing functionality.<br/><br/><b>Features –</b><br/><ul><li>Built with TypeScript, React, Tailwind CSS 3.</li><li>Next.js integration for a streamlined single-page application.</li><li>Redux state library for effective data handling.</li><li>Dark mode for a sleek, user-friendly interface.</li><li>Lightweight production CSS of 38kb for fast performance.</li><li>Reusable components for ease of customization.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Admin One React Tailwind",
+            "description": "Admin One, Free React, Tailwind, TypeScript with Next.js Admin Dashboard",
+            "og-title": "Admin One React Tailwind",
+            "og-description": "Admin One, Free React, Tailwind, TypeScript with Next.js Admin Dashboard"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Admin One, Free React, Tailwind, TypeScript with Next.js Admin Dashboard",
+            "name": "Admin One React Tailwind",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/adminone-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "estevanmaito",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 69,
+        "create date": "22-7-2025",
+        "name": "Windmill Dashboard",
+        "price": 0, 
+        "description": "Admin dashboard build with React",
+        "live-url": "https://windmillui.com/dashboard-react",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/windmill-free-react.png",
+        "download-link": "https://ghbtns.com/github-btn.html?user=estevanmaito&repo=windmill-dashboard-react&type=star&count=true&size=large",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Windmill Dashboard React is a complete admin dashboard built with React, offering excellent accessibility features. This dashboard is designed with a dark theme, 100% keyboard navigation, and accessibility for screen readers, ensuring a user-friendly experience. The layout is fully customizable and responsive, making it suitable for a variety of web projects, from e-commerce platforms to data management systems.<br/><br/><b>Features –</b><br/><ul><li>Dark theme support with adaptive images.</li><li>Fully accessible with screen reader functionality.</li><li>Keyboard navigable interface.</li><li>Custom react components.</li><li>Built with windmill react UI.</li><li>Context API for state management.</li></ul>",
+        "meta": [
+          {
+            "keyword": "Windmill Dashboard",
+            "description": "A complete admin dashboard built with React",
+            "og-title": "Windmill Dashboard",
+            "og-description": "A complete admin dashboard built with React"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "A complete admin dashboard built with React",
+            "name": "Windmill Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/windmill-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Themewagon",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 70,
+        "create date": "23-7-2025",
+        "name": "DNX Dashboard",
+        "price": 0, 
+        "description": "Free MUI React Admin Dashboard Template",
+        "live-url": "https://themewagon.github.io/dnx/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dnx-free-react.png",
+        "download-link": "",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "DNX is a free MUI-based admin dashboard template, designed for seamless data management. Built by Dennis Nzioki, this template offers a clean, modern, and SEO-optimized design, ensuring faster load times and improved user engagement.<br/><br/><b>Features –</b><br/><ul><li>Sliders and calendar integration</li><li>Pagination UI for smooth navigation</li><li>Progress bar and search filter</li><li>Side Navigation Bar for better UI experience</li><li>Cross-browser compatibility</li></ul>",
+        "meta": [
+          {
+            "keyword": "DNX Dashboard",
+            "description": "A Free MUI React Admin Dashboard Template",
+            "og-title": "DNX Dashboard",
+            "og-description": "A Free MUI React Admin Dashboard Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "A Free MUI React Admin Dashboard Template",
+            "name": "DNX Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dnx-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "create date": "23-7-2025",
+        "name": "BankDash Dashboard",
+        "price": 0, 
+        "description": "Free Material UI React Admin Dashboard Template",
+        "live-url": "https://themewagon.github.io/bankdash/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/bankdash-free-react.png",
+        "download-link": "",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "BankDash is a free React admin dashboard template designed for businesses like e-commerce or financial platforms needing data visualization. Built with Material UI, it offers a clean, responsive interface for managing transactions, accounts, and more. Its optimized codebase ensures fast loading times and smooth performance. <br/><br/><b>Features –</b><br/><ul><li>Pagination UI, search filters, dropdown menu</li><li>Fully responsive with a multipage design</li><li>Developer-friendly with a side-navigation bar</li><li>Includes 3 authentication pages, multiple sign-in options</li><li>Cross-browser compatibility for seamless use</li></ul>",
+        "meta": [
+          {
+            "keyword": "BankDash Dashboard",
+            "description": "A Free Material UI React Admin Dashboard Template",
+            "og-title": "BankDash Dashboard",
+            "og-description": "A Free Material UI React Admin Dashboard Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "A Free Material UI React Admin Dashboard Template",
+            "name": "BankDash Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/bankdash-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "create date": "23-7-2025",
+        "name": "DashDarkX Dashboard",
+        "price": 0, 
+        "description": "Free Material UI React Admin Dashboard Template",
+        "live-url": "https://themewagon.github.io/dashdarkX/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dashdarkx-free-react.png",
+        "download-link": "",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "DashDarkX is a modern admin dashboard template designed with Material-UI. Created by Malik Ali for the Figma Design Community, this dark-mode theme enhances user experience and offers seamless navigation with pre-built components.<br/><br/><b>Features –</b><br/><ul><li>Works smoothly across all devices and screen sizes</li><li>Ensures smooth performance across major browsers</li><li>Optimized for better search engine rankings</li><li>Speed-optimized for quick loading and reduced bounce rates</li><li>Easy to customize and tailor for your needs</li></ul>",
+        "meta": [
+          {
+            "keyword": "DashDarkX Dashboard",
+            "description": "A Free Material UI React Admin Dashboard Template",
+            "og-title": "DashDarkX Dashboard",
+            "og-description": "A Free Material UI React Admin Dashboard Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "A Free Material UI React Admin Dashboard Template",
+            "name": "DashDarkX Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/dashdarkx-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "create date": "23-7-2025",
+        "name": "Elegent Dashboard",
+        "price": 0, 
+        "description": "Free Material UI React Admin Dashboard Template",
+        "live-url": "https://themewagon.github.io/elegent/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/elegent-free-react.png",
+        "download-link": "",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "Elegant is a React-based admin dashboard template designed by Malik Ali for the Figma Design Community. It is a free template that includes a clean and minimal design developed by ThemeWagon. The template integrates 3 authentication pages and multilingual support, allowing the page to be translated into 6 different languages. This fresh and simple layout offers a smooth navigation experience and is perfect for developers looking for a flexible, responsive design.<br/><br/><b>Features –</b><br/><ul><li>Helps users easily navigate through large sets of data</li><li>Supports translation into six different languages</li><li>Simplifies the process of finding specific data</li><li>Visual representation of progress within the dashboard</li><li>Organizes menu options neatly</li><li>Works well on all devices, ensuring a seamless experience</li></ul>",
+        "meta": [
+          {
+            "keyword": "Elegent Dashboard",
+            "description": "A Free Material UI React Admin Dashboard Template",
+            "og-title": "Elegent Dashboard",
+            "og-description": "A Free Material UI React Admin Dashboard Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "A Free Material UI React Admin Dashboard Template",
+            "name": "Elegent Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/elegent-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tono2007",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 75,
+        "create date": "23-7-2025",
+        "name": "Slim MUI Template",
+        "price": 0, 
+        "description": "Slim - a free and open source React dashboard template",
+        "live-url": "https://slim-free-react-mui-template.netlify.app/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/slim-free-react.png",
+        "download-link": "https://ghbtns.com/github-btn.html?user=Tono2007&repo=slim-free-react-mui-template&type=star&count=true&size=large",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "Slim React MUI Template is a modern and clean dashboard template built using Material UI and React, focusing on flexibility and customizability. It is open-source and provides a fully responsive interface for various types of web applications, including admin and analytics dashboards. Slim React MUI Template is perfect for developers looking for a flexible and high-performing solution to create admin or analytics dashboards. With its robust set of components and responsiveness, it’s a great option for both small and large projects. <br/><br/><b>Features –</b><br/><ul><li>Supports React with a professional UI design</li><li>Built with Material UI React components for consistency</li><li>Fully responsive, optimized for modern browsers</li><li>Includes 85+ pre-built demo pages and apps for faster development</li><li>Offers dark and light mode, with hundreds of customizable components</li><li>Provides flexible and high-performance code, ensuring scalability</li></ul>",
+        "meta": [
+          {
+            "keyword": "Slim MUI Template",
+            "description": "Slim - a free and open source React dashboard template",
+            "og-title": "Slim MUI Template",
+            "og-description": "Slim - a free and open source React dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Slim - a free and open source React dashboard template",
+            "name": "Slim MUI Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/slim-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
-
