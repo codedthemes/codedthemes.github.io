@@ -1706,7 +1706,7 @@
       {
         "id": 39,
         "create date": "25-1-2025",
-        "name": "uifort React Client and Admin Template",
+        "name": "UIFort React UI Kit and Admin Template",
         "price": 69,
         "description": "React Material Client and Admin Template",
         "live-url": "https://uifort.com/",
@@ -1715,21 +1715,21 @@
         "githubstar-link": "",
         "categories": "React, MUI",
         "technology-stack": ["react", "material-ui", "devicon_nextjs", "vite"], 
-        "long-description": "Uifort is a comprehensive React client and admin dashboard template, designed with both developers and designers in mind. It helps build enterprise-level user interfaces with ease by combining Next.js and Vite support. With its fully coded components, multiple layouts, and seamless customization options, Uifort is built for efficiency, speed, and flexibility.<br/><br/><b>Features –</b><br/><ul><li>Optimized for speed, ensuring fast load times and a smooth user experience.</li><li>Customize your themes with light and dark modes </li><li>Ensures excellent display across various devices and screen sizes.</li><li>Built-in right-to-left layout support for multilingual use cases.</li><li>Pre-built templates</li><li>Secure user authentication with Supabase, JWT, Firebase, and Auth0 integration.</li><li></ul>",
+        "long-description": "Uifort is a comprehensive React client and admin dashboard template, designed with both developers and designers in mind. It helps in building enterprise-level user interfaces with ease, combining Next.js and Vite support. With its fully coded components, multiple layouts, and seamless customization options, Uifort is built for efficiency, speed, and flexibility.Uifort delivers a robust toolkit for creating complex and scalable admin dashboards. With blazing fast performance, a responsive interface, and comprehensive developer documentation, Uifort makes it easier to create dynamic web applications in less time. Whether you're managing data or building enterprise applications, Uifort's flexible structure will meet your needs.<br/><br/><b>Features –</b><br/><ul><li>Optimized for speed, ensuring fast load times and a smooth user experience.</li><li>Customize your themes with light and dark modes </li><li>Ensures excellent display across various devices and screen sizes.</li><li>Built-in right-to-left layout support for multilingual use cases.</li><li>Pre-built templates, including dashboards, apps, and pages, to kickstart development.</li><li>Secure user authentication with Supabase, JWT, Firebase, and Auth0 integration.</li><li>Ensure smooth data handling with advanced form validation.</li></ul>",
         "meta": [
           {
-            "keyword": "uifort React Client and Admin Template",
-            "description": "Download uifort, React Material Client and Admin Template.",
-            "og-title": "uifort React Client and Admin Template",
-            "og-description": "Download uifort, React Material Client and Admin Template."
+            "keyword": "UIFort React Client and Admin Template",
+            "description": "Download UIFort, React Material Client and Admin Template.",
+            "og-title": "UIFort React Client and Admin Template",
+            "og-description": "Download UIFort, React Material Client and Admin Template."
           }
         ],
         "schema": [
           {
             "context": "https://schema.org",
             "type": "Product",
-            "description": "Download uifort, React Material Client and Admin Template.",
-            "name": "uifort React Client and Admin Template",
+            "description": "Download UIFort, React Material Client and Admin Template.",
+            "name": "UIFort React Client and Admin Template",
             "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/uifort-premium-react.png",
             "offers": {
               "type": "Offer",
@@ -1968,7 +1968,7 @@
         "description": "Free React Client & Admin Dashboard",
         "live-url": "https://uko-react-free.netlify.app/dashboard",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/ukolite-free-react.png",
-        "download-link": "https://ui-lib.com/downloads/uko-lite-react-dashboard//",
+        "download-link": "https://ui-lib.com/downloads/uko-lite-react-dashboard/",
         "githubstar-link": "",
         "categories": "React",
         "technology-stack": ["react"], 
@@ -1992,6 +1992,43 @@
               "type": "Offer",
               "availability": "https://schema.org/InStock",
               "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "create date": "11-8-2025",
+        "name": "MatX Pro",
+        "price": 59,
+        "description": "React admin dashboard template with MUI components",
+        "live-url": "https://matx-react-pro.vercel.app/dashboard/default",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/matx-premium-rect.png",
+        "download-link": "https://ui-lib.com/downloads/matx-pro-react-admin/",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui"], 
+        "long-description": "For developers seeking a comprehensive and powerful dashboard experience, MatX Pro is a premium React admin dashboard template. MatX Pro is built using Material-UI, React, Redux, and a host of modern tools to provide an excellent toolkit for creatives building a next-level admin panel, dashboard, or enterprise web application. MatX Pro provides a comprehensive setup with ready-made apps, access to modular charts, authentication capabilities, and layouts to help developers quickly build a UI. It is built to be fully responsive, easy to customize, and in line with the best practices in coding, UI, and UX. It is ideal for businesses and developers looking to develop anything from internal tools to analytics dashboards with great design, performance, and out-of-the-box, production-ready code.<br/><br/><b>Features –</b><br/><ul><li>Advanced authentication with Firebase, Auth0, and JWT</li><li>The template includes prebuilt design blocks, making the transition from prototype to a fully functional website seamless and efficient</li><li>Diverse dashboard layouts and UI themes</li><li>Multiple pre-built apps for things like Chat, E-commerce, Calendar, and Invoice</li><li>Access to graph and chart libraries like eCharts and ApexCharts</li><li>User administration and a role-based access control system</li></ul>",
+        "meta": [
+          {
+            "keyword": "MatX Pro",
+            "description": "Download MatX Pro, a React admin dashboard template with MUI components",
+            "og-title": "MatX Pro",
+            "og-description": "Download MatX Pro, a React admin dashboard template with MUI components"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download MatX Pro, a React admin dashboard template with MUI components",
+            "name": "MatX Pro",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/matx-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "59",
               "priceCurrency": "USD"
             }
           }
