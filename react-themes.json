@@ -1695,6 +1695,43 @@
             }
           }
         ]
+      },
+      {
+        "id": 84,
+        "create date": "19-8-2025",
+        "name": "Matdash Free Tailwind React Admin Dashboard",
+        "price": 0,
+        "description": "Free Matdash Free Tailwind React Admin Dashboard",
+        "live-url": "https://modernize-nextjs-free.vercel.app/?ref=5",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/matdash-free-react.png",
+        "download-link": "https://github.com/adminmart/matdash-react-tailwind-free",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=adminmart&repo=matdash-react-tailwind-free&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "MatDash Free Tailwind React Dashboard Template is a clean, open-source React admin panel with Tailwind CSS, Flowbite React, and TypeScript. Built to kickstart startup dashboards and developer tools, it offers a responsive and modular interface that can be easily extended and customized. It includes basic layouts, authentication, and all of the standard UI components to offer a very low-barrier entry point into building modern web dashboards. It is a perfect solution for small applications or proof-of-concept tools with free(er) lifetime updates under the MIT license.MatDash was designed to be minimal yet pragmatic. It was designed for speed, performance, and simplicity, allowing for rapid prototyping without bloat and delivering a clean user experience. The template includes enough starter pages and UI components to get you started right away—even a few that you can adapt to your own requirements. It is mobile-first, responsive, and accessible, making it a good starting point when you want to expand to a more complex admin system as your project grows.<br/><br/><b>Features –</b><br/><ul><li>Fully responsive dashboard layout with mobile-first views</li><li>Built with React and Tailwind CSS (Flowbite React UI)</li><li>Includes login page(s), registration page(s) & basic auth pages</li><li>All essential UI components to build your CRUD, charts, tables, etc.</li><li>9+ pages templates and one starter dashboard</li><li>Clean, modular code under MIT license</li><li>Easily customizable and scalable as needed</li><li>Free updates and community support are available</li></ul>",
+        "meta": [
+          {
+            "keyword": "Matdash Free Tailwind React Admin Dashboard",
+            "description": "Download Matdash, Free Tailwind React Admin Dashboard.",
+            "og-title": "Matdash Free Tailwind React Admin Dashboard",
+            "og-description": "Download Matdash, Free Tailwind React Admin Dashboard."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Matdash, Free Tailwind React Admin Dashboard.",
+            "name": "Matdash Free Tailwind React Admin Dashboard",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/matdash-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     ]
   },
@@ -2364,6 +2401,43 @@
             }
           }
         ]
+      },
+      {
+        "id": 82,
+        "create date": "19-8-2025",
+        "name": "React Material UI Admin Full Node.js",
+        "price": 0,
+        "description": "React Material UI Admin Dashboard with Node.JS Backend",
+        "live-url": "https://flatlogic.com/templates/react-material-ui-admin-node-js/demo",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactmaterialadmin-free-react.png",
+        "download-link": "https://flatlogic.com/templates/react-material-ui-admin-node-js",
+        "githubstar-link": "",
+        "categories": "React, MUI",
+        "technology-stack": ["react", "material-ui", "nodejs"], 
+        "long-description": "React Material UI Admin Node.js is a comprehensive admin dashboard template that integrates a new React frontend and a Node.js and PostgreSQL backend into a single solution. The template is developed using React Hooks and Material-UI components, providing a professional look and a modular system for ease of use. It's a perfect fit for creating SaaS products, internal applications, and admin dashboards that may include admin tools and an admin panel, allowing you to build something great in a rapid timeframe. The template includes built-in authentication (with JWT and social login), dynamic CRUD (create, read, update, delete) functionality, and responsive layouts to save you time in your development history. It contains cleanly written code, is customizable through theming, is production-ready out of the box, and sets you up as a developer seeking speed and flexibility for a full-stack project.<br/><br/><b>Features –</b><br/><ul><li>Built with React, Material UI (v5), and Node.js</li><li>PostgreSQL database built directly in with API endpoints on Node.js for querying</li><li>Built-in JWT (JSON Web Token)/ social login</li><li>Select from three pre-built, responsive themes</li><li>A pre-made, scalable React project featuring a scalable code structure and a modular folder</li><li>Ready-made pages for products, users, dashboards, etc.</li><li>Charts, maps, calendars, and more are easily incorporated.</li><li>Fully documented and deployment-ready.</li></ul>",
+        "meta": [
+          {
+            "keyword": "React Material UI Admin Full Node.js",
+            "description": "React Material UI Admin Dashboard with Node.JS Backend.",
+            "og-title": "React Material UI Admin Full Node.js",
+            "og-description": "React Material UI Admin Dashboard with Node.JS Backend."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "React Material UI Admin Dashboard with Node.JS Backend.",
+            "name": "React Material UI Admin Full Node.js",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactmaterialadmin-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     ]
   },
@@ -2789,6 +2863,80 @@
             "description": "Flexy React Material UI Dashboard Template",
             "name": "Flexy",
             "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/flexy-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "create date": "19-8-2025",
+        "name": "MaterialM",
+        "price": 0,
+        "description": "MaterialM Free Tailwind React Admin Dashboard Template",
+        "live-url": "https://materialm-react-tailwind-free.netlify.app/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialm-free-react.png",
+        "download-link": "https://github.com/wrappixel/materialm-react-tailwind-free",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=wrappixel&repo=materialm-react-tailwind-free&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "MaterialM Free Tailwind React Admin Template is a modern open-source React dashboard that has been built with Next.js, Tailwind CSS, Flowbite-React, TypeScript, and ApexCharts. It is based on Google's Material Design 3, which provides proper responsiveness and a clean interface, making it an ideal dashboard for SaaS platforms, as well as an admin panel for system controllers, business dashboards, and internal tools. This developer-friendly template has been designed for optimal performance, adherence to SEO best practices, customization, and is available for both personal and commercial use under an MIT license. MaterialM is feature-rich and has a fully responsive dashboard that can be created in customizable ways by combining utility-first styling with a modular codebase approach. It has the necessary pages, charts, and components that make your dashboards functional and production-ready right out of the box, which is perfect for speeding up development timelines.<br/><br/><b>Features –</b><br/><ul><li>Responsive design utilising Tailwind CSS utilities</li><li>Built with React, Next.js, Flowbite-React & TypeScript</li><li>Interactive charts powered by ApexCharts</li><li>45+ pre-established UI components and 90+ page templates</li><li>Clean interface inspired by Material Design</li><li>Fully modular codebase with minimal setup</li><li>SEO-ready and has server-side rendering (SSR)</li><li>Simple theming, customization, and full extensibility</li></ul>",
+        "meta": [
+          {
+            "keyword": "MaterialM",
+            "description": "MaterialM Free Tailwind React Admin Dashboard Template",
+            "og-title": "MaterialM",
+            "og-description": "MaterialM Free Tailwind React Admin Dashboard Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "MaterialM Free Tailwind React Admin Dashboard Template",
+            "name": "MaterialM",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/materialm-free-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": 85,
+        "create date": "19-8-2025",
+        "name": "Spike Free React Tailwind Dashboard Template",
+        "price": 0,
+        "description": "Download Spike Tailwind React Admin Dashboard Template",
+        "live-url": "https://materialm-react-tailwind-free.netlify.app/",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/spike-free-react.png",
+        "download-link": "https://www.wrappixel.com/templates/spike-free-react-tailwind-admin-template/",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=wrappixel&repo=spike-react-tailwind-free&type=star&count=true&size=large",
+        "categories": "React",
+        "technology-stack": ["react"], 
+        "long-description": "Spike Free React Tailwind Admin Template is a clean, open-source React dashboard template that combines Tailwind CSS with Preline UI, utilizing as few plugins as possible. This dashboard template provides a minimal setup, mobile-first approach for developers to start their admin panels, SaaS apps, or internal tools. It is a polished experience under the MIT license, providing a fast way to get started on your next prototype with foundational components and clean, organized code. The purpose of this template is clarity and extensibility. Spike includes a minimal dashboard, basic UI components, authentication layouts, charting, and tables. The size is small, but it is a solid foundation that organizes and separates the implementation, thereby allowing for faster customization and onboarding for any developer. Lifelong free updates are provided to users, and the platform is SEO-friendly, allowing you to get up and running quickly without sacrificing performance or usability.<br/><br/><b>Features –</b><br/><ul><li>Collision-free coding with SEO friendly design, and light-weight admin projects</li><li>Responsive & mobile-first layout with Tailwind CSS & Preline UI design</li><li>Clean & minimal template built in React</li><li>Basic dashboard layout and some important pages (login/register page).</li><li>At least five UI components and four bundled plugins</li><li>Basic chart and table examples</li><li>Over 100 font icons are included</li><li>Organized codebase with MIT license</li><li>A developer and SEO-friendly template</li></ul>",
+        "meta": [
+          {
+            "keyword": "Spike Free React Tailwind Dashboard Template",
+            "description": "Download Spike Tailwind React Admin Dashboard Template",
+            "og-title": "Spike Free React Tailwind Dashboard Template",
+            "og-description": "Download Spike Tailwind React Admin Dashboard Template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Download Spike Tailwind React Admin Dashboard Template",
+            "name": "Spike Free React Tailwind Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/spike-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
