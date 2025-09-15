@@ -7,7 +7,7 @@
       {
         "id": 1,
         "create date": "1-8-2024",
-        "name": "Berry Free React Dashboard",
+        "name": "Berry Free React Dashboard Template",
         "price": 0,
         "description": "Free React Material UI Admin Template",
         "live-url": "https://berrydashboard.com/free/",
@@ -3272,6 +3272,309 @@
               "type": "Offer",
               "availability": "https://schema.org/InStock",
               "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Themesbrand",
+    "description": "",
+    "seeMoreUrl": "",
+    "products": [
+      {
+        "id": 86,
+        "create date": "15-9-2025",
+        "name": "Minia React Dashboard Template",
+        "price": 23, 
+        "description": "Minia JS+TS React dashboard template",
+        "live-url": "https://preview.themeforest.net/item/minia-react-admin-dashboard-template/full_screen_preview/33691198",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minia-premium-react.png",
+        "download-link": "https://themeforest.net/item/minia-react-admin-dashboard-template/33691198",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "js", "ts"], 
+        "long-description": "Minia - React Admin & Dashboard Template is a professional-quality React dashboard template created with React 18.2.0, Bootstrap v5.3.3, TypeScript, and Redux Hooks. The clean, minimal style offers over six flexible layouts and three different modes—Light, Dark, and RTL. Perfect for SaaS products, CRM, CMS, analytics dashboards, and internal admin panels. With over 80 pre-built pages, a toolkit of rich UI components, built-in SASS support, and a lifetime guarantee of free updates, this React template is ideal for those seeking good, clean code, an engineer-friendly modular template structure, and an extremely customizable interface. <br/><br/><b>Features –</b><br/><ul><li>Built using React 18.2.0, TypeScript, Redux Hooks & Bootstrap v5.3.3</li><li>6+ layout options and Light/Dark/RTL mode layouts using SCSS</li><li>80+ pre-built pages and rich UI components, charts, forms, tables, etc.</li><li>App layouts include Chat, Calendar, Email, Invoices, Blog & Contacts</li><li>Built-in easy theme customization and 5,000+ font icons</li><li>Fast, fully responsive, cross-browser, and optimized performance</li></ul>",
+        "meta": [
+          {
+            "keyword": "Minia React Dashboard Template",
+            "description": "Minia JS+TS React dashboard template",
+            "og-title": "Minia React Dashboard Template",
+            "og-description": "Minia JS+TS React dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Minia JS+TS React dashboard template",
+            "name": "Minia React Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minia-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "23",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": 87,
+        "create date": "15-9-2025",
+        "name": "Skote React Dashboard Template",
+        "price": 22, 
+        "description": "Skote React Bootstrap dashboard template",
+        "live-url": "https://preview.themeforest.net/item/skote-react-admin-dashboard-template/full_screen_preview/26318700",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/skote-premium-rect.png",
+        "download-link": "https://themeforest.net/item/skote-react-admin-dashboard-template/26318700",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Skote – React Admin & Dashboard Template + Sketch is a premium, fully responsive React admin dashboard made with React v18.2.0, Redux (Hooks or Saga), Bootstrap v5.x, and Scss. It is designed for building dashboards, CRM systems, SaaS applications, e-commerce platforms, and project management tools. It offers design files (Sketch, Figma & Adobe XD), multi-layouts, and production-ready architecture. Light, Dark, and RTL modes, modular code, and extensive UI elements and components. Skote ships with up to 5 dashboards, 110+ pages, 35+ components, 25+ charts, and 20+ widgets. Additionally, it includes all the standard apps, such as Calendar, Chat, Ecommerce, Crypto, Email, Invoices, Projects, Contacts, Tasks, File Manager, and Blog.<br/><br/><b>Features –</b><br/><ul><li>Built with React v18.x, Bootstrap 5.x, Reactstrap, Redux Hooks/Saga</li><li>Auth options include Firebase, fake‑backend, Facebook, Google</li><li>Shipping with 110+ pages, 35+ components, 25 charts & 20 widgets</li><li>Standard apps supported for easy usage</li><li>Fully responsive with clean, modular SCSS‑based theming managed with JSON</li><li>Includes Sketch, Figma, and Adobe XD design files</li><li>Well-commented code, professionally written, W3C-validated web standards code</li></ul>",
+        "meta": [
+          {
+            "keyword": "Skote React Dashboard Template",
+            "description": "Skote React Bootstrap dashboard template",
+            "og-title": "Skote React Dashboard Template",
+            "og-description": "Skote React Bootstrap dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Skote React Bootstrap dashboard template",
+            "name": "Skote React Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/skote-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "22",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "create date": "15-9-2025",
+        "name": "Doot React Chat App Template",
+        "price": 22, 
+        "description": "Doot React Bootstrap chat app template",
+        "live-url": "https://preview.themeforest.net/item/doot-react-chat-app-template/full_screen_preview/35131648",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/doot-premium-rect.png",
+        "download-link": "https://themeforest.net/item/doot-react-chat-app-template/35131648",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Doot – React Chat App Template is a modern, premium chat application template with a contemporary design created using React 18.2.0, Bootstrap 5.3.2, Redux Saga, TypeScript, and Reactstrap. It allows you to create a communicative UI for one-to-one and group chat messaging on a responsive Interface, complete with audio/video call popups, contact cards, and theme selection. Built without jQuery, having a developer-first codebase, and ideal for next-generation chat interfaces without backend boilerplate, Doot is well-represented. Additionally, it is fully responsive, multilingual (LTR/RTL), and includes free lifetime updates. Being neatly structured and well-documented, Doot also supports Light, Dark, and RTL layouts, along with seven built-in color themes.<br/><br/><b>Features –</b><br/><ul><li>Built with React 18.2.0, Bootstrap 5.3.2, Reactstrap, Redux (Saga/Hooks) & TypeScript</li><li>Fully customizable layouts, Dark Mode, Light Mode, & RTL layouts</li><li>Single chat interface & channels with reply/forward/copy/delete messaging actions</li><li>User interface designs</li><li>Authentication pages, clean and well-commented codebase</li><li>SASS-based styling, W3C-validated markup, modular folder structure</li><li>Fully responsive across devices and browsers, developer-tested and performance-optimized</li></ul>",
+        "meta": [
+          {
+            "keyword": "Doot React Chat App Template",
+            "description": "Doot React Bootstrap chat app template",
+            "og-title": "Doot React Chat App Template",
+            "og-description": "Doot React Bootstrap chat app template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Doot React Bootstrap chat app template",
+            "name": "Doot React Chat App Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/doot-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "22",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "create date": "15-9-2025",
+        "name": "Minible React Admin Template",
+        "price": 25, 
+        "description": "Minible React Bootstrap admin dashboard template",
+        "live-url": "https://preview.themeforest.net/item/minible-react-admin-dashboard-template/full_screen_preview/30662615",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minible--premium-rect.png",
+        "download-link": "https://themeforest.net/item/minible-react-admin-dashboard-template/30662615",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Minible – React Admin & Dashboard Template is a premium, robust, and fully featured React dashboard built with React v18.x, Bootstrap 5.3.x, Redux (with Hooks & Saga), SASS, and optional Firebase or fake‑backend authentication. Minible comes with a clean, minimal interface and three different themes (Light, Dark, and RTL).  Minible enables you to get started with an elegant user interface, developer-friendly code, and expedited customization. The Minible package includes Sketch and Adobe XD design files, full multi-language i18n support, and free lifetime updates with documentation and performance‑optimized code. The Minible was built to be fully responsive, with SCSS-driven theming for maximum flexibility. This allows you to swap layout types by changing only a few lines of SCSS or JSON configuration.<br/><br/><b>Features –</b><br/><ul><li>Built with React v18, Bootstrap 5.3.x, Redux Hooks & Saga</li><li>Authentication via Firebase or a fake backend</li><li>Multi-language i18n support using JSON</li><li>Support for Light, Dark & RTL theme modes</li><li>Seven layouts with SCSS‐based layout customization</li><li>Five chart types, data tables, contacts & sales boards</li><li>Responsive, clean, W3C‐validated code</li><li>Includes Sketch & Adobe XD design files</li><li>Free lifetime updates and modular, scalable codebase</li></ul>",
+        "meta": [
+          {
+            "keyword": "Minible React Admin Template",
+            "description": "Minible React Bootstrap admin dashboard template",
+            "og-title": "Minible React Admin Template",
+            "og-description": "Minible React Bootstrap admin dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Minible React Bootstrap admin dashboard template",
+            "name": "Minible React Admin Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/minible--premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "25",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "create date": "15-9-2025",
+        "name": "Chatvia React Chat App Template",
+        "price": 25, 
+        "description": "Chatvia React Bootstrap chat app template",
+        "live-url": "https://preview.themeforest.net/item/chavia-react-chat-app-template/full_screen_preview/28297576",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/chatvia-premium-rect.png",
+        "download-link": "https://themeforest.net/item/chavia-react-chat-app-template/28297576",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Chatvia – React Chat App Template is a premium, fully responsive chat application template developed in React JS, Bootstrap 5.x, Redux (Saga & Hooks), and SCSS. Chatvia is designed for developers looking to create modern chat interfaces. The Chatvia template features functional and class-based components, allowing for rapid changes between modes. It's a perfect choice for SaaS chat platforms, internal messaging applications, or as a prototype app. Every element is managed via JSON data objects—nothing is stored in a backend, so setup is VERY fast and easy. The authentication methods you can choose from include a Firebase implementation or a fake backend. Also included are authentication pages, contact lists, and a clean production version UI. The CrazyTemplates YouTube channel has multiple videos on using the Chatvia template. <br/><br/><b>Features –</b><br/><ul><li>Built with React (v18.x), Bootstrap 5.3.x & SCSS styling</li><li>Redux‑Saga and React Redux Hooks structure</li><li>Supports Light, Dark & RTL modes via config</li><li>One-to-one and group chat UI</li><li>File sharing, emojis, online/offline messages, unread messages</li><li>Multi‑language i18n support - using JSON translation files</li><li>Includes authentication pages</li><li>SASS powered code, W3C-validated, clean, & well-commented code</li><li>Lifetime free updates and documentation included</li></ul>",
+        "meta": [
+          {
+            "keyword": "Chatvia React Chat App Template",
+            "description": "Chatvia React Bootstrap chat app template",
+            "og-title": "Chatvia React Chat App Template",
+            "og-description": "Chatvia React Bootstrap chat app template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Chatvia React Bootstrap chat app template",
+            "name": "Chatvia React Chat App Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/chatvia-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "25",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "create date": "15-9-2025",
+        "name": "Lexa React Admin Dashboard Template",
+        "price": 24, 
+        "description": "Lexa React Bootstrap admin dashboard template",
+        "live-url": "https://preview.themeforest.net/item/lexa-react-admin-dashboard-template/full_screen_preview/33223670",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lexa-premium-rect.png",
+        "download-link": "https://themeforest.net/item/lexa-react-admin-dashboard-template/33223670",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Lexa – a premium React Admin and Dashboard Template is a powerful admin dashboard powered by React 18.2.0 and is built with Bootstrap 5.3.x. It is built for productivity. Lexa is designed to cater to any dashboard, including SaaS, CRM, CMS, project management, and cryptocurrency dashboards that are responsive, modular, and flexible. With its SCSS-based architecture, changing the overall layout can be easily accomplished, allowing for quick and seamless changes in theming and styling. Lexa comes with many great pre-built pages, including data tables, invoice pages, chat and email applications, contacts, profiles, and e-commerce pages. Lexa is ideal for both quickly building rapid prototypes and large-scale production applications.<br/><br/><b>Features –</b><br/><ul><li>Built with React 18.2.0 and Bootstrap 5.3.x</li><li>Light, Dark & RTL modes with toggler (scss)</li><li>6+ layouts including vertical, horizontal, boxed, compact, and colored sidebar</li><li>Pre-built pages - Dashboard, Chat, Email, Invoices, Contacts, Profile, E-commerce, Data Tables</li><li>Clean, well-documented, and W3C-compatible CODEBASE powered by SASS</li><li>Supported over 5,000 font icons and Google Fonts, and utility color schemes</li><li>Easy custom layout and theme switching</li><li>Lifetime free updates and organized documentation</li></ul>",
+        "meta": [
+          {
+            "keyword": "Lexa React Admin Dashboard Template",
+            "description": "Lexa React Bootstrap admin dashboard template",
+            "og-title": "Lexa React Admin Dashboard Template",
+            "og-description": "Lexa React Bootstrap admin dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Lexa React Bootstrap admin dashboard template",
+            "name": "Lexa React Admin Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/lexa-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "24",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }, 
+      {
+        "id": 92,
+        "create date": "15-9-2025",
+        "name": "Qovex React Admin Dashboard Template",
+        "price": 25, 
+        "description": "Qovex React Bootstrap admin dashboard template",
+        "live-url": "https://preview.themeforest.net/item/qovex-react-js-admin-dashboard-template/full_screen_preview/32556913",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/qovex-premium-rect.png",
+        "download-link": "https://themeforest.net/item/qovex-react-js-admin-dashboard-template/32556913",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Qovex – React JS Admin & Dashboard Template is a clean, minimal React dashboard created in React 18× and Bootstrap 5.3.x. Qovex was built for modern web applications, including SaaS, CRM, crypto, CMS, project management, and admin panels. It offers a high level of flexibility, with multiple layout and theme options. Switching between Light, Dark, or RTL themes is easy with this SCSS-based configuration. Fully responsive, developer-friendly, high-performance, fast prototyping, production-level design, and lifetime free updates, Qovex does it all!<br/><br/><b>Features –</b><br/><ul><li>Built with React 18× and Bootstrap 5.3.x to meet modern UI/UX requirements</li><li>Switch between Light / Dark & RTL mode supported by SCSS configuration</li><li>You also have a huge selection of responsive layout options, in total, 6+ layouts</li><li>Sass-powered architecture with clean code that’s well-documented</li><li>W3C‑validated markup is also performance optimized</li><li>Support for font-based icons and Google Fonts</li><li>The email app and data table you need for admin issues are included as ready-made components</li><li>Not-authorized page template is delivered out of the box</li><li>Lifetime free updates and trustworthy documentation from Themesbrand</li></ul>",
+        "meta": [
+          {
+            "keyword": "Qovex React Admin Dashboard Template",
+            "description": "Qovex React Bootstrap admin dashboard template",
+            "og-title": "Qovex React Admin Dashboard Template",
+            "og-description": "Qovex React Bootstrap admin dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Qovex React Bootstrap admin dashboard template",
+            "name": "Qovex React Admin Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/qovex-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "25",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "create date": "15-9-2025",
+        "name": "Veltrix React Admin Dashboard Template",
+        "price": 26, 
+        "description": "Veltrix React Bootstrap admin dashboard template",
+        "live-url": "https://preview.themeforest.net/item/veltrix-react-js-admin-dashboard-template/full_screen_preview/32471505",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/veltrix-premium-rect.png",
+        "download-link": "https://themeforest.net/item/veltrix-react-js-admin-dashboard-template/32471505",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap"], 
+        "long-description": "Veltrix – React JS Admin & Dashboard Template is a premium React dashboard built using React 18.2, Redux Saga, Bootstrap 5.3.x, and SCSS. The template features flexible authentication via Firebase or a fake backend, and supports multi-language use with i18n (JSON-based). It includes light, dark & RTL modes, with no jQuery dependencies. Veltrix has multiple layout types and supports professional UI for SaaS web applications, CRM, CMS, project management applications, and admin dashboards. The clean, minimal design saves time and money with a solid structure and organized folder system.  The template also supports multiple layouts and demos. <br/><br/><b>Features –</b><br/><ul><li>Built with React 18.2, Redux Saga, and Bootstrap 5.3.x</li><li>Pure React component architecture.</li><li>Authentication using Firebase or a fake backend, including i18n multi-language support.</li><li>Light, Dark & RTL modes with SCSS-driven theming</li><li>Multiple built responsive layout types</li><li>Includes typical pages: login, register, error, print invoice view, directory, calendar, maps, drop‑zone file upload, and WYSIWYG summernote text editor</li><li>6+ chart libraries, and some built-in datatable libraries</li><li>W3 Validated, clean, well-commented, built with SASS, code base</li><li>Free updates for life with detailed documentation and developer assistance</li></ul>",
+        "meta": [
+          {
+            "keyword": "Veltrix React Admin Dashboard Template",
+            "description": "Veltrix React Bootstrap admin dashboard template",
+            "og-title": "Veltrix React Admin Dashboard Template",
+            "og-description": "Veltrix React Bootstrap admin dashboard template"
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Veltrix React Bootstrap admin dashboard template",
+            "name": "Veltrix React Admin Dashboard Template",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/veltrix-premium-rect.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "26",
               "priceCurrency": "USD"
             }
           }
