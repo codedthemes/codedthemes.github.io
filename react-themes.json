@@ -2085,94 +2085,6 @@
     ]
   },
   {
-    "name": "Holly",
-    "description": "",
-    "seeMoreUrl": "",
-    "products": [
-      {
-        "id": 50,
-        "create date": "23-4-2025",
-        "name": "Holly",
-        "price": 0,
-        "description": "Landing Page Template",
-        "live-url": "https://lukemcdonald.github.io/holly-react/",
-        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/holly-free-react.png",
-        "download-link": "https://github.com/lukemcdonald/holly-react",
-        "githubstar-link": "https://ghbtns.com/github-btn.html?user=lukemcdonald&repo=holly-react&type=star&count=true&size=large",
-        "categories": "React",
-        "technology-stack": ["react"],
-        "long-description": "The Holly React Template is a React-based implementation of Davide Pacilio's free landing page template. Designed specifically for startups, this template is perfect for building modern and responsive landing pages that work seamlessly across all devices.<br/><br/><b>Features –</b><br/><ul><li>Built using React for efficient and modular web development.</li><li>Optimized for mobile and desktop, ensuring great user experience on any device.</li><li>Simple installation with npm install and npm run dev for quick deployment.</li><li>Styled with TailwindCSS for fast, modern design solutions.</li><li>Uses Vite for rapid development and hot module replacement.</li></ul>",
-        "meta": [
-          {
-            "keyword": "Holly",
-            "description": "Download Holly Landing Page Template.",
-            "og-title": "Holly",
-            "og-description": "Download Holly Landing Page Template."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Download Holly Landing Page Template.",
-            "name": "Holly",
-            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/holly-free-react.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Pal.js",
-    "description": "",
-    "seeMoreUrl": "",
-    "products": [
-      {
-        "id": 51,
-        "create date": "24-4-2025",
-        "name": "Gatsby Admin Dashboard Template",
-        "price": 0,
-        "description": "Admin Dashboard Template",
-        "live-url": "https://gatsby-admin.paljs.com/",
-        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsbyadmin-free-react.png",
-        "download-link": "https://github.com/paljs/gatsby-admin-template",
-        "githubstar-link": "https://ghbtns.com/github-btn.html?user=paljs&repo=gatsby-admin-template&type=star&count=true&size=large",
-        "categories": "React",
-        "technology-stack": ["react"],
-        "long-description": "The Gatsby Admin Template is a free, open-source admin dashboard built using Gatsby, with the inclusion of the @paljs/lcomponent package. It's designed to be highly customizable and simple to use, making it ideal for developers seeking an efficient and flexible admin interface for their applications.<br/><br/><b>Features –</b><br/><ul><li>Install via GitHub repository or Docker for quick development.</li><li>Fully adaptable across all devices, ensuring seamless user experiences.</li><li>Clean and simple login page with forgot password and register options.</li><li>Includes various UI elements like accordions, actions, alerts, lists, spinners, and progress bars for building interactive interfaces.</li></ul>",
-        "meta": [
-          {
-            "keyword": "Gatsby Admin Dashboard Template",
-            "description": "Download Gatsby Admin Dashboard Template.",
-            "og-title": "Gatsby Admin Dashboard Template",
-            "og-description": "Download Gatsby Admin Dashboard Template."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Download Gatsby Admin Dashboard Template.",
-            "name": "Gatsby Admin Dashboard Template",
-            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsbyadmin-free-react.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "TryGhost",
     "description": "",
     "seeMoreUrl": "",
@@ -2205,50 +2117,6 @@
             "description": "Download Gatsby Starter Ghost.",
             "name": "Gatsby Starter Ghost",
             "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/gatsby-free-react.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Ilhammeidi",
-    "description": "",
-    "seeMoreUrl": "",
-    "products": [
-      {
-        "id": 53,
-        "create date": "24-4-2025",
-        "name": "Boss Lite",
-        "price": 0,
-        "description": "React Redux Material Admin Template",
-        "live-url": "https://boss.ux-maestro.com/app",
-        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/bossunlimted-free-react.png",
-        "download-link": "https://github.com/ilhammeidi/boss-lite",
-        "githubstar-link": "https://ghbtns.com/github-btn.html?user=ilhammeidi&repo=boss-lite&type=star&count=true&size=large",
-        "categories": "React",
-        "technology-stack": ["react"],
-        "long-description": "Boss Lite is a modern and high-performance admin dashboard template built with React and Redux. It offers a clean design and supports various color themes, making it suitable for a wide range of web applications. The template is backed by Material-UI, immutable.js, Webpack, SSR (server-side rendering), and Flexbox, ensuring flexibility and efficient development.<br/><br/><b>Features –</b><br/><ul><li>Built with React and Redux.</li><li>Google Material Design and Icons.</li><li>Data management with immutable.js.js.</li><li>High-performance SSR.</li><li>Responsive design with Flexbox.</li><li>JSS (CSS in JS) for styling.</li><li>Clean code maintained with ESLint.</li></ul>",
-        "meta": [
-          {
-            "keyword": "Boss Lite",
-            "description": "React Redux Material Admin Template.",
-            "og-title": "Boss Lite",
-            "og-description": "React Redux Material Admin Template."
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "React Redux Material Admin Template.",
-            "name": "Boss Lite",
-            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/bossunlimted-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -2554,7 +2422,7 @@
         "live-url": "https://blueprintjs.com/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/blueprint-free-react.png",
         "download-link": "https://github.com/palantir/blueprint",
-        "githubstar-link": "https://ghbtns.com/github-btn.html?user=palantir&repo=blueprint&type=star&count=true&size=large",
+        "githubstar-link": "https://ghbtns.com/github-btn.html?user=issaafalkattan&repo=react-landing-page-template-2021&type=star&count=true&size=large",
         "categories": "React",
         "technology-stack": ["react"],
         "long-description": "Blueprint is a React-based UI toolkit optimized for building complex, data-dense web interfaces, specifically designed for desktop applications running in modern browsers. While it offers rich functionality for developing advanced UIs, Blueprint is not a mobile-first toolkit. It focuses on creating robust, desktop-oriented solutions with numerous components that streamline interface development.<br/><br/><b>Features –</b><br/><ul><li>Thoroughly documented to assist developers in understanding and utilizing the toolkit effectively.</li><li>Divided into three categories of projects to support a wide range of interface-building needs.</li><li>Ensures smooth performance in modern browsers.</li></ul>",
@@ -2661,50 +2529,6 @@
             "description": "Free React Landing Page template",
             "name": "React.js landing page template",
             "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/reactlandingpagetemplate-free-react.png",
-            "offers": {
-              "type": "Offer",
-              "availability": "https://schema.org/InStock",
-              "price": "0",
-              "priceCurrency": "USD"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tidy Free",
-    "description": "",
-    "seeMoreUrl": "",
-    "products": [
-      {
-        "id": 63,
-        "create date": "12-6-2025",
-        "name": "Tidy Free - HTML, React and Vue template",
-        "price": 0,
-        "description": "Free HTML, React and Vue template",
-        "live-url": "https://freebiesbug.com/demos/tidy/",
-        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/tidy-free-react.png",
-        "download-link": "https://freebiesbug.com/code-stuff/tidy-free/",
-        "githubstar-link": "",
-        "categories": "React",
-        "technology-stack": ["react", "material-ui"],
-        "long-description": "Tidy is the Free version of a premium template created by Cruip, made available exclusively for Freebiesbug. It offers a clean and modern design, perfect for startups and businesses looking to create professional landing pages quickly.<br/><br/><b>Features –</b><br/><ul><li>Includes 2 unique landing pages and 2 authentication pages for user login.</li><li>Available in three coded variants—HTML, React, and Vue.js.</li><li>Comes with ready-to-use components like hero sections, testimonials, pricing tables, and more.</li><li>Easy integration with Google Fonts and SVG icons for customizable styling.</li><li>Ensures clear and sharp visuals on high-resolution displays.</li><li>Available for graphic designers to customize in Sketch format.</li></ul>",
-        "meta": [
-          {
-            "keyword": "Tidy Free - HTML, React and Vue template",
-            "description": "Free HTML, React and Vue template",
-            "og-title": "Tidy Free - HTML, React and Vue template",
-            "og-description": "Free HTML, React and Vue template"
-          }
-        ],
-        "schema": [
-          {
-            "context": "https://schema.org",
-            "type": "Product",
-            "description": "Free HTML, React and Vue template",
-            "name": "Tidy Free - HTML, React and Vue template",
-            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/tidy-free-react.png",
             "offers": {
               "type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -3673,7 +3497,7 @@
         ]
       },
       {
-        "id": 96,
+        "id": 50,
         "create date": "19-09-2025",
         "name": "Breeze React",
         "price": 25,
@@ -3704,6 +3528,117 @@
               "type": "Offer",
               "availability": "https://schema.org/InStock",
               "price": "25",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "create date": "26-09-2025",
+        "name": "Star Admin 2 Pro React",
+        "price": 35,
+        "description": "Star Admin 2 Pro React - a premium react dashboard template",
+        "live-url": "https://demo.bootstrapdash.com/staradmin2-pro-react/vertical-default-light/dashboards",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/staradmin-premium-react.png",
+        "download-link": "https://www.bootstrapdash.com/product/star-admin-2-pro-react",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap", "js"],
+        "long-description": "",
+        "meta": [
+          {
+            "keyword": "Star Admin 2 Pro React",
+            "description": "Star Admin 2 Pro React - a premium react dashboard template.",
+            "og-title": "Star Admin 2 Pro React",
+            "og-description": "Star Admin 2 Pro React - a premium react dashboard template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Star Admin 2 Pro React - a premium react dashboard template.",
+            "name": "Star Admin 2 Pro React",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/staradmin-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "35",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "create date": "26-09-2025",
+        "name": "Stellar Admin Pro React",
+        "price": 25,
+        "description": "Stellar Admin Pro React - a premium react dashboard template",
+        "live-url": "https://demo.bootstrapdash.com/demo/stellar-admin/react/template/demo_1/preview/dashboard",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/stellar-premium-react.png",
+        "download-link": "https://www.bootstrapdash.com/product/stellar-admin-template-react",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap", "js"],
+        "long-description": "Stellar Admin Pro React is a premium and high-speed React admin dashboard template to build responsive and scalable web applications. Stellar Admin Pro works with React, Bootstrap 5, and Redux Toolkit. It has all the essential UI components, utilities, and pages to help complete your React development quickly. It is perfect for dashboards, SaaS applications, CRM applications, and analytics pages. Stellar Admin Pro features a clean-coded and easy-to-maintain folder structure, supporting growth. Included is a premium React JS template with responsive layouts, dark and light themes, and multiple charting possibilities, giving you the power to develop complex data interfaces easily. Customizable, well-documented, and developer-friendly, starting your next React project with a professional UI doesn't have to be time-consuming.<br/><br/><b>Features –</b><br/><ul><li>React, Redux Toolkit, and Bootstrap 5-based development</li><li>Multiple layouts and dashboard versions included</li><li>Fully responsive with mobile compatibility</li><li>Light and dark theme options</li><li>Pre-built starter pages for register, login, error, etc</li><li>Interactive charts, tables, and calendars</li><li>Very clean and modular code to allow for great customisability</li><li>Fully browser compatible</li><li>Well-documented and developer-friendly</li></ul>",
+        "meta": [
+          {
+            "keyword": "Stellar Admin Pro React",
+            "description": "Stellar Admin Pro React - a premium react dashboard template.",
+            "og-title": "Stellar Admin Pro React",
+            "og-description": "Stellar Admin Pro React - a premium react dashboard template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Stellar Admin Pro React - a premium react dashboard template.",
+            "name": "Stellar Admin Pro React",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/stellar-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "25",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "create date": "26-09-2025",
+        "name": "Stellar Admin Pro React",
+        "price": 35,
+        "description": "Stellar Admin Pro React - a premium react dashboard template",
+        "live-url": "https://demo.bootstrapdash.com/star-admin-pro-react/vertical-default-light/dashboard",
+        "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/staradminpro-premium-react.png",
+        "download-link": "https://www.bootstrapdash.com/product/star-admin-pro-react",
+        "githubstar-link": "",
+        "categories": "React",
+        "technology-stack": ["react", "bootstrap", "js"],
+        "long-description": "Star Admin Pro React is a premium, fully responsive React admin dashboard template specifically created to help web application developers build apps quickly. Star Admin Pro React is built with React, Bootstrap 5, and Redux Toolkit. It features a clean and professional user interface, along with an excellent set of components for building dashboards, admin panels, CRMs, SaaS apps, and more. There are various pre-built layouts, thousands of UI widgets, and page templates available in Star Admin Pro React to help you build scalable apps without starting from nothing. Star Admin Pro React features a clean and modular codebase, making it easy to customize and build upon. This powerful React JS template consists of charts, tables, forms, calendars, and more - all built to have the same modern aesthetic!<br/><br/><b>Features –</b><br/><ul><li>Built with React, Redux Toolkit, and Bootstrap 5</li><li>Multiple pre-built dashboards with UI components and layout options <li><li>Fully responsive across all devices and browser compatibility</li><li>Provided both dark and light themes</li><li>Large set of reusable UI components and widgets </li><li>Charts, tables, forms, calendar, maps, etc included</li><li>Clean code and modular design</li><li>Authentication pages and error pages are built in </li><li>Thorough documentation with ongoing support</li></ul>",
+        "meta": [
+          {
+            "keyword": "Stellar Admin Pro React",
+            "description": "Stellar Admin Pro React - a premium react dashboard template.",
+            "og-title": "Stellar Admin Pro React",
+            "og-description": "Stellar Admin Pro React - a premium react dashboard template."
+          }
+        ],
+        "schema": [
+          {
+            "context": "https://schema.org",
+            "type": "Product",
+            "description": "Stellar Admin Pro React - a premium react dashboard template.",
+            "name": "Stellar Admin Pro React",
+            "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/react-templates/staradminpro-premium-react.png",
+            "offers": {
+              "type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "price": "35",
               "priceCurrency": "USD"
             }
           }
